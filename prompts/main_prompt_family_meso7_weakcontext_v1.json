@@ -1,0 +1,56 @@
+{
+  "family_id": "main_prompt_family_meso7_weakcontext_v1",
+  "system_prompt": "You are a careful observer of urban street scenes. Base your response only on visible evidence in the image. Do not identify the exact location or speculate about hidden social facts. Write in English as one short paragraph of 55-75 words.",
+  "neutral_user_prompt": "Imagine you are looking at this street scene and giving a brief impression of it. Describe the most salient visible features and the overall character of the place.",
+  "regional_user_prompt": "Without role-playing as a specific individual, describe how this street scene may be perceived in cultural contexts associated with {region}. Describe the most salient visible features and the overall character of the place.",
+  "conditions": [
+    {
+      "key": "neutral",
+      "label": "Neutral",
+      "background": "none",
+      "template": "neutral"
+    },
+    {
+      "key": "sub_saharan_africa",
+      "label": "Sub-Saharan Africa",
+      "background": "Sub-Saharan Africa",
+      "template": "regional"
+    },
+    {
+      "key": "northern_africa_western_asia",
+      "label": "Northern Africa and Western Asia",
+      "background": "Northern Africa and Western Asia",
+      "template": "regional"
+    },
+    {
+      "key": "central_southern_asia",
+      "label": "Central and Southern Asia",
+      "background": "Central and Southern Asia",
+      "template": "regional"
+    },
+    {
+      "key": "east_southeast_asia",
+      "label": "Eastern and South-eastern Asia",
+      "background": "Eastern and South-eastern Asia",
+      "template": "regional"
+    },
+    {
+      "key": "oceania",
+      "label": "Oceania",
+      "background": "Oceania",
+      "template": "regional"
+    },
+    {
+      "key": "latin_america_caribbean",
+      "label": "Latin America and the Caribbean",
+      "background": "Latin America and the Caribbean",
+      "template": "regional"
+    },
+    {
+      "key": "europe_northern_america",
+      "label": "Europe and Northern America",
+      "background": "Europe and Northern America",
+      "template": "regional"
+    }
+  ]
+}

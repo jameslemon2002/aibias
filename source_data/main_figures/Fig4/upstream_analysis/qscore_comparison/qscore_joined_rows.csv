@@ -1,0 +1,2865 @@
+axis,model,subgroup,dimension,Image,llm_score,n_comp,llm_score_0_10,human_score_0_10
+gender,Claude Sonnet 4,female,beautiful,14,1.0,1,10.0,1.4212454212454215
+gender,Claude Sonnet 4,female,beautiful,53,0.0,2,0.0,3.941665741665741
+gender,Claude Sonnet 4,female,beautiful,61,1.0,1,10.0,1.123456790123457
+gender,Claude Sonnet 4,female,beautiful,63,1.0,1,10.0,4.646227310700995
+gender,Claude Sonnet 4,female,beautiful,71,0.0,1,0.0,2.4450310038545338
+gender,Claude Sonnet 4,female,beautiful,96,1.0,1,10.0,5.7205127065071055
+gender,Claude Sonnet 4,female,beautiful,113,0.3333333333333333,3,3.333333333333333,1.827431827431828
+gender,Claude Sonnet 4,female,beautiful,127,0.0,1,0.0,2.53968253968254
+gender,Claude Sonnet 4,female,beautiful,144,0.0,1,0.0,2.1899438137828238
+gender,Claude Sonnet 4,female,beautiful,163,0.0,1,0.0,4.776725310007043
+gender,Claude Sonnet 4,female,beautiful,227,0.0,1,0.0,4.640547447048995
+gender,Claude Sonnet 4,female,beautiful,249,0.0,1,0.0,6.507275132275132
+gender,Claude Sonnet 4,female,beautiful,255,0.0,1,0.0,6.119212078770903
+gender,Claude Sonnet 4,female,beautiful,262,0.0,1,0.0,4.51641568308235
+gender,Claude Sonnet 4,female,beautiful,265,0.8,5,8.0,3.4395424836601305
+gender,Claude Sonnet 4,female,beautiful,304,1.0,1,10.0,6.517543859649123
+gender,Claude Sonnet 4,female,beautiful,314,0.0,1,0.0,4.651473454879028
+gender,Claude Sonnet 4,female,beautiful,319,0.5,2,5.0,4.081825037707391
+gender,Claude Sonnet 4,female,beautiful,325,1.0,1,10.0,7.404232804232804
+gender,Claude Sonnet 4,female,beautiful,328,1.0,1,10.0,8.334415803494752
+gender,Claude Sonnet 4,female,beautiful,380,1.0,1,10.0,4.311447811447812
+gender,Claude Sonnet 4,female,beautiful,391,1.0,1,10.0,7.019179894179894
+gender,Claude Sonnet 4,female,boring,12,0.0,1,0.0,3.668300653594772
+gender,Claude Sonnet 4,female,boring,18,1.0,1,10.0,4.625901875901876
+gender,Claude Sonnet 4,female,boring,35,0.0,1,0.0,5.882716049382716
+gender,Claude Sonnet 4,female,boring,36,0.5,6,5.0,4.547220571730376
+gender,Claude Sonnet 4,female,boring,74,1.0,1,10.0,6.691649581355463
+gender,Claude Sonnet 4,female,boring,142,1.0,1,10.0,7.481782106782107
+gender,Claude Sonnet 4,female,boring,144,1.0,1,10.0,3.662237762237763
+gender,Claude Sonnet 4,female,boring,145,1.0,1,10.0,3.333333333333333
+gender,Claude Sonnet 4,female,boring,149,1.0,2,10.0,8.29004329004329
+gender,Claude Sonnet 4,female,boring,172,1.0,1,10.0,6.620808540976609
+gender,Claude Sonnet 4,female,boring,189,0.0,1,0.0,6.609126984126984
+gender,Claude Sonnet 4,female,boring,199,0.0,1,0.0,6.370129870129871
+gender,Claude Sonnet 4,female,boring,262,0.0,1,0.0,4.559884559884559
+gender,Claude Sonnet 4,female,boring,307,0.0,1,0.0,5.276931401931402
+gender,Claude Sonnet 4,female,boring,326,0.0,1,0.0,1.8137254901960784
+gender,Claude Sonnet 4,female,boring,370,0.0,1,0.0,5.606724294224295
+gender,Claude Sonnet 4,female,depressing,1,1.0,2,10.0,3.6527777777777777
+gender,Claude Sonnet 4,female,depressing,13,1.0,1,10.0,4.772838272838273
+gender,Claude Sonnet 4,female,depressing,17,0.6666666666666666,3,6.666666666666666,5.304232804232805
+gender,Claude Sonnet 4,female,depressing,38,1.0,1,10.0,3.957264957264957
+gender,Claude Sonnet 4,female,depressing,55,0.0,2,0.0,2.2121489621489627
+gender,Claude Sonnet 4,female,depressing,56,0.0,1,0.0,4.084251532780945
+gender,Claude Sonnet 4,female,depressing,84,0.0,1,0.0,7.564791825821238
+gender,Claude Sonnet 4,female,depressing,95,1.0,1,10.0,4.638672438672439
+gender,Claude Sonnet 4,female,depressing,101,0.5,2,5.0,8.333333333333334
+gender,Claude Sonnet 4,female,depressing,159,0.0,1,0.0,3.7624155075135466
+gender,Claude Sonnet 4,female,depressing,207,1.0,1,10.0,2.8205128205128207
+gender,Claude Sonnet 4,female,depressing,213,0.0,2,0.0,2.944862155388471
+gender,Claude Sonnet 4,female,depressing,255,0.0,2,0.0,5.539728517669695
+gender,Claude Sonnet 4,female,depressing,309,1.0,1,10.0,6.670862470862472
+gender,Claude Sonnet 4,female,depressing,315,0.0,2,0.0,4.693083643713897
+gender,Claude Sonnet 4,female,depressing,335,1.0,1,10.0,2.8733211233211238
+gender,Claude Sonnet 4,female,depressing,360,1.0,1,10.0,1.7550505050505054
+gender,Claude Sonnet 4,female,depressing,393,0.0,1,0.0,2.9138888888888888
+gender,Claude Sonnet 4,female,depressing,394,0.0,1,0.0,4.832556332556333
+gender,Claude Sonnet 4,female,depressing,396,1.0,3,10.0,7.554455348572996
+gender,Claude Sonnet 4,female,lively,9,0.0,1,0.0,4.367802676626206
+gender,Claude Sonnet 4,female,lively,11,0.0,1,0.0,3.0662115662115665
+gender,Claude Sonnet 4,female,lively,23,0.3333333333333333,3,3.333333333333333,7.897435897435898
+gender,Claude Sonnet 4,female,lively,39,0.0,1,0.0,1.4814814814814814
+gender,Claude Sonnet 4,female,lively,70,0.0,1,0.0,4.575800016976488
+gender,Claude Sonnet 4,female,lively,166,0.0,1,0.0,4.771241830065359
+gender,Claude Sonnet 4,female,lively,219,0.0,1,0.0,5.544231367760779
+gender,Claude Sonnet 4,female,lively,270,0.0,2,0.0,4.356828084769261
+gender,Claude Sonnet 4,female,lively,271,0.0,1,0.0,2.71968401968402
+gender,Claude Sonnet 4,female,lively,317,0.0,1,0.0,2.3194444444444446
+gender,Claude Sonnet 4,female,lively,323,1.0,1,10.0,6.968660968660968
+gender,Claude Sonnet 4,female,lively,325,1.0,1,10.0,6.623794506147448
+gender,Claude Sonnet 4,female,lively,326,0.8571428571428571,7,8.571428571428571,6.795609483109484
+gender,Claude Sonnet 4,female,lively,328,0.0,1,0.0,5.481481481481482
+gender,Claude Sonnet 4,female,lively,331,1.0,1,10.0,4.326007326007327
+gender,Claude Sonnet 4,female,lively,345,1.0,1,10.0,4.990818549642079
+gender,Claude Sonnet 4,female,lively,375,0.6666666666666666,3,6.666666666666666,4.376728878276866
+gender,Claude Sonnet 4,female,lively,383,1.0,1,10.0,4.683242683242684
+gender,Claude Sonnet 4,female,lively,386,1.0,1,10.0,8.702330077330076
+gender,Claude Sonnet 4,female,safe,21,0.0,1,0.0,4.268086080586081
+gender,Claude Sonnet 4,female,safe,59,0.0,1,0.0,4.702342047930284
+gender,Claude Sonnet 4,female,safe,87,1.0,1,10.0,6.030766327510025
+gender,Claude Sonnet 4,female,safe,112,0.0,1,0.0,6.609848484848485
+gender,Claude Sonnet 4,female,safe,121,0.0,1,0.0,6.2174324700640495
+gender,Claude Sonnet 4,female,safe,159,0.0,1,0.0,4.57977207977208
+gender,Claude Sonnet 4,female,safe,161,0.0,1,0.0,6.134196413608179
+gender,Claude Sonnet 4,female,safe,194,0.0,1,0.0,5.682539682539683
+gender,Claude Sonnet 4,female,safe,201,0.5,4,5.0,1.111111111111111
+gender,Claude Sonnet 4,female,safe,210,0.5714285714285714,7,5.7142857142857135,3.285984848484848
+gender,Claude Sonnet 4,female,safe,211,1.0,2,10.0,6.690917107583774
+gender,Claude Sonnet 4,female,safe,222,0.0,1,0.0,3.6640211640211646
+gender,Claude Sonnet 4,female,safe,271,1.0,1,10.0,4.666428641209343
+gender,Claude Sonnet 4,female,safe,297,0.0,1,0.0,4.510242843576177
+gender,Claude Sonnet 4,female,safe,300,0.0,1,0.0,2.7263939763939766
+gender,Claude Sonnet 4,female,safe,339,1.0,2,10.0,3.525493025493026
+gender,Claude Sonnet 4,female,safe,365,1.0,1,10.0,7.219449723209121
+gender,Claude Sonnet 4,female,safe,367,1.0,1,10.0,5.467032967032967
+gender,Claude Sonnet 4,female,safe,380,1.0,1,10.0,6.625199419317067
+gender,Claude Sonnet 4,female,wealthy,6,0.0,2,0.0,5.012961915535445
+gender,Claude Sonnet 4,female,wealthy,80,0.0,4,0.0,2.5967261904761907
+gender,Claude Sonnet 4,female,wealthy,82,0.0,1,0.0,3.946543709701604
+gender,Claude Sonnet 4,female,wealthy,87,1.0,1,10.0,5.925019425019426
+gender,Claude Sonnet 4,female,wealthy,148,0.0,1,0.0,2.739686330372605
+gender,Claude Sonnet 4,female,wealthy,150,0.0,1,0.0,5.442990123911176
+gender,Claude Sonnet 4,female,wealthy,168,1.0,1,10.0,1.5121452621452622
+gender,Claude Sonnet 4,female,wealthy,173,1.0,1,10.0,3.209876543209877
+gender,Claude Sonnet 4,female,wealthy,175,0.5,2,5.0,6.805555555555555
+gender,Claude Sonnet 4,female,wealthy,204,0.3333333333333333,3,3.333333333333333,2.301587301587302
+gender,Claude Sonnet 4,female,wealthy,242,1.0,1,10.0,6.098290598290598
+gender,Claude Sonnet 4,female,wealthy,244,0.5,2,5.0,3.946449792038027
+gender,Claude Sonnet 4,female,wealthy,249,1.0,1,10.0,3.210526315789474
+gender,Claude Sonnet 4,female,wealthy,284,0.0,1,0.0,1.9000120250120252
+gender,Claude Sonnet 4,female,wealthy,309,1.0,1,10.0,6.468660968660968
+gender,Claude Sonnet 4,female,wealthy,321,1.0,1,10.0,6.811868686868687
+gender,Claude Sonnet 4,female,wealthy,345,1.0,1,10.0,6.632682132682132
+gender,Claude Sonnet 4,female,wealthy,348,1.0,1,10.0,5.72065962932836
+gender,Claude Sonnet 4,female,wealthy,368,1.0,2,10.0,6.561771561771562
+gender,Claude Sonnet 4,female,wealthy,373,0.0,1,0.0,3.9550865800865806
+gender,Claude Sonnet 4,female,wealthy,384,1.0,1,10.0,6.589922758401019
+gender,Claude Sonnet 4,male,beautiful,14,1.0,1,10.0,3.263532763532764
+gender,Claude Sonnet 4,male,beautiful,53,0.0,2,0.0,0.0
+gender,Claude Sonnet 4,male,beautiful,61,0.0,1,0.0,4.263888888888889
+gender,Claude Sonnet 4,male,beautiful,63,1.0,1,10.0,2.147712418300653
+gender,Claude Sonnet 4,male,beautiful,71,0.0,1,0.0,5.4414877061935885
+gender,Claude Sonnet 4,male,beautiful,96,1.0,1,10.0,2.9642857142857144
+gender,Claude Sonnet 4,male,beautiful,113,0.3333333333333333,3,3.333333333333333,5.082264957264958
+gender,Claude Sonnet 4,male,beautiful,127,0.0,1,0.0,5.830009496676164
+gender,Claude Sonnet 4,male,beautiful,144,0.0,1,0.0,4.605946830946832
+gender,Claude Sonnet 4,male,beautiful,163,0.0,1,0.0,2.7272727272727275
+gender,Claude Sonnet 4,male,beautiful,227,0.0,1,0.0,3.4674758792405846
+gender,Claude Sonnet 4,male,beautiful,249,0.0,1,0.0,5.208603125269792
+gender,Claude Sonnet 4,male,beautiful,255,0.0,1,0.0,4.88949013949014
+gender,Claude Sonnet 4,male,beautiful,262,0.0,1,0.0,8.141654641654641
+gender,Claude Sonnet 4,male,beautiful,265,0.8,5,8.0,7.807539682539683
+gender,Claude Sonnet 4,male,beautiful,304,1.0,1,10.0,3.799692682045624
+gender,Claude Sonnet 4,male,beautiful,314,0.0,1,0.0,2.2392607392607395
+gender,Claude Sonnet 4,male,beautiful,319,1.0,2,10.0,1.7522467320261437
+gender,Claude Sonnet 4,male,beautiful,325,1.0,1,10.0,5.215455840455841
+gender,Claude Sonnet 4,male,beautiful,328,1.0,1,10.0,7.368714618714618
+gender,Claude Sonnet 4,male,beautiful,380,1.0,1,10.0,7.392592592592594
+gender,Claude Sonnet 4,male,beautiful,391,1.0,1,10.0,4.4444444444444455
+gender,Claude Sonnet 4,male,boring,18,1.0,1,10.0,8.181818181818182
+gender,Claude Sonnet 4,male,boring,36,0.0,1,0.0,8.333333333333334
+gender,Claude Sonnet 4,male,boring,74,1.0,1,10.0,4.307692307692308
+gender,Claude Sonnet 4,male,boring,142,1.0,1,10.0,4.769244826810616
+gender,Claude Sonnet 4,male,boring,145,1.0,1,10.0,6.666666666666667
+gender,Claude Sonnet 4,male,boring,262,0.0,1,0.0,1.760905760905761
+gender,Claude Sonnet 4,male,boring,326,0.0,1,0.0,4.982467532467533
+gender,Claude Sonnet 4,male,boring,370,0.0,1,0.0,3.810673453530596
+gender,Claude Sonnet 4,male,depressing,1,1.0,1,10.0,6.774891774891776
+gender,Claude Sonnet 4,male,depressing,13,1.0,1,10.0,7.84873949579832
+gender,Claude Sonnet 4,male,depressing,17,1.0,2,10.0,1.768138036713888
+gender,Claude Sonnet 4,male,depressing,38,1.0,1,10.0,7.353944501777319
+gender,Claude Sonnet 4,male,depressing,55,0.0,2,0.0,5.601851851851851
+gender,Claude Sonnet 4,male,depressing,56,0.0,1,0.0,6.39358660130719
+gender,Claude Sonnet 4,male,depressing,84,0.0,1,0.0,5.128268722018722
+gender,Claude Sonnet 4,male,depressing,101,0.0,1,0.0,4.512820512820514
+gender,Claude Sonnet 4,male,depressing,159,0.0,1,0.0,5.914102564102564
+gender,Claude Sonnet 4,male,depressing,207,1.0,1,10.0,5.249125874125874
+gender,Claude Sonnet 4,male,depressing,213,0.0,1,0.0,5.678266178266179
+gender,Claude Sonnet 4,male,depressing,255,0.0,1,0.0,1.6597222222222223
+gender,Claude Sonnet 4,male,depressing,309,1.0,1,10.0,4.525161113396408
+gender,Claude Sonnet 4,male,depressing,315,0.0,1,0.0,1.5652173913043477
+gender,Claude Sonnet 4,male,depressing,335,1.0,1,10.0,5.498338081671416
+gender,Claude Sonnet 4,male,depressing,393,0.0,1,0.0,5.320975320975321
+gender,Claude Sonnet 4,male,depressing,394,0.0,1,0.0,1.2921626984126982
+gender,Claude Sonnet 4,male,depressing,396,1.0,3,10.0,3.8873106060606064
+gender,Claude Sonnet 4,male,lively,9,0.0,1,0.0,5.9773024361259655
+gender,Claude Sonnet 4,male,lively,11,0.0,1,0.0,4.836525505780164
+gender,Claude Sonnet 4,male,lively,23,0.3333333333333333,3,3.333333333333333,3.4780701754385968
+gender,Claude Sonnet 4,male,lively,39,0.0,1,0.0,3.5287831077304763
+gender,Claude Sonnet 4,male,lively,70,0.0,1,0.0,6.030589293747188
+gender,Claude Sonnet 4,male,lively,166,0.0,1,0.0,4.0373677248677255
+gender,Claude Sonnet 4,male,lively,219,0.0,1,0.0,3.951853701853702
+gender,Claude Sonnet 4,male,lively,270,0.0,2,0.0,7.155423280423281
+gender,Claude Sonnet 4,male,lively,271,0.0,1,0.0,5.944444444444445
+gender,Claude Sonnet 4,male,lively,317,0.0,1,0.0,4.592518048400402
+gender,Claude Sonnet 4,male,lively,323,1.0,1,10.0,6.129464285714286
+gender,Claude Sonnet 4,male,lively,325,1.0,1,10.0,4.332477435418612
+gender,Claude Sonnet 4,male,lively,326,0.8571428571428571,7,8.571428571428571,3.0370370370370368
+gender,Claude Sonnet 4,male,lively,328,0.0,1,0.0,6.255180005180005
+gender,Claude Sonnet 4,male,lively,331,1.0,1,10.0,6.151062753036437
+gender,Claude Sonnet 4,male,lively,345,1.0,1,10.0,5.867063492063492
+gender,Claude Sonnet 4,male,lively,375,0.6666666666666666,3,6.666666666666666,8.833333333333334
+gender,Claude Sonnet 4,male,lively,383,1.0,1,10.0,7.385569985569986
+gender,Claude Sonnet 4,male,lively,386,1.0,1,10.0,6.159791551948415
+gender,Claude Sonnet 4,male,safe,21,0.0,1,0.0,2.451515151515152
+gender,Claude Sonnet 4,male,safe,59,0.0,1,0.0,3.813439719322072
+gender,Claude Sonnet 4,male,safe,112,0.0,1,0.0,4.814814814814815
+gender,Claude Sonnet 4,male,safe,121,0.0,1,0.0,4.549195017945018
+gender,Claude Sonnet 4,male,safe,161,1.0,1,10.0,5.01480774127833
+gender,Claude Sonnet 4,male,safe,194,0.0,1,0.0,3.959087481146305
+gender,Claude Sonnet 4,male,safe,201,0.5,4,5.0,5.491363211951447
+gender,Claude Sonnet 4,male,safe,210,0.4,5,4.0,8.333333333333334
+gender,Claude Sonnet 4,male,safe,211,1.0,2,10.0,4.083333333333334
+gender,Claude Sonnet 4,male,safe,222,0.0,1,0.0,6.980392156862746
+gender,Claude Sonnet 4,male,safe,271,1.0,1,10.0,3.360084703737954
+gender,Claude Sonnet 4,male,safe,297,0.0,1,0.0,3.071597591721431
+gender,Claude Sonnet 4,male,safe,300,0.0,1,0.0,6.851851851851851
+gender,Claude Sonnet 4,male,safe,339,1.0,2,10.0,7.635327635327635
+gender,Claude Sonnet 4,male,safe,365,1.0,1,10.0,5.207961972667856
+gender,Claude Sonnet 4,male,safe,367,1.0,1,10.0,4.068579568579568
+gender,Claude Sonnet 4,male,safe,380,1.0,1,10.0,5.517013269954447
+gender,Claude Sonnet 4,male,wealthy,6,0.0,2,0.0,2.757208840542174
+gender,Claude Sonnet 4,male,wealthy,80,0.0,4,0.0,6.163084215167549
+gender,Claude Sonnet 4,male,wealthy,82,0.0,1,0.0,1.3378442545109213
+gender,Claude Sonnet 4,male,wealthy,87,1.0,1,10.0,4.643874643874644
+gender,Claude Sonnet 4,male,wealthy,148,0.0,1,0.0,5.5911680911680905
+gender,Claude Sonnet 4,male,wealthy,150,0.0,1,0.0,3.3179632867132867
+gender,Claude Sonnet 4,male,wealthy,168,1.0,1,10.0,4.75053718068424
+gender,Claude Sonnet 4,male,wealthy,173,1.0,1,10.0,5.703537217856104
+gender,Claude Sonnet 4,male,wealthy,175,0.5,2,5.0,3.965864823007681
+gender,Claude Sonnet 4,male,wealthy,204,0.3333333333333333,3,3.333333333333333,5.991582491582491
+gender,Claude Sonnet 4,male,wealthy,242,1.0,1,10.0,3.590643274853801
+gender,Claude Sonnet 4,male,wealthy,244,0.5,2,5.0,6.662745098039216
+gender,Claude Sonnet 4,male,wealthy,249,1.0,1,10.0,6.306402808036794
+gender,Claude Sonnet 4,male,wealthy,284,0.0,1,0.0,4.678293928293928
+gender,Claude Sonnet 4,male,wealthy,309,1.0,1,10.0,4.787179487179487
+gender,Claude Sonnet 4,male,wealthy,321,1.0,1,10.0,4.652243589743589
+gender,Claude Sonnet 4,male,wealthy,345,1.0,1,10.0,3.9459959067802206
+gender,Claude Sonnet 4,male,wealthy,348,1.0,1,10.0,3.458333333333334
+gender,Claude Sonnet 4,male,wealthy,368,1.0,2,10.0,4.252645502645502
+gender,Claude Sonnet 4,male,wealthy,373,0.0,1,0.0,7.0651515151515145
+gender,Claude Sonnet 4,male,wealthy,384,1.0,1,10.0,5.03254357298475
+gender,Gemini 2.5 Flash,female,beautiful,14,1.0,1,10.0,1.4212454212454215
+gender,Gemini 2.5 Flash,female,beautiful,53,0.0,2,0.0,3.941665741665741
+gender,Gemini 2.5 Flash,female,beautiful,61,1.0,1,10.0,1.123456790123457
+gender,Gemini 2.5 Flash,female,beautiful,63,1.0,1,10.0,4.646227310700995
+gender,Gemini 2.5 Flash,female,beautiful,71,0.0,1,0.0,2.4450310038545338
+gender,Gemini 2.5 Flash,female,beautiful,96,1.0,1,10.0,5.7205127065071055
+gender,Gemini 2.5 Flash,female,beautiful,113,0.3333333333333333,3,3.333333333333333,1.827431827431828
+gender,Gemini 2.5 Flash,female,beautiful,127,0.0,1,0.0,2.53968253968254
+gender,Gemini 2.5 Flash,female,beautiful,144,0.0,1,0.0,2.1899438137828238
+gender,Gemini 2.5 Flash,female,beautiful,163,1.0,1,10.0,4.776725310007043
+gender,Gemini 2.5 Flash,female,beautiful,227,0.0,1,0.0,4.640547447048995
+gender,Gemini 2.5 Flash,female,beautiful,249,0.0,1,0.0,6.507275132275132
+gender,Gemini 2.5 Flash,female,beautiful,255,1.0,1,10.0,6.119212078770903
+gender,Gemini 2.5 Flash,female,beautiful,262,0.0,1,0.0,4.51641568308235
+gender,Gemini 2.5 Flash,female,beautiful,265,0.4,5,4.0,3.4395424836601305
+gender,Gemini 2.5 Flash,female,beautiful,304,1.0,1,10.0,6.517543859649123
+gender,Gemini 2.5 Flash,female,beautiful,314,0.0,1,0.0,4.651473454879028
+gender,Gemini 2.5 Flash,female,beautiful,319,0.5,2,5.0,4.081825037707391
+gender,Gemini 2.5 Flash,female,beautiful,325,1.0,1,10.0,7.404232804232804
+gender,Gemini 2.5 Flash,female,beautiful,328,1.0,1,10.0,8.334415803494752
+gender,Gemini 2.5 Flash,female,beautiful,380,1.0,1,10.0,4.311447811447812
+gender,Gemini 2.5 Flash,female,beautiful,391,1.0,1,10.0,7.019179894179894
+gender,Gemini 2.5 Flash,female,boring,12,0.0,1,0.0,3.668300653594772
+gender,Gemini 2.5 Flash,female,boring,18,0.0,1,0.0,4.625901875901876
+gender,Gemini 2.5 Flash,female,boring,35,1.0,1,10.0,5.882716049382716
+gender,Gemini 2.5 Flash,female,boring,36,0.16666666666666666,6,1.6666666666666665,4.547220571730376
+gender,Gemini 2.5 Flash,female,boring,74,1.0,1,10.0,6.691649581355463
+gender,Gemini 2.5 Flash,female,boring,142,1.0,1,10.0,7.481782106782107
+gender,Gemini 2.5 Flash,female,boring,144,1.0,1,10.0,3.662237762237763
+gender,Gemini 2.5 Flash,female,boring,145,1.0,1,10.0,3.333333333333333
+gender,Gemini 2.5 Flash,female,boring,149,1.0,5,10.0,8.29004329004329
+gender,Gemini 2.5 Flash,female,boring,172,1.0,1,10.0,6.620808540976609
+gender,Gemini 2.5 Flash,female,boring,177,0.0,1,0.0,4.822029822029823
+gender,Gemini 2.5 Flash,female,boring,184,0.0,1,0.0,4.640822140822141
+gender,Gemini 2.5 Flash,female,boring,189,1.0,1,10.0,6.609126984126984
+gender,Gemini 2.5 Flash,female,boring,199,0.0,1,0.0,6.370129870129871
+gender,Gemini 2.5 Flash,female,boring,206,0.0,1,0.0,4.817821067821068
+gender,Gemini 2.5 Flash,female,boring,262,0.5,2,5.0,4.559884559884559
+gender,Gemini 2.5 Flash,female,boring,307,0.0,1,0.0,5.276931401931402
+gender,Gemini 2.5 Flash,female,boring,326,0.0,1,0.0,1.8137254901960784
+gender,Gemini 2.5 Flash,female,boring,348,0.0,1,0.0,3.5390317743258923
+gender,Gemini 2.5 Flash,female,boring,370,1.0,1,10.0,5.606724294224295
+gender,Gemini 2.5 Flash,female,depressing,1,1.0,2,10.0,3.6527777777777777
+gender,Gemini 2.5 Flash,female,depressing,13,1.0,1,10.0,4.772838272838273
+gender,Gemini 2.5 Flash,female,depressing,17,0.5,3,5.0,5.304232804232805
+gender,Gemini 2.5 Flash,female,depressing,38,0.0,1,0.0,3.957264957264957
+gender,Gemini 2.5 Flash,female,depressing,55,0.75,2,7.5,2.2121489621489627
+gender,Gemini 2.5 Flash,female,depressing,56,0.0,1,0.0,4.084251532780945
+gender,Gemini 2.5 Flash,female,depressing,84,0.0,1,0.0,7.564791825821238
+gender,Gemini 2.5 Flash,female,depressing,95,1.0,1,10.0,4.638672438672439
+gender,Gemini 2.5 Flash,female,depressing,101,0.25,2,2.5,8.333333333333334
+gender,Gemini 2.5 Flash,female,depressing,159,0.0,1,0.0,3.7624155075135466
+gender,Gemini 2.5 Flash,female,depressing,207,1.0,1,10.0,2.8205128205128207
+gender,Gemini 2.5 Flash,female,depressing,213,0.25,2,2.5,2.944862155388471
+gender,Gemini 2.5 Flash,female,depressing,255,0.5,2,5.0,5.539728517669695
+gender,Gemini 2.5 Flash,female,depressing,309,0.0,1,0.0,6.670862470862472
+gender,Gemini 2.5 Flash,female,depressing,315,0.0,2,0.0,4.693083643713897
+gender,Gemini 2.5 Flash,female,depressing,335,1.0,1,10.0,2.8733211233211238
+gender,Gemini 2.5 Flash,female,depressing,360,1.0,1,10.0,1.7550505050505054
+gender,Gemini 2.5 Flash,female,depressing,393,0.0,1,0.0,2.9138888888888888
+gender,Gemini 2.5 Flash,female,depressing,394,0.0,1,0.0,4.832556332556333
+gender,Gemini 2.5 Flash,female,depressing,396,1.0,3,10.0,7.554455348572996
+gender,Gemini 2.5 Flash,female,lively,9,1.0,1,10.0,4.367802676626206
+gender,Gemini 2.5 Flash,female,lively,11,1.0,1,10.0,3.0662115662115665
+gender,Gemini 2.5 Flash,female,lively,23,0.6666666666666666,3,6.666666666666666,7.897435897435898
+gender,Gemini 2.5 Flash,female,lively,39,0.0,1,0.0,1.4814814814814814
+gender,Gemini 2.5 Flash,female,lively,70,1.0,1,10.0,4.575800016976488
+gender,Gemini 2.5 Flash,female,lively,166,0.0,1,0.0,4.771241830065359
+gender,Gemini 2.5 Flash,female,lively,219,0.0,1,0.0,5.544231367760779
+gender,Gemini 2.5 Flash,female,lively,270,0.0,2,0.0,4.356828084769261
+gender,Gemini 2.5 Flash,female,lively,271,0.0,1,0.0,2.71968401968402
+gender,Gemini 2.5 Flash,female,lively,317,0.0,1,0.0,2.3194444444444446
+gender,Gemini 2.5 Flash,female,lively,323,1.0,1,10.0,6.968660968660968
+gender,Gemini 2.5 Flash,female,lively,325,1.0,1,10.0,6.623794506147448
+gender,Gemini 2.5 Flash,female,lively,326,0.5714285714285714,7,5.7142857142857135,6.795609483109484
+gender,Gemini 2.5 Flash,female,lively,328,0.0,1,0.0,5.481481481481482
+gender,Gemini 2.5 Flash,female,lively,331,1.0,1,10.0,4.326007326007327
+gender,Gemini 2.5 Flash,female,lively,345,0.0,1,0.0,4.990818549642079
+gender,Gemini 2.5 Flash,female,lively,375,0.6666666666666666,3,6.666666666666666,4.376728878276866
+gender,Gemini 2.5 Flash,female,lively,383,0.0,1,0.0,4.683242683242684
+gender,Gemini 2.5 Flash,female,lively,386,1.0,1,10.0,8.702330077330076
+gender,Gemini 2.5 Flash,female,safe,21,0.0,1,0.0,4.268086080586081
+gender,Gemini 2.5 Flash,female,safe,59,0.0,1,0.0,4.702342047930284
+gender,Gemini 2.5 Flash,female,safe,87,1.0,1,10.0,6.030766327510025
+gender,Gemini 2.5 Flash,female,safe,112,0.0,1,0.0,6.609848484848485
+gender,Gemini 2.5 Flash,female,safe,121,0.0,1,0.0,6.2174324700640495
+gender,Gemini 2.5 Flash,female,safe,159,1.0,1,10.0,4.57977207977208
+gender,Gemini 2.5 Flash,female,safe,161,1.0,1,10.0,6.134196413608179
+gender,Gemini 2.5 Flash,female,safe,194,0.0,1,0.0,5.682539682539683
+gender,Gemini 2.5 Flash,female,safe,201,0.5,4,5.0,1.111111111111111
+gender,Gemini 2.5 Flash,female,safe,210,0.2857142857142857,7,2.8571428571428568,3.285984848484848
+gender,Gemini 2.5 Flash,female,safe,211,0.5,2,5.0,6.690917107583774
+gender,Gemini 2.5 Flash,female,safe,222,1.0,1,10.0,3.6640211640211646
+gender,Gemini 2.5 Flash,female,safe,271,1.0,1,10.0,4.666428641209343
+gender,Gemini 2.5 Flash,female,safe,297,0.0,1,0.0,4.510242843576177
+gender,Gemini 2.5 Flash,female,safe,300,0.0,1,0.0,2.7263939763939766
+gender,Gemini 2.5 Flash,female,safe,339,1.0,2,10.0,3.525493025493026
+gender,Gemini 2.5 Flash,female,safe,365,1.0,1,10.0,7.219449723209121
+gender,Gemini 2.5 Flash,female,safe,367,1.0,1,10.0,5.467032967032967
+gender,Gemini 2.5 Flash,female,safe,380,1.0,1,10.0,6.625199419317067
+gender,Gemini 2.5 Flash,female,wealthy,6,0.0,2,0.0,5.012961915535445
+gender,Gemini 2.5 Flash,female,wealthy,80,0.0,4,0.0,2.5967261904761907
+gender,Gemini 2.5 Flash,female,wealthy,82,0.0,1,0.0,3.946543709701604
+gender,Gemini 2.5 Flash,female,wealthy,87,1.0,1,10.0,5.925019425019426
+gender,Gemini 2.5 Flash,female,wealthy,148,1.0,1,10.0,2.739686330372605
+gender,Gemini 2.5 Flash,female,wealthy,150,0.0,1,0.0,5.442990123911176
+gender,Gemini 2.5 Flash,female,wealthy,168,1.0,1,10.0,1.5121452621452622
+gender,Gemini 2.5 Flash,female,wealthy,173,1.0,1,10.0,3.209876543209877
+gender,Gemini 2.5 Flash,female,wealthy,175,0.0,2,0.0,6.805555555555555
+gender,Gemini 2.5 Flash,female,wealthy,204,0.3333333333333333,3,3.333333333333333,2.301587301587302
+gender,Gemini 2.5 Flash,female,wealthy,242,1.0,1,10.0,6.098290598290598
+gender,Gemini 2.5 Flash,female,wealthy,244,1.0,2,10.0,3.946449792038027
+gender,Gemini 2.5 Flash,female,wealthy,249,1.0,1,10.0,3.210526315789474
+gender,Gemini 2.5 Flash,female,wealthy,284,0.0,1,0.0,1.9000120250120252
+gender,Gemini 2.5 Flash,female,wealthy,309,1.0,1,10.0,6.468660968660968
+gender,Gemini 2.5 Flash,female,wealthy,321,1.0,1,10.0,6.811868686868687
+gender,Gemini 2.5 Flash,female,wealthy,345,1.0,1,10.0,6.632682132682132
+gender,Gemini 2.5 Flash,female,wealthy,348,1.0,1,10.0,5.72065962932836
+gender,Gemini 2.5 Flash,female,wealthy,368,0.5,2,5.0,6.561771561771562
+gender,Gemini 2.5 Flash,female,wealthy,373,0.0,1,0.0,3.9550865800865806
+gender,Gemini 2.5 Flash,female,wealthy,384,1.0,1,10.0,6.589922758401019
+gender,Gemini 2.5 Flash,male,beautiful,14,0.5,1,5.0,3.263532763532764
+gender,Gemini 2.5 Flash,male,beautiful,53,0.25,2,2.5,0.0
+gender,Gemini 2.5 Flash,male,beautiful,61,1.0,1,10.0,4.263888888888889
+gender,Gemini 2.5 Flash,male,beautiful,63,0.5,1,5.0,2.147712418300653
+gender,Gemini 2.5 Flash,male,beautiful,71,0.0,1,0.0,5.4414877061935885
+gender,Gemini 2.5 Flash,male,beautiful,96,1.0,1,10.0,2.9642857142857144
+gender,Gemini 2.5 Flash,male,beautiful,113,0.3333333333333333,3,3.333333333333333,5.082264957264958
+gender,Gemini 2.5 Flash,male,beautiful,127,0.5,1,5.0,5.830009496676164
+gender,Gemini 2.5 Flash,male,beautiful,144,0.0,1,0.0,4.605946830946832
+gender,Gemini 2.5 Flash,male,beautiful,163,0.5,1,5.0,2.7272727272727275
+gender,Gemini 2.5 Flash,male,beautiful,227,0.0,1,0.0,3.4674758792405846
+gender,Gemini 2.5 Flash,male,beautiful,249,0.5,1,5.0,5.208603125269792
+gender,Gemini 2.5 Flash,male,beautiful,255,0.5,1,5.0,4.88949013949014
+gender,Gemini 2.5 Flash,male,beautiful,262,1.0,1,10.0,8.141654641654641
+gender,Gemini 2.5 Flash,male,beautiful,265,0.5,5,5.0,7.807539682539683
+gender,Gemini 2.5 Flash,male,beautiful,304,0.0,1,0.0,3.799692682045624
+gender,Gemini 2.5 Flash,male,beautiful,314,0.0,1,0.0,2.2392607392607395
+gender,Gemini 2.5 Flash,male,beautiful,319,0.5,2,5.0,1.7522467320261437
+gender,Gemini 2.5 Flash,male,beautiful,325,1.0,1,10.0,5.215455840455841
+gender,Gemini 2.5 Flash,male,beautiful,328,1.0,1,10.0,7.368714618714618
+gender,Gemini 2.5 Flash,male,beautiful,380,1.0,1,10.0,7.392592592592594
+gender,Gemini 2.5 Flash,male,beautiful,391,1.0,1,10.0,4.4444444444444455
+gender,Gemini 2.5 Flash,male,boring,12,0.0,1,0.0,4.871246297562087
+gender,Gemini 2.5 Flash,male,boring,18,1.0,1,10.0,8.181818181818182
+gender,Gemini 2.5 Flash,male,boring,35,1.0,1,10.0,3.269348081112787
+gender,Gemini 2.5 Flash,male,boring,36,0.16666666666666666,6,1.6666666666666665,8.333333333333334
+gender,Gemini 2.5 Flash,male,boring,74,1.0,1,10.0,4.307692307692308
+gender,Gemini 2.5 Flash,male,boring,142,1.0,1,10.0,4.769244826810616
+gender,Gemini 2.5 Flash,male,boring,144,1.0,1,10.0,6.53239000278474
+gender,Gemini 2.5 Flash,male,boring,145,1.0,1,10.0,6.666666666666667
+gender,Gemini 2.5 Flash,male,boring,149,0.9,5,9.0,4.21289468328942
+gender,Gemini 2.5 Flash,male,boring,172,1.0,1,10.0,4.382763826778274
+gender,Gemini 2.5 Flash,male,boring,177,0.0,1,0.0,6.420129162776222
+gender,Gemini 2.5 Flash,male,boring,184,0.0,1,0.0,6.162944807552652
+gender,Gemini 2.5 Flash,male,boring,189,0.0,1,0.0,3.8623737373737375
+gender,Gemini 2.5 Flash,male,boring,199,0.0,1,0.0,3.841540404040404
+gender,Gemini 2.5 Flash,male,boring,206,0.5,1,5.0,6.604938271604938
+gender,Gemini 2.5 Flash,male,boring,262,0.0,2,0.0,1.760905760905761
+gender,Gemini 2.5 Flash,male,boring,307,1.0,1,10.0,3.6387987012987018
+gender,Gemini 2.5 Flash,male,boring,326,0.0,1,0.0,4.982467532467533
+gender,Gemini 2.5 Flash,male,boring,348,1.0,1,10.0,5.852441350613866
+gender,Gemini 2.5 Flash,male,boring,370,0.0,1,0.0,3.810673453530596
+gender,Gemini 2.5 Flash,male,depressing,1,0.75,2,7.5,6.774891774891776
+gender,Gemini 2.5 Flash,male,depressing,13,1.0,1,10.0,7.84873949579832
+gender,Gemini 2.5 Flash,male,depressing,17,0.3333333333333333,3,3.333333333333333,1.768138036713888
+gender,Gemini 2.5 Flash,male,depressing,38,0.0,1,0.0,7.353944501777319
+gender,Gemini 2.5 Flash,male,depressing,55,0.75,2,7.5,5.601851851851851
+gender,Gemini 2.5 Flash,male,depressing,56,0.0,1,0.0,6.39358660130719
+gender,Gemini 2.5 Flash,male,depressing,84,0.0,1,0.0,5.128268722018722
+gender,Gemini 2.5 Flash,male,depressing,95,1.0,1,10.0,6.511904761904762
+gender,Gemini 2.5 Flash,male,depressing,101,0.25,2,2.5,4.512820512820514
+gender,Gemini 2.5 Flash,male,depressing,159,0.0,1,0.0,5.914102564102564
+gender,Gemini 2.5 Flash,male,depressing,207,1.0,1,10.0,5.249125874125874
+gender,Gemini 2.5 Flash,male,depressing,213,0.75,2,7.5,5.678266178266179
+gender,Gemini 2.5 Flash,male,depressing,255,0.5,2,5.0,1.6597222222222223
+gender,Gemini 2.5 Flash,male,depressing,309,0.0,1,0.0,4.525161113396408
+gender,Gemini 2.5 Flash,male,depressing,315,0.0,2,0.0,1.5652173913043477
+gender,Gemini 2.5 Flash,male,depressing,335,1.0,1,10.0,5.498338081671416
+gender,Gemini 2.5 Flash,male,depressing,360,1.0,1,10.0,4.078572882144311
+gender,Gemini 2.5 Flash,male,depressing,393,0.0,1,0.0,5.320975320975321
+gender,Gemini 2.5 Flash,male,depressing,394,0.0,1,0.0,1.2921626984126982
+gender,Gemini 2.5 Flash,male,depressing,396,1.0,3,10.0,3.8873106060606064
+gender,Gemini 2.5 Flash,male,lively,9,1.0,1,10.0,5.9773024361259655
+gender,Gemini 2.5 Flash,male,lively,11,1.0,1,10.0,4.836525505780164
+gender,Gemini 2.5 Flash,male,lively,23,0.6666666666666666,3,6.666666666666666,3.4780701754385968
+gender,Gemini 2.5 Flash,male,lively,39,0.0,1,0.0,3.5287831077304763
+gender,Gemini 2.5 Flash,male,lively,70,1.0,1,10.0,6.030589293747188
+gender,Gemini 2.5 Flash,male,lively,166,0.0,1,0.0,4.0373677248677255
+gender,Gemini 2.5 Flash,male,lively,219,0.0,1,0.0,3.951853701853702
+gender,Gemini 2.5 Flash,male,lively,270,0.0,2,0.0,7.155423280423281
+gender,Gemini 2.5 Flash,male,lively,271,0.0,1,0.0,5.944444444444445
+gender,Gemini 2.5 Flash,male,lively,317,0.0,1,0.0,4.592518048400402
+gender,Gemini 2.5 Flash,male,lively,323,1.0,1,10.0,6.129464285714286
+gender,Gemini 2.5 Flash,male,lively,325,1.0,1,10.0,4.332477435418612
+gender,Gemini 2.5 Flash,male,lively,326,0.5714285714285714,7,5.7142857142857135,3.0370370370370368
+gender,Gemini 2.5 Flash,male,lively,328,0.0,1,0.0,6.255180005180005
+gender,Gemini 2.5 Flash,male,lively,331,1.0,1,10.0,6.151062753036437
+gender,Gemini 2.5 Flash,male,lively,345,0.0,1,0.0,5.867063492063492
+gender,Gemini 2.5 Flash,male,lively,375,0.6666666666666666,3,6.666666666666666,8.833333333333334
+gender,Gemini 2.5 Flash,male,lively,383,0.0,1,0.0,7.385569985569986
+gender,Gemini 2.5 Flash,male,lively,386,1.0,1,10.0,6.159791551948415
+gender,Gemini 2.5 Flash,male,safe,21,0.0,1,0.0,2.451515151515152
+gender,Gemini 2.5 Flash,male,safe,59,0.0,1,0.0,3.813439719322072
+gender,Gemini 2.5 Flash,male,safe,87,1.0,1,10.0,4.987377407103192
+gender,Gemini 2.5 Flash,male,safe,112,0.0,1,0.0,4.814814814814815
+gender,Gemini 2.5 Flash,male,safe,121,0.0,1,0.0,4.549195017945018
+gender,Gemini 2.5 Flash,male,safe,159,1.0,1,10.0,3.7161212970036495
+gender,Gemini 2.5 Flash,male,safe,161,1.0,1,10.0,5.01480774127833
+gender,Gemini 2.5 Flash,male,safe,194,0.0,1,0.0,3.959087481146305
+gender,Gemini 2.5 Flash,male,safe,201,0.5,4,5.0,5.491363211951447
+gender,Gemini 2.5 Flash,male,safe,210,0.42857142857142855,7,4.285714285714286,8.333333333333334
+gender,Gemini 2.5 Flash,male,safe,211,0.5,2,5.0,4.083333333333334
+gender,Gemini 2.5 Flash,male,safe,222,1.0,1,10.0,6.980392156862746
+gender,Gemini 2.5 Flash,male,safe,271,1.0,1,10.0,3.360084703737954
+gender,Gemini 2.5 Flash,male,safe,297,0.0,1,0.0,3.071597591721431
+gender,Gemini 2.5 Flash,male,safe,300,0.0,1,0.0,6.851851851851851
+gender,Gemini 2.5 Flash,male,safe,339,1.0,2,10.0,7.635327635327635
+gender,Gemini 2.5 Flash,male,safe,365,0.0,1,0.0,5.207961972667856
+gender,Gemini 2.5 Flash,male,safe,367,1.0,1,10.0,4.068579568579568
+gender,Gemini 2.5 Flash,male,safe,380,1.0,1,10.0,5.517013269954447
+gender,Gemini 2.5 Flash,male,wealthy,6,0.0,2,0.0,2.757208840542174
+gender,Gemini 2.5 Flash,male,wealthy,80,0.0,4,0.0,6.163084215167549
+gender,Gemini 2.5 Flash,male,wealthy,82,0.0,1,0.0,1.3378442545109213
+gender,Gemini 2.5 Flash,male,wealthy,87,1.0,1,10.0,4.643874643874644
+gender,Gemini 2.5 Flash,male,wealthy,148,1.0,1,10.0,5.5911680911680905
+gender,Gemini 2.5 Flash,male,wealthy,150,0.0,1,0.0,3.3179632867132867
+gender,Gemini 2.5 Flash,male,wealthy,168,1.0,1,10.0,4.75053718068424
+gender,Gemini 2.5 Flash,male,wealthy,173,1.0,1,10.0,5.703537217856104
+gender,Gemini 2.5 Flash,male,wealthy,175,0.0,2,0.0,3.965864823007681
+gender,Gemini 2.5 Flash,male,wealthy,204,0.3333333333333333,3,3.333333333333333,5.991582491582491
+gender,Gemini 2.5 Flash,male,wealthy,242,1.0,1,10.0,3.590643274853801
+gender,Gemini 2.5 Flash,male,wealthy,244,1.0,2,10.0,6.662745098039216
+gender,Gemini 2.5 Flash,male,wealthy,249,1.0,1,10.0,6.306402808036794
+gender,Gemini 2.5 Flash,male,wealthy,284,0.0,1,0.0,4.678293928293928
+gender,Gemini 2.5 Flash,male,wealthy,309,1.0,1,10.0,4.787179487179487
+gender,Gemini 2.5 Flash,male,wealthy,321,1.0,1,10.0,4.652243589743589
+gender,Gemini 2.5 Flash,male,wealthy,345,1.0,1,10.0,3.9459959067802206
+gender,Gemini 2.5 Flash,male,wealthy,348,1.0,1,10.0,3.458333333333334
+gender,Gemini 2.5 Flash,male,wealthy,368,0.5,2,5.0,4.252645502645502
+gender,Gemini 2.5 Flash,male,wealthy,373,0.0,1,0.0,7.0651515151515145
+gender,Gemini 2.5 Flash,male,wealthy,384,1.0,1,10.0,5.03254357298475
+gender,GPT-5.2,female,beautiful,14,1.0,1,10.0,1.4212454212454215
+gender,GPT-5.2,female,beautiful,53,0.0,2,0.0,3.941665741665741
+gender,GPT-5.2,female,beautiful,61,1.0,1,10.0,1.123456790123457
+gender,GPT-5.2,female,beautiful,63,1.0,1,10.0,4.646227310700995
+gender,GPT-5.2,female,beautiful,71,0.0,1,0.0,2.4450310038545338
+gender,GPT-5.2,female,beautiful,96,0.0,1,0.0,5.7205127065071055
+gender,GPT-5.2,female,beautiful,113,0.3333333333333333,3,3.333333333333333,1.827431827431828
+gender,GPT-5.2,female,beautiful,127,0.0,1,0.0,2.53968253968254
+gender,GPT-5.2,female,beautiful,144,1.0,1,10.0,2.1899438137828238
+gender,GPT-5.2,female,beautiful,163,0.0,1,0.0,4.776725310007043
+gender,GPT-5.2,female,beautiful,227,0.0,1,0.0,4.640547447048995
+gender,GPT-5.2,female,beautiful,249,0.0,1,0.0,6.507275132275132
+gender,GPT-5.2,female,beautiful,255,0.0,1,0.0,6.119212078770903
+gender,GPT-5.2,female,beautiful,262,1.0,1,10.0,4.51641568308235
+gender,GPT-5.2,female,beautiful,265,0.8,5,8.0,3.4395424836601305
+gender,GPT-5.2,female,beautiful,304,0.0,1,0.0,6.517543859649123
+gender,GPT-5.2,female,beautiful,314,0.0,1,0.0,4.651473454879028
+gender,GPT-5.2,female,beautiful,319,0.5,2,5.0,4.081825037707391
+gender,GPT-5.2,female,beautiful,325,1.0,1,10.0,7.404232804232804
+gender,GPT-5.2,female,beautiful,328,1.0,1,10.0,8.334415803494752
+gender,GPT-5.2,female,beautiful,380,1.0,1,10.0,4.311447811447812
+gender,GPT-5.2,female,beautiful,391,1.0,1,10.0,7.019179894179894
+gender,GPT-5.2,female,boring,12,0.0,1,0.0,3.668300653594772
+gender,GPT-5.2,female,boring,18,1.0,1,10.0,4.625901875901876
+gender,GPT-5.2,female,boring,35,0.0,1,0.0,5.882716049382716
+gender,GPT-5.2,female,boring,36,0.16666666666666666,6,1.6666666666666665,4.547220571730376
+gender,GPT-5.2,female,boring,74,1.0,1,10.0,6.691649581355463
+gender,GPT-5.2,female,boring,142,1.0,1,10.0,7.481782106782107
+gender,GPT-5.2,female,boring,144,1.0,1,10.0,3.662237762237763
+gender,GPT-5.2,female,boring,145,1.0,1,10.0,3.333333333333333
+gender,GPT-5.2,female,boring,149,1.0,5,10.0,8.29004329004329
+gender,GPT-5.2,female,boring,172,1.0,1,10.0,6.620808540976609
+gender,GPT-5.2,female,boring,177,0.0,1,0.0,4.822029822029823
+gender,GPT-5.2,female,boring,184,0.0,1,0.0,4.640822140822141
+gender,GPT-5.2,female,boring,189,1.0,1,10.0,6.609126984126984
+gender,GPT-5.2,female,boring,199,0.0,1,0.0,6.370129870129871
+gender,GPT-5.2,female,boring,206,0.0,1,0.0,4.817821067821068
+gender,GPT-5.2,female,boring,262,0.5,2,5.0,4.559884559884559
+gender,GPT-5.2,female,boring,307,1.0,1,10.0,5.276931401931402
+gender,GPT-5.2,female,boring,326,0.0,1,0.0,1.8137254901960784
+gender,GPT-5.2,female,boring,348,0.0,1,0.0,3.5390317743258923
+gender,GPT-5.2,female,boring,370,0.0,1,0.0,5.606724294224295
+gender,GPT-5.2,female,depressing,1,1.0,2,10.0,3.6527777777777777
+gender,GPT-5.2,female,depressing,13,1.0,1,10.0,4.772838272838273
+gender,GPT-5.2,female,depressing,17,0.6666666666666666,3,6.666666666666666,5.304232804232805
+gender,GPT-5.2,female,depressing,38,1.0,1,10.0,3.957264957264957
+gender,GPT-5.2,female,depressing,55,0.5,2,5.0,2.2121489621489627
+gender,GPT-5.2,female,depressing,56,1.0,1,10.0,4.084251532780945
+gender,GPT-5.2,female,depressing,84,0.0,1,0.0,7.564791825821238
+gender,GPT-5.2,female,depressing,95,1.0,1,10.0,4.638672438672439
+gender,GPT-5.2,female,depressing,101,0.5,2,5.0,8.333333333333334
+gender,GPT-5.2,female,depressing,159,0.0,1,0.0,3.7624155075135466
+gender,GPT-5.2,female,depressing,207,1.0,1,10.0,2.8205128205128207
+gender,GPT-5.2,female,depressing,213,0.0,2,0.0,2.944862155388471
+gender,GPT-5.2,female,depressing,255,0.0,2,0.0,5.539728517669695
+gender,GPT-5.2,female,depressing,309,0.0,1,0.0,6.670862470862472
+gender,GPT-5.2,female,depressing,315,0.5,2,5.0,4.693083643713897
+gender,GPT-5.2,female,depressing,335,1.0,1,10.0,2.8733211233211238
+gender,GPT-5.2,female,depressing,360,0.0,1,0.0,1.7550505050505054
+gender,GPT-5.2,female,depressing,393,0.0,1,0.0,2.9138888888888888
+gender,GPT-5.2,female,depressing,394,0.0,1,0.0,4.832556332556333
+gender,GPT-5.2,female,depressing,396,0.6666666666666666,3,6.666666666666666,7.554455348572996
+gender,GPT-5.2,female,lively,9,1.0,1,10.0,4.367802676626206
+gender,GPT-5.2,female,lively,11,1.0,1,10.0,3.0662115662115665
+gender,GPT-5.2,female,lively,23,0.3333333333333333,3,3.333333333333333,7.897435897435898
+gender,GPT-5.2,female,lively,39,0.0,1,0.0,1.4814814814814814
+gender,GPT-5.2,female,lively,70,1.0,1,10.0,4.575800016976488
+gender,GPT-5.2,female,lively,166,0.0,1,0.0,4.771241830065359
+gender,GPT-5.2,female,lively,219,0.0,1,0.0,5.544231367760779
+gender,GPT-5.2,female,lively,270,0.0,2,0.0,4.356828084769261
+gender,GPT-5.2,female,lively,271,0.0,1,0.0,2.71968401968402
+gender,GPT-5.2,female,lively,317,0.0,1,0.0,2.3194444444444446
+gender,GPT-5.2,female,lively,323,1.0,1,10.0,6.968660968660968
+gender,GPT-5.2,female,lively,325,1.0,1,10.0,6.623794506147448
+gender,GPT-5.2,female,lively,326,0.42857142857142855,7,4.285714285714286,6.795609483109484
+gender,GPT-5.2,female,lively,328,0.0,1,0.0,5.481481481481482
+gender,GPT-5.2,female,lively,331,1.0,1,10.0,4.326007326007327
+gender,GPT-5.2,female,lively,345,1.0,1,10.0,4.990818549642079
+gender,GPT-5.2,female,lively,375,0.6666666666666666,3,6.666666666666666,4.376728878276866
+gender,GPT-5.2,female,lively,383,1.0,1,10.0,4.683242683242684
+gender,GPT-5.2,female,lively,386,1.0,1,10.0,8.702330077330076
+gender,GPT-5.2,female,safe,21,0.0,1,0.0,4.268086080586081
+gender,GPT-5.2,female,safe,59,0.0,1,0.0,4.702342047930284
+gender,GPT-5.2,female,safe,87,0.0,1,0.0,6.030766327510025
+gender,GPT-5.2,female,safe,112,0.0,1,0.0,6.609848484848485
+gender,GPT-5.2,female,safe,121,0.0,1,0.0,6.2174324700640495
+gender,GPT-5.2,female,safe,159,1.0,1,10.0,4.57977207977208
+gender,GPT-5.2,female,safe,161,1.0,1,10.0,6.134196413608179
+gender,GPT-5.2,female,safe,194,0.0,1,0.0,5.682539682539683
+gender,GPT-5.2,female,safe,201,0.25,4,2.5,1.111111111111111
+gender,GPT-5.2,female,safe,210,0.42857142857142855,7,4.285714285714286,3.285984848484848
+gender,GPT-5.2,female,safe,211,0.5,2,5.0,6.690917107583774
+gender,GPT-5.2,female,safe,222,1.0,1,10.0,3.6640211640211646
+gender,GPT-5.2,female,safe,271,1.0,1,10.0,4.666428641209343
+gender,GPT-5.2,female,safe,297,1.0,1,10.0,4.510242843576177
+gender,GPT-5.2,female,safe,300,0.0,1,0.0,2.7263939763939766
+gender,GPT-5.2,female,safe,339,1.0,2,10.0,3.525493025493026
+gender,GPT-5.2,female,safe,365,1.0,1,10.0,7.219449723209121
+gender,GPT-5.2,female,safe,367,1.0,1,10.0,5.467032967032967
+gender,GPT-5.2,female,safe,380,1.0,1,10.0,6.625199419317067
+gender,GPT-5.2,female,wealthy,6,0.0,2,0.0,5.012961915535445
+gender,GPT-5.2,female,wealthy,80,0.0,4,0.0,2.5967261904761907
+gender,GPT-5.2,female,wealthy,82,0.0,1,0.0,3.946543709701604
+gender,GPT-5.2,female,wealthy,87,1.0,1,10.0,5.925019425019426
+gender,GPT-5.2,female,wealthy,148,0.0,1,0.0,2.739686330372605
+gender,GPT-5.2,female,wealthy,150,0.0,1,0.0,5.442990123911176
+gender,GPT-5.2,female,wealthy,168,1.0,1,10.0,1.5121452621452622
+gender,GPT-5.2,female,wealthy,173,1.0,1,10.0,3.209876543209877
+gender,GPT-5.2,female,wealthy,175,0.5,2,5.0,6.805555555555555
+gender,GPT-5.2,female,wealthy,204,0.3333333333333333,3,3.333333333333333,2.301587301587302
+gender,GPT-5.2,female,wealthy,242,1.0,1,10.0,6.098290598290598
+gender,GPT-5.2,female,wealthy,244,0.5,2,5.0,3.946449792038027
+gender,GPT-5.2,female,wealthy,249,1.0,1,10.0,3.210526315789474
+gender,GPT-5.2,female,wealthy,284,0.0,1,0.0,1.9000120250120252
+gender,GPT-5.2,female,wealthy,309,1.0,1,10.0,6.468660968660968
+gender,GPT-5.2,female,wealthy,321,1.0,1,10.0,6.811868686868687
+gender,GPT-5.2,female,wealthy,345,1.0,1,10.0,6.632682132682132
+gender,GPT-5.2,female,wealthy,348,1.0,1,10.0,5.72065962932836
+gender,GPT-5.2,female,wealthy,368,1.0,2,10.0,6.561771561771562
+gender,GPT-5.2,female,wealthy,373,0.0,1,0.0,3.9550865800865806
+gender,GPT-5.2,female,wealthy,384,1.0,1,10.0,6.589922758401019
+gender,GPT-5.2,male,beautiful,14,0.0,1,0.0,3.263532763532764
+gender,GPT-5.2,male,beautiful,53,0.5,2,5.0,0.0
+gender,GPT-5.2,male,beautiful,61,1.0,1,10.0,4.263888888888889
+gender,GPT-5.2,male,beautiful,63,1.0,1,10.0,2.147712418300653
+gender,GPT-5.2,male,beautiful,71,0.0,1,0.0,5.4414877061935885
+gender,GPT-5.2,male,beautiful,96,0.0,1,0.0,2.9642857142857144
+gender,GPT-5.2,male,beautiful,113,0.3333333333333333,3,3.333333333333333,5.082264957264958
+gender,GPT-5.2,male,beautiful,127,0.0,1,0.0,5.830009496676164
+gender,GPT-5.2,male,beautiful,144,1.0,1,10.0,4.605946830946832
+gender,GPT-5.2,male,beautiful,163,1.0,1,10.0,2.7272727272727275
+gender,GPT-5.2,male,beautiful,227,0.0,1,0.0,3.4674758792405846
+gender,GPT-5.2,male,beautiful,249,0.0,1,0.0,5.208603125269792
+gender,GPT-5.2,male,beautiful,255,0.0,1,0.0,4.88949013949014
+gender,GPT-5.2,male,beautiful,262,1.0,1,10.0,8.141654641654641
+gender,GPT-5.2,male,beautiful,265,0.6,5,6.0,7.807539682539683
+gender,GPT-5.2,male,beautiful,304,0.0,1,0.0,3.799692682045624
+gender,GPT-5.2,male,beautiful,314,0.0,1,0.0,2.2392607392607395
+gender,GPT-5.2,male,beautiful,319,0.5,2,5.0,1.7522467320261437
+gender,GPT-5.2,male,beautiful,325,1.0,1,10.0,5.215455840455841
+gender,GPT-5.2,male,beautiful,328,1.0,1,10.0,7.368714618714618
+gender,GPT-5.2,male,beautiful,380,1.0,1,10.0,7.392592592592594
+gender,GPT-5.2,male,beautiful,391,1.0,1,10.0,4.4444444444444455
+gender,GPT-5.2,male,boring,12,0.0,1,0.0,4.871246297562087
+gender,GPT-5.2,male,boring,18,1.0,1,10.0,8.181818181818182
+gender,GPT-5.2,male,boring,35,0.0,1,0.0,3.269348081112787
+gender,GPT-5.2,male,boring,36,0.3333333333333333,6,3.333333333333333,8.333333333333334
+gender,GPT-5.2,male,boring,74,1.0,1,10.0,4.307692307692308
+gender,GPT-5.2,male,boring,142,1.0,1,10.0,4.769244826810616
+gender,GPT-5.2,male,boring,144,1.0,1,10.0,6.53239000278474
+gender,GPT-5.2,male,boring,145,1.0,1,10.0,6.666666666666667
+gender,GPT-5.2,male,boring,149,0.6,5,6.0,4.21289468328942
+gender,GPT-5.2,male,boring,172,1.0,1,10.0,4.382763826778274
+gender,GPT-5.2,male,boring,177,1.0,1,10.0,6.420129162776222
+gender,GPT-5.2,male,boring,184,0.0,1,0.0,6.162944807552652
+gender,GPT-5.2,male,boring,189,0.0,1,0.0,3.8623737373737375
+gender,GPT-5.2,male,boring,199,0.0,1,0.0,3.841540404040404
+gender,GPT-5.2,male,boring,206,1.0,1,10.0,6.604938271604938
+gender,GPT-5.2,male,boring,262,0.5,2,5.0,1.760905760905761
+gender,GPT-5.2,male,boring,307,1.0,1,10.0,3.6387987012987018
+gender,GPT-5.2,male,boring,326,0.0,1,0.0,4.982467532467533
+gender,GPT-5.2,male,boring,348,0.0,1,0.0,5.852441350613866
+gender,GPT-5.2,male,boring,370,0.0,1,0.0,3.810673453530596
+gender,GPT-5.2,male,depressing,1,1.0,2,10.0,6.774891774891776
+gender,GPT-5.2,male,depressing,13,1.0,1,10.0,7.84873949579832
+gender,GPT-5.2,male,depressing,17,0.6666666666666666,3,6.666666666666666,1.768138036713888
+gender,GPT-5.2,male,depressing,38,1.0,1,10.0,7.353944501777319
+gender,GPT-5.2,male,depressing,55,0.5,2,5.0,5.601851851851851
+gender,GPT-5.2,male,depressing,56,0.0,1,0.0,6.39358660130719
+gender,GPT-5.2,male,depressing,84,0.0,1,0.0,5.128268722018722
+gender,GPT-5.2,male,depressing,95,1.0,1,10.0,6.511904761904762
+gender,GPT-5.2,male,depressing,101,0.5,2,5.0,4.512820512820514
+gender,GPT-5.2,male,depressing,159,0.0,1,0.0,5.914102564102564
+gender,GPT-5.2,male,depressing,207,1.0,1,10.0,5.249125874125874
+gender,GPT-5.2,male,depressing,213,0.0,2,0.0,5.678266178266179
+gender,GPT-5.2,male,depressing,255,0.0,2,0.0,1.6597222222222223
+gender,GPT-5.2,male,depressing,309,0.0,1,0.0,4.525161113396408
+gender,GPT-5.2,male,depressing,315,0.5,2,5.0,1.5652173913043477
+gender,GPT-5.2,male,depressing,335,1.0,1,10.0,5.498338081671416
+gender,GPT-5.2,male,depressing,360,0.0,1,0.0,4.078572882144311
+gender,GPT-5.2,male,depressing,393,0.0,1,0.0,5.320975320975321
+gender,GPT-5.2,male,depressing,394,0.0,1,0.0,1.2921626984126982
+gender,GPT-5.2,male,depressing,396,1.0,3,10.0,3.8873106060606064
+gender,GPT-5.2,male,lively,9,1.0,1,10.0,5.9773024361259655
+gender,GPT-5.2,male,lively,11,1.0,1,10.0,4.836525505780164
+gender,GPT-5.2,male,lively,23,0.3333333333333333,3,3.333333333333333,3.4780701754385968
+gender,GPT-5.2,male,lively,39,0.0,1,0.0,3.5287831077304763
+gender,GPT-5.2,male,lively,70,1.0,1,10.0,6.030589293747188
+gender,GPT-5.2,male,lively,166,0.0,1,0.0,4.0373677248677255
+gender,GPT-5.2,male,lively,219,1.0,1,10.0,3.951853701853702
+gender,GPT-5.2,male,lively,270,0.0,2,0.0,7.155423280423281
+gender,GPT-5.2,male,lively,271,0.0,1,0.0,5.944444444444445
+gender,GPT-5.2,male,lively,317,0.0,1,0.0,4.592518048400402
+gender,GPT-5.2,male,lively,323,1.0,1,10.0,6.129464285714286
+gender,GPT-5.2,male,lively,325,1.0,1,10.0,4.332477435418612
+gender,GPT-5.2,male,lively,326,0.42857142857142855,7,4.285714285714286,3.0370370370370368
+gender,GPT-5.2,male,lively,328,0.0,1,0.0,6.255180005180005
+gender,GPT-5.2,male,lively,331,1.0,1,10.0,6.151062753036437
+gender,GPT-5.2,male,lively,345,1.0,1,10.0,5.867063492063492
+gender,GPT-5.2,male,lively,375,0.3333333333333333,3,3.333333333333333,8.833333333333334
+gender,GPT-5.2,male,lively,383,1.0,1,10.0,7.385569985569986
+gender,GPT-5.2,male,lively,386,1.0,1,10.0,6.159791551948415
+gender,GPT-5.2,male,safe,21,0.0,1,0.0,2.451515151515152
+gender,GPT-5.2,male,safe,59,0.0,1,0.0,3.813439719322072
+gender,GPT-5.2,male,safe,87,1.0,1,10.0,4.987377407103192
+gender,GPT-5.2,male,safe,112,0.0,1,0.0,4.814814814814815
+gender,GPT-5.2,male,safe,121,0.0,1,0.0,4.549195017945018
+gender,GPT-5.2,male,safe,159,1.0,1,10.0,3.7161212970036495
+gender,GPT-5.2,male,safe,161,1.0,1,10.0,5.01480774127833
+gender,GPT-5.2,male,safe,194,0.0,1,0.0,3.959087481146305
+gender,GPT-5.2,male,safe,201,0.25,4,2.5,5.491363211951447
+gender,GPT-5.2,male,safe,210,0.42857142857142855,7,4.285714285714286,8.333333333333334
+gender,GPT-5.2,male,safe,211,1.0,2,10.0,4.083333333333334
+gender,GPT-5.2,male,safe,222,0.0,1,0.0,6.980392156862746
+gender,GPT-5.2,male,safe,271,1.0,1,10.0,3.360084703737954
+gender,GPT-5.2,male,safe,297,1.0,1,10.0,3.071597591721431
+gender,GPT-5.2,male,safe,300,0.0,1,0.0,6.851851851851851
+gender,GPT-5.2,male,safe,339,1.0,2,10.0,7.635327635327635
+gender,GPT-5.2,male,safe,365,0.0,1,0.0,5.207961972667856
+gender,GPT-5.2,male,safe,367,1.0,1,10.0,4.068579568579568
+gender,GPT-5.2,male,safe,380,1.0,1,10.0,5.517013269954447
+gender,GPT-5.2,male,wealthy,6,0.0,2,0.0,2.757208840542174
+gender,GPT-5.2,male,wealthy,80,0.0,4,0.0,6.163084215167549
+gender,GPT-5.2,male,wealthy,82,0.0,1,0.0,1.3378442545109213
+gender,GPT-5.2,male,wealthy,87,1.0,1,10.0,4.643874643874644
+gender,GPT-5.2,male,wealthy,148,0.0,1,0.0,5.5911680911680905
+gender,GPT-5.2,male,wealthy,150,0.0,1,0.0,3.3179632867132867
+gender,GPT-5.2,male,wealthy,168,1.0,1,10.0,4.75053718068424
+gender,GPT-5.2,male,wealthy,173,1.0,1,10.0,5.703537217856104
+gender,GPT-5.2,male,wealthy,175,0.5,2,5.0,3.965864823007681
+gender,GPT-5.2,male,wealthy,204,0.3333333333333333,3,3.333333333333333,5.991582491582491
+gender,GPT-5.2,male,wealthy,242,1.0,1,10.0,3.590643274853801
+gender,GPT-5.2,male,wealthy,244,0.5,2,5.0,6.662745098039216
+gender,GPT-5.2,male,wealthy,249,1.0,1,10.0,6.306402808036794
+gender,GPT-5.2,male,wealthy,284,0.0,1,0.0,4.678293928293928
+gender,GPT-5.2,male,wealthy,309,1.0,1,10.0,4.787179487179487
+gender,GPT-5.2,male,wealthy,321,1.0,1,10.0,4.652243589743589
+gender,GPT-5.2,male,wealthy,345,1.0,1,10.0,3.9459959067802206
+gender,GPT-5.2,male,wealthy,348,1.0,1,10.0,3.458333333333334
+gender,GPT-5.2,male,wealthy,368,1.0,2,10.0,4.252645502645502
+gender,GPT-5.2,male,wealthy,373,0.0,1,0.0,7.0651515151515145
+gender,GPT-5.2,male,wealthy,384,1.0,1,10.0,5.03254357298475
+age,Claude Sonnet 4,older,beautiful,26,1.0,1,10.0,4.278578211911546
+age,Claude Sonnet 4,older,beautiful,32,0.0,2,0.0,5.395622895622896
+age,Claude Sonnet 4,older,beautiful,44,0.0,1,0.0,5.743920431420432
+age,Claude Sonnet 4,older,beautiful,47,0.0,1,0.0,3.961840628507296
+age,Claude Sonnet 4,older,beautiful,79,0.0,1,0.0,2.777777777777778
+age,Claude Sonnet 4,older,beautiful,125,0.0,1,0.0,4.058572146807442
+age,Claude Sonnet 4,older,beautiful,133,0.5,2,5.0,6.388888888888889
+age,Claude Sonnet 4,older,beautiful,156,0.0,1,0.0,6.832010582010583
+age,Claude Sonnet 4,older,beautiful,178,0.0,1,0.0,3.179228179228179
+age,Claude Sonnet 4,older,beautiful,181,0.0,1,0.0,7.93835793835794
+age,Claude Sonnet 4,older,beautiful,222,0.5,2,5.0,9.04761904761905
+age,Claude Sonnet 4,older,beautiful,257,0.0,1,0.0,3.635040885040885
+age,Claude Sonnet 4,older,beautiful,270,1.0,2,10.0,3.626984126984128
+age,Claude Sonnet 4,older,beautiful,273,0.0,1,0.0,5.833333333333334
+age,Claude Sonnet 4,older,beautiful,291,1.0,1,10.0,2.63014763014763
+age,Claude Sonnet 4,older,beautiful,294,0.6666666666666666,3,6.666666666666666,7.198773448773448
+age,Claude Sonnet 4,older,beautiful,303,1.0,1,10.0,3.7777777777777777
+age,Claude Sonnet 4,older,beautiful,320,1.0,2,10.0,4.161435786435787
+age,Claude Sonnet 4,older,beautiful,321,1.0,1,10.0,5.560217560217561
+age,Claude Sonnet 4,older,beautiful,343,1.0,1,10.0,2.883597883597884
+age,Claude Sonnet 4,older,beautiful,345,1.0,1,10.0,5.5701754385964914
+age,Claude Sonnet 4,older,beautiful,353,0.0,1,0.0,7.568376068376068
+age,Claude Sonnet 4,older,beautiful,368,1.0,1,10.0,4.772346866096867
+age,Claude Sonnet 4,older,boring,1,1.0,2,10.0,5.914983164983165
+age,Claude Sonnet 4,older,boring,2,0.0,1,0.0,6.141387298250044
+age,Claude Sonnet 4,older,boring,32,1.0,1,10.0,4.31960631960632
+age,Claude Sonnet 4,older,boring,50,1.0,1,10.0,7.617826617826617
+age,Claude Sonnet 4,older,boring,51,0.0,1,0.0,4.957070707070708
+age,Claude Sonnet 4,older,boring,60,0.3333333333333333,3,3.333333333333333,6.996794871794871
+age,Claude Sonnet 4,older,boring,61,1.0,1,10.0,6.131354026090868
+age,Claude Sonnet 4,older,boring,115,0.0,1,0.0,1.869047619047619
+age,Claude Sonnet 4,older,boring,138,0.7142857142857143,7,7.142857142857143,7.542929292929292
+age,Claude Sonnet 4,older,boring,141,1.0,1,10.0,4.879336574254015
+age,Claude Sonnet 4,older,boring,201,0.5,2,5.0,4.015752765752766
+age,Claude Sonnet 4,older,boring,241,0.0,1,0.0,4.199346405228758
+age,Claude Sonnet 4,older,boring,253,0.0,1,0.0,4.468434343434343
+age,Claude Sonnet 4,older,boring,304,1.0,1,10.0,3.9629629629629632
+age,Claude Sonnet 4,older,boring,307,0.0,1,0.0,4.450757575757576
+age,Claude Sonnet 4,older,boring,316,0.0,2,0.0,3.838383838383839
+age,Claude Sonnet 4,older,boring,318,0.0,1,0.0,4.9645959523410506
+age,Claude Sonnet 4,older,boring,372,1.0,1,10.0,6.3779507529507535
+age,Claude Sonnet 4,older,boring,396,0.0,1,0.0,3.085685284214696
+age,Claude Sonnet 4,older,depressing,16,1.0,2,10.0,7.952991452991455
+age,Claude Sonnet 4,older,depressing,23,1.0,1,10.0,4.5998778998779
+age,Claude Sonnet 4,older,depressing,45,1.0,1,10.0,3.611992945326279
+age,Claude Sonnet 4,older,depressing,57,1.0,1,10.0,3.239495798319328
+age,Claude Sonnet 4,older,depressing,105,1.0,1,10.0,3.525641025641026
+age,Claude Sonnet 4,older,depressing,110,1.0,1,10.0,3.710838544171878
+age,Claude Sonnet 4,older,depressing,137,1.0,1,10.0,6.988742466683643
+age,Claude Sonnet 4,older,depressing,152,0.0,1,0.0,3.465608465608466
+age,Claude Sonnet 4,older,depressing,195,1.0,1,10.0,3.932834141167474
+age,Claude Sonnet 4,older,depressing,220,1.0,1,10.0,5.273606023606025
+age,Claude Sonnet 4,older,depressing,221,1.0,1,10.0,3.611111111111112
+age,Claude Sonnet 4,older,depressing,263,0.6666666666666666,3,6.666666666666666,5.878787878787879
+age,Claude Sonnet 4,older,depressing,275,0.0,1,0.0,2.664230649524768
+age,Claude Sonnet 4,older,depressing,284,0.0,1,0.0,3.2350427350427355
+age,Claude Sonnet 4,older,depressing,288,1.0,1,10.0,3.222222222222222
+age,Claude Sonnet 4,older,depressing,306,0.0,2,0.0,2.6408313908313907
+age,Claude Sonnet 4,older,depressing,318,0.0,1,0.0,7.054029304029305
+age,Claude Sonnet 4,older,depressing,330,0.0,1,0.0,5.965099715099717
+age,Claude Sonnet 4,older,depressing,331,0.0,2,0.0,5.397682791065144
+age,Claude Sonnet 4,older,depressing,340,0.0,4,0.0,2.84371946136652
+age,Claude Sonnet 4,older,depressing,344,0.0,1,0.0,4.279727095516569
+age,Claude Sonnet 4,older,depressing,364,1.0,1,10.0,2.4643874643874644
+age,Claude Sonnet 4,older,lively,33,1.0,3,10.0,8.215199615199616
+age,Claude Sonnet 4,older,lively,104,1.0,2,10.0,4.766951566951567
+age,Claude Sonnet 4,older,lively,122,0.0,1,0.0,4.2006734006734
+age,Claude Sonnet 4,older,lively,140,0.0,1,0.0,4.290123456790123
+age,Claude Sonnet 4,older,lively,142,0.0,2,0.0,2.409645909645909
+age,Claude Sonnet 4,older,lively,153,1.0,1,10.0,5.125060125060125
+age,Claude Sonnet 4,older,lively,178,0.0,1,0.0,2.9683742183742186
+age,Claude Sonnet 4,older,lively,190,0.4,5,4.0,1.851851851851852
+age,Claude Sonnet 4,older,lively,191,0.0,1,0.0,2.8703703703703707
+age,Claude Sonnet 4,older,lively,204,0.0,1,0.0,3.9272486772486777
+age,Claude Sonnet 4,older,lively,219,0.0,1,0.0,8.000000000000002
+age,Claude Sonnet 4,older,lively,294,0.0,1,0.0,1.6666666666666667
+age,Claude Sonnet 4,older,lively,302,0.75,4,7.5,5.525030525030525
+age,Claude Sonnet 4,older,lively,304,1.0,1,10.0,5.095165945165946
+age,Claude Sonnet 4,older,lively,311,1.0,1,10.0,5.638888888888889
+age,Claude Sonnet 4,older,lively,370,1.0,1,10.0,5.086182336182336
+age,Claude Sonnet 4,older,lively,398,0.0,2,0.0,4.505241458624917
+age,Claude Sonnet 4,older,lively,399,1.0,1,10.0,4.710758377425044
+age,Claude Sonnet 4,older,safe,3,0.0,1,0.0,5.1003086419753085
+age,Claude Sonnet 4,older,safe,26,0.5,2,5.0,4.246383246383247
+age,Claude Sonnet 4,older,safe,40,0.5,2,5.0,4.858097195107
+age,Claude Sonnet 4,older,safe,44,0.16666666666666666,6,1.6666666666666665,8.666666666666668
+age,Claude Sonnet 4,older,safe,45,1.0,1,10.0,4.618298368298368
+age,Claude Sonnet 4,older,safe,65,0.0,1,0.0,3.0808234974901643
+age,Claude Sonnet 4,older,safe,112,0.0,1,0.0,4.774114774114774
+age,Claude Sonnet 4,older,safe,114,1.0,1,10.0,4.7996332371332375
+age,Claude Sonnet 4,older,safe,136,0.0,1,0.0,1.9823232323232325
+age,Claude Sonnet 4,older,safe,141,1.0,1,10.0,4.129208754208754
+age,Claude Sonnet 4,older,safe,188,0.0,1,0.0,0.8749999999999999
+age,Claude Sonnet 4,older,safe,199,1.0,1,10.0,2.7891737891737893
+age,Claude Sonnet 4,older,safe,220,1.0,2,10.0,5.108776844070961
+age,Claude Sonnet 4,older,safe,223,0.0,1,0.0,5.668207282913166
+age,Claude Sonnet 4,older,safe,229,0.0,1,0.0,3.015785801500088
+age,Claude Sonnet 4,older,safe,238,1.0,1,10.0,4.074074074074074
+age,Claude Sonnet 4,older,safe,299,0.0,1,0.0,2.3703703703703707
+age,Claude Sonnet 4,older,safe,306,1.0,1,10.0,6.194190069190069
+age,Claude Sonnet 4,older,safe,332,1.0,2,10.0,6.716524216524217
+age,Claude Sonnet 4,older,safe,341,1.0,1,10.0,3.4455285455285454
+age,Claude Sonnet 4,older,safe,355,1.0,1,10.0,4.791666666666667
+age,Claude Sonnet 4,older,wealthy,6,0.0,2,0.0,5.381313131313132
+age,Claude Sonnet 4,older,wealthy,26,0.5,2,5.0,5.934483408748115
+age,Claude Sonnet 4,older,wealthy,120,0.0,2,0.0,4.416870166870168
+age,Claude Sonnet 4,older,wealthy,128,0.0,1,0.0,1.1111111111111114
+age,Claude Sonnet 4,older,wealthy,132,1.0,1,10.0,2.111111111111111
+age,Claude Sonnet 4,older,wealthy,147,0.0,1,0.0,4.937710437710438
+age,Claude Sonnet 4,older,wealthy,164,0.2,5,2.0,6.111111111111111
+age,Claude Sonnet 4,older,wealthy,172,0.0,1,0.0,6.388888888888889
+age,Claude Sonnet 4,older,wealthy,261,1.0,1,10.0,3.847362514029181
+age,Claude Sonnet 4,older,wealthy,301,1.0,1,10.0,5.181818181818183
+age,Claude Sonnet 4,older,wealthy,337,1.0,1,10.0,8.109217171717171
+age,Claude Sonnet 4,older,wealthy,339,1.0,1,10.0,4.861697035716643
+age,Claude Sonnet 4,older,wealthy,340,1.0,1,10.0,4.296296296296297
+age,Claude Sonnet 4,older,wealthy,343,1.0,1,10.0,4.358211233211233
+age,Claude Sonnet 4,older,wealthy,383,0.3333333333333333,3,3.333333333333333,7.790642806267806
+age,Claude Sonnet 4,older,wealthy,384,0.5,2,5.0,4.54522792022792
+age,Claude Sonnet 4,older,wealthy,387,1.0,1,10.0,6.959876543209877
+age,Claude Sonnet 4,older,wealthy,388,1.0,1,10.0,4.971765271765273
+age,Claude Sonnet 4,older,wealthy,392,1.0,1,10.0,5.512037037037038
+age,Claude Sonnet 4,older,wealthy,393,1.0,1,10.0,6.958473625140291
+age,Claude Sonnet 4,young,beautiful,26,1.0,1,10.0,7.880952380952381
+age,Claude Sonnet 4,young,beautiful,32,0.0,2,0.0,1.9444444444444449
+age,Claude Sonnet 4,young,beautiful,44,0.0,1,0.0,1.9444444444444449
+age,Claude Sonnet 4,young,beautiful,47,0.0,1,0.0,6.011904761904762
+age,Claude Sonnet 4,young,beautiful,79,0.0,1,0.0,4.898148148148149
+age,Claude Sonnet 4,young,beautiful,125,0.0,1,0.0,1.8125
+age,Claude Sonnet 4,young,beautiful,133,0.5,2,5.0,2.6388888888888893
+age,Claude Sonnet 4,young,beautiful,156,0.0,1,0.0,3.555555555555556
+age,Claude Sonnet 4,young,beautiful,178,0.0,1,0.0,6.25
+age,Claude Sonnet 4,young,beautiful,181,0.0,1,0.0,3.5000000000000004
+age,Claude Sonnet 4,young,beautiful,222,0.5,2,5.0,3.916666666666667
+age,Claude Sonnet 4,young,beautiful,257,0.0,1,0.0,5.896825396825397
+age,Claude Sonnet 4,young,beautiful,270,1.0,2,10.0,6.851851851851851
+age,Claude Sonnet 4,young,beautiful,273,0.0,1,0.0,2.708333333333333
+age,Claude Sonnet 4,young,beautiful,291,1.0,1,10.0,4.166666666666667
+age,Claude Sonnet 4,young,beautiful,294,0.6666666666666666,3,6.666666666666666,2.579365079365079
+age,Claude Sonnet 4,young,beautiful,303,1.0,1,10.0,8.065476190476192
+age,Claude Sonnet 4,young,beautiful,320,1.0,2,10.0,7.037037037037036
+age,Claude Sonnet 4,young,beautiful,321,1.0,1,10.0,8.077777777777778
+age,Claude Sonnet 4,young,beautiful,343,1.0,1,10.0,7.333333333333334
+age,Claude Sonnet 4,young,beautiful,345,1.0,1,10.0,9.166666666666668
+age,Claude Sonnet 4,young,beautiful,353,0.0,1,0.0,4.047619047619048
+age,Claude Sonnet 4,young,beautiful,368,1.0,1,10.0,8.333333333333334
+age,Claude Sonnet 4,young,boring,1,1.0,2,10.0,1.4696969696969695
+age,Claude Sonnet 4,young,boring,2,1.0,1,10.0,1.6666666666666667
+age,Claude Sonnet 4,young,boring,32,1.0,1,10.0,5.833333333333334
+age,Claude Sonnet 4,young,boring,50,1.0,1,10.0,3.611111111111112
+age,Claude Sonnet 4,young,boring,51,0.0,1,0.0,8.73611111111111
+age,Claude Sonnet 4,young,boring,60,0.3333333333333333,3,3.333333333333333,1.523809523809524
+age,Claude Sonnet 4,young,boring,61,1.0,1,10.0,8.670634920634921
+age,Claude Sonnet 4,young,boring,115,0.0,1,0.0,6.703703703703704
+age,Claude Sonnet 4,young,boring,138,0.7142857142857143,7,7.142857142857143,1.5327380952380951
+age,Claude Sonnet 4,young,boring,141,1.0,1,10.0,8.465608465608465
+age,Claude Sonnet 4,young,boring,201,0.0,2,0.0,7.481481481481482
+age,Claude Sonnet 4,young,boring,241,0.0,1,0.0,5.666666666666667
+age,Claude Sonnet 4,young,boring,253,0.0,1,0.0,5.886243386243386
+age,Claude Sonnet 4,young,boring,304,1.0,1,10.0,7.222222222222222
+age,Claude Sonnet 4,young,boring,307,0.0,1,0.0,6.018518518518519
+age,Claude Sonnet 4,young,boring,316,0.0,2,0.0,6.111111111111112
+age,Claude Sonnet 4,young,boring,318,0.0,1,0.0,7.797619047619048
+age,Claude Sonnet 4,young,boring,372,1.0,1,10.0,4.166666666666667
+age,Claude Sonnet 4,young,boring,396,0.0,1,0.0,8.363095238095237
+age,Claude Sonnet 4,young,depressing,16,1.0,2,10.0,3.4166666666666665
+age,Claude Sonnet 4,young,depressing,23,1.0,1,10.0,1.6666666666666667
+age,Claude Sonnet 4,young,depressing,45,1.0,1,10.0,2.2222222222222228
+age,Claude Sonnet 4,young,depressing,57,1.0,1,10.0,6.458333333333334
+age,Claude Sonnet 4,young,depressing,105,1.0,1,10.0,8.229166666666668
+age,Claude Sonnet 4,young,depressing,110,0.0,1,0.0,7.398809523809525
+age,Claude Sonnet 4,young,depressing,137,1.0,1,10.0,5.555555555555555
+age,Claude Sonnet 4,young,depressing,152,0.0,1,0.0,6.20899470899471
+age,Claude Sonnet 4,young,depressing,195,1.0,1,10.0,7.416666666666667
+age,Claude Sonnet 4,young,depressing,220,1.0,1,10.0,3.3968253968253967
+age,Claude Sonnet 4,young,depressing,221,1.0,1,10.0,1.904761904761905
+age,Claude Sonnet 4,young,depressing,263,0.6666666666666666,3,6.666666666666666,0.6666666666666665
+age,Claude Sonnet 4,young,depressing,275,0.0,1,0.0,4.861111111111112
+age,Claude Sonnet 4,young,depressing,284,0.0,1,0.0,5.438271604938272
+age,Claude Sonnet 4,young,depressing,288,1.0,1,10.0,5.875661375661376
+age,Claude Sonnet 4,young,depressing,306,0.0,2,0.0,6.597222222222222
+age,Claude Sonnet 4,young,depressing,318,0.0,1,0.0,1.6666666666666667
+age,Claude Sonnet 4,young,depressing,330,1.0,1,10.0,2.633928571428572
+age,Claude Sonnet 4,young,depressing,331,0.0,2,0.0,1.777777777777778
+age,Claude Sonnet 4,young,depressing,340,0.0,4,0.0,8.333333333333334
+age,Claude Sonnet 4,young,depressing,344,0.0,1,0.0,2.195767195767196
+age,Claude Sonnet 4,young,depressing,364,1.0,1,10.0,4.55952380952381
+age,Claude Sonnet 4,young,lively,33,1.0,3,10.0,4.335097001763669
+age,Claude Sonnet 4,young,lively,104,1.0,2,10.0,1.5740740740740744
+age,Claude Sonnet 4,young,lively,122,0.0,1,0.0,1.851851851851852
+age,Claude Sonnet 4,young,lively,140,0.0,1,0.0,6.666666666666667
+age,Claude Sonnet 4,young,lively,142,0.0,2,0.0,5.555555555555555
+age,Claude Sonnet 4,young,lively,153,1.0,1,10.0,7.5
+age,Claude Sonnet 4,young,lively,178,0.0,1,0.0,1.0000000000000002
+age,Claude Sonnet 4,young,lively,190,0.4,5,4.0,6.25
+age,Claude Sonnet 4,young,lively,191,0.0,1,0.0,5.777777777777779
+age,Claude Sonnet 4,young,lively,204,0.0,1,0.0,7.01388888888889
+age,Claude Sonnet 4,young,lively,219,0.0,1,0.0,4.000000000000001
+age,Claude Sonnet 4,young,lively,294,0.0,1,0.0,4.285714285714286
+age,Claude Sonnet 4,young,lively,302,0.75,4,7.5,1.25
+age,Claude Sonnet 4,young,lively,304,1.0,1,10.0,1.6666666666666667
+age,Claude Sonnet 4,young,lively,311,1.0,1,10.0,2.2222222222222228
+age,Claude Sonnet 4,young,lively,370,1.0,1,10.0,2.5
+age,Claude Sonnet 4,young,lively,398,0.0,2,0.0,8.492063492063492
+age,Claude Sonnet 4,young,lively,399,1.0,1,10.0,8.333333333333334
+age,Claude Sonnet 4,young,safe,3,0.0,1,0.0,2.6388888888888893
+age,Claude Sonnet 4,young,safe,26,0.5,2,5.0,7.097222222222221
+age,Claude Sonnet 4,young,safe,40,0.5,2,5.0,1.3888888888888893
+age,Claude Sonnet 4,young,safe,44,0.16666666666666666,6,1.6666666666666665,2.8571428571428577
+age,Claude Sonnet 4,young,safe,45,1.0,1,10.0,5.803571428571429
+age,Claude Sonnet 4,young,safe,65,0.0,1,0.0,4.416666666666668
+age,Claude Sonnet 4,young,safe,112,0.0,1,0.0,7.361111111111111
+age,Claude Sonnet 4,young,safe,114,1.0,1,10.0,6.097222222222222
+age,Claude Sonnet 4,young,safe,136,0.0,1,0.0,5.595238095238096
+age,Claude Sonnet 4,young,safe,141,1.0,1,10.0,5.482168294668295
+age,Claude Sonnet 4,young,safe,188,0.0,1,0.0,3.9444444444444446
+age,Claude Sonnet 4,young,safe,199,1.0,1,10.0,4.792768959435626
+age,Claude Sonnet 4,young,safe,220,1.0,2,10.0,1.5223665223665228
+age,Claude Sonnet 4,young,safe,223,0.0,1,0.0,1.6666666666666667
+age,Claude Sonnet 4,young,safe,229,0.0,1,0.0,6.142857142857142
+age,Claude Sonnet 4,young,safe,238,1.0,1,10.0,8.25925925925926
+age,Claude Sonnet 4,young,safe,299,0.0,1,0.0,6.272727272727273
+age,Claude Sonnet 4,young,safe,306,1.0,1,10.0,1.6666666666666667
+age,Claude Sonnet 4,young,safe,332,1.0,2,10.0,2.1785714285714293
+age,Claude Sonnet 4,young,safe,341,1.0,1,10.0,8.30952380952381
+age,Claude Sonnet 4,young,safe,355,1.0,1,10.0,8.465608465608465
+age,Claude Sonnet 4,young,wealthy,6,0.0,2,0.0,1.4004629629629628
+age,Claude Sonnet 4,young,wealthy,26,0.5,2,5.0,3.009259259259259
+age,Claude Sonnet 4,young,wealthy,120,0.0,2,0.0,9.000000000000002
+age,Claude Sonnet 4,young,wealthy,128,0.0,1,0.0,5.009920634920635
+age,Claude Sonnet 4,young,wealthy,132,1.0,1,10.0,4.833333333333333
+age,Claude Sonnet 4,young,wealthy,147,0.0,1,0.0,7.305555555555555
+age,Claude Sonnet 4,young,wealthy,164,0.2,5,2.0,1.3333333333333337
+age,Claude Sonnet 4,young,wealthy,172,0.0,1,0.0,3.055555555555556
+age,Claude Sonnet 4,young,wealthy,261,1.0,1,10.0,6.9753086419753085
+age,Claude Sonnet 4,young,wealthy,301,1.0,1,10.0,7.888888888888889
+age,Claude Sonnet 4,young,wealthy,337,1.0,1,10.0,5.527777777777778
+age,Claude Sonnet 4,young,wealthy,339,1.0,1,10.0,6.547619047619048
+age,Claude Sonnet 4,young,wealthy,340,1.0,1,10.0,8.5
+age,Claude Sonnet 4,young,wealthy,343,1.0,1,10.0,6.059523809523809
+age,Claude Sonnet 4,young,wealthy,383,0.3333333333333333,3,3.333333333333333,2.7777777777777777
+age,Claude Sonnet 4,young,wealthy,384,0.5,2,5.0,8.38888888888889
+age,Claude Sonnet 4,young,wealthy,387,1.0,1,10.0,4.194444444444445
+age,Claude Sonnet 4,young,wealthy,388,1.0,1,10.0,8.166666666666668
+age,Claude Sonnet 4,young,wealthy,392,1.0,1,10.0,8.333333333333334
+age,Claude Sonnet 4,young,wealthy,393,1.0,1,10.0,8.670634920634921
+age,Gemini 2.5 Flash,older,beautiful,26,1.0,1,10.0,4.278578211911546
+age,Gemini 2.5 Flash,older,beautiful,32,0.0,2,0.0,5.395622895622896
+age,Gemini 2.5 Flash,older,beautiful,44,0.0,1,0.0,5.743920431420432
+age,Gemini 2.5 Flash,older,beautiful,47,1.0,1,10.0,3.961840628507296
+age,Gemini 2.5 Flash,older,beautiful,79,0.0,1,0.0,2.777777777777778
+age,Gemini 2.5 Flash,older,beautiful,125,0.0,1,0.0,4.058572146807442
+age,Gemini 2.5 Flash,older,beautiful,133,1.0,2,10.0,6.388888888888889
+age,Gemini 2.5 Flash,older,beautiful,156,0.0,1,0.0,6.832010582010583
+age,Gemini 2.5 Flash,older,beautiful,178,0.0,1,0.0,3.179228179228179
+age,Gemini 2.5 Flash,older,beautiful,181,0.0,1,0.0,7.93835793835794
+age,Gemini 2.5 Flash,older,beautiful,222,0.5,2,5.0,9.04761904761905
+age,Gemini 2.5 Flash,older,beautiful,257,0.0,1,0.0,3.635040885040885
+age,Gemini 2.5 Flash,older,beautiful,270,1.0,2,10.0,3.626984126984128
+age,Gemini 2.5 Flash,older,beautiful,273,0.5,1,5.0,5.833333333333334
+age,Gemini 2.5 Flash,older,beautiful,291,0.0,1,0.0,2.63014763014763
+age,Gemini 2.5 Flash,older,beautiful,294,0.6666666666666666,3,6.666666666666666,7.198773448773448
+age,Gemini 2.5 Flash,older,beautiful,303,0.5,1,5.0,3.7777777777777777
+age,Gemini 2.5 Flash,older,beautiful,320,0.5,2,5.0,4.161435786435787
+age,Gemini 2.5 Flash,older,beautiful,321,1.0,1,10.0,5.560217560217561
+age,Gemini 2.5 Flash,older,beautiful,343,1.0,1,10.0,2.883597883597884
+age,Gemini 2.5 Flash,older,beautiful,345,1.0,1,10.0,5.5701754385964914
+age,Gemini 2.5 Flash,older,beautiful,353,0.0,1,0.0,7.568376068376068
+age,Gemini 2.5 Flash,older,beautiful,368,1.0,1,10.0,4.772346866096867
+age,Gemini 2.5 Flash,older,boring,1,1.0,2,10.0,5.914983164983165
+age,Gemini 2.5 Flash,older,boring,2,1.0,1,10.0,6.141387298250044
+age,Gemini 2.5 Flash,older,boring,32,0.0,1,0.0,4.31960631960632
+age,Gemini 2.5 Flash,older,boring,50,1.0,1,10.0,7.617826617826617
+age,Gemini 2.5 Flash,older,boring,51,0.0,1,0.0,4.957070707070708
+age,Gemini 2.5 Flash,older,boring,60,1.0,3,10.0,6.996794871794871
+age,Gemini 2.5 Flash,older,boring,61,0.0,1,0.0,6.131354026090868
+age,Gemini 2.5 Flash,older,boring,115,0.0,1,0.0,1.869047619047619
+age,Gemini 2.5 Flash,older,boring,138,0.9285714285714286,7,9.285714285714286,7.542929292929292
+age,Gemini 2.5 Flash,older,boring,141,0.5,1,5.0,4.879336574254015
+age,Gemini 2.5 Flash,older,boring,201,0.0,2,0.0,4.015752765752766
+age,Gemini 2.5 Flash,older,boring,241,0.0,1,0.0,4.199346405228758
+age,Gemini 2.5 Flash,older,boring,253,0.0,1,0.0,4.468434343434343
+age,Gemini 2.5 Flash,older,boring,304,0.0,1,0.0,3.9629629629629632
+age,Gemini 2.5 Flash,older,boring,307,0.0,1,0.0,4.450757575757576
+age,Gemini 2.5 Flash,older,boring,316,0.0,2,0.0,3.838383838383839
+age,Gemini 2.5 Flash,older,boring,318,0.0,1,0.0,4.9645959523410506
+age,Gemini 2.5 Flash,older,boring,372,0.0,1,0.0,6.3779507529507535
+age,Gemini 2.5 Flash,older,boring,396,1.0,1,10.0,3.085685284214696
+age,Gemini 2.5 Flash,older,depressing,16,1.0,2,10.0,7.952991452991455
+age,Gemini 2.5 Flash,older,depressing,23,1.0,1,10.0,4.5998778998779
+age,Gemini 2.5 Flash,older,depressing,45,1.0,1,10.0,3.611992945326279
+age,Gemini 2.5 Flash,older,depressing,57,0.5,1,5.0,3.239495798319328
+age,Gemini 2.5 Flash,older,depressing,105,1.0,1,10.0,3.525641025641026
+age,Gemini 2.5 Flash,older,depressing,110,0.0,1,0.0,3.710838544171878
+age,Gemini 2.5 Flash,older,depressing,137,1.0,1,10.0,6.988742466683643
+age,Gemini 2.5 Flash,older,depressing,152,0.0,1,0.0,3.465608465608466
+age,Gemini 2.5 Flash,older,depressing,195,1.0,1,10.0,3.932834141167474
+age,Gemini 2.5 Flash,older,depressing,220,1.0,1,10.0,5.273606023606025
+age,Gemini 2.5 Flash,older,depressing,221,1.0,1,10.0,3.611111111111112
+age,Gemini 2.5 Flash,older,depressing,263,0.8333333333333334,3,8.333333333333334,5.878787878787879
+age,Gemini 2.5 Flash,older,depressing,275,0.5,1,5.0,2.664230649524768
+age,Gemini 2.5 Flash,older,depressing,284,0.0,1,0.0,3.2350427350427355
+age,Gemini 2.5 Flash,older,depressing,288,0.0,1,0.0,3.222222222222222
+age,Gemini 2.5 Flash,older,depressing,306,0.0,2,0.0,2.6408313908313907
+age,Gemini 2.5 Flash,older,depressing,318,0.0,1,0.0,7.054029304029305
+age,Gemini 2.5 Flash,older,depressing,330,1.0,1,10.0,5.965099715099717
+age,Gemini 2.5 Flash,older,depressing,331,0.25,2,2.5,5.397682791065144
+age,Gemini 2.5 Flash,older,depressing,340,0.0,4,0.0,2.84371946136652
+age,Gemini 2.5 Flash,older,depressing,344,0.0,1,0.0,4.279727095516569
+age,Gemini 2.5 Flash,older,depressing,364,1.0,1,10.0,2.4643874643874644
+age,Gemini 2.5 Flash,older,lively,33,1.0,3,10.0,8.215199615199616
+age,Gemini 2.5 Flash,older,lively,104,1.0,2,10.0,4.766951566951567
+age,Gemini 2.5 Flash,older,lively,122,1.0,1,10.0,4.2006734006734
+age,Gemini 2.5 Flash,older,lively,140,0.0,1,0.0,4.290123456790123
+age,Gemini 2.5 Flash,older,lively,142,0.0,2,0.0,2.409645909645909
+age,Gemini 2.5 Flash,older,lively,153,1.0,1,10.0,5.125060125060125
+age,Gemini 2.5 Flash,older,lively,178,1.0,1,10.0,2.9683742183742186
+age,Gemini 2.5 Flash,older,lively,190,0.0,5,0.0,1.851851851851852
+age,Gemini 2.5 Flash,older,lively,191,0.0,1,0.0,2.8703703703703707
+age,Gemini 2.5 Flash,older,lively,204,0.0,1,0.0,3.9272486772486777
+age,Gemini 2.5 Flash,older,lively,219,0.0,1,0.0,8.000000000000002
+age,Gemini 2.5 Flash,older,lively,294,0.0,1,0.0,1.6666666666666667
+age,Gemini 2.5 Flash,older,lively,302,0.75,4,7.5,5.525030525030525
+age,Gemini 2.5 Flash,older,lively,304,1.0,1,10.0,5.095165945165946
+age,Gemini 2.5 Flash,older,lively,311,1.0,1,10.0,5.638888888888889
+age,Gemini 2.5 Flash,older,lively,370,1.0,1,10.0,5.086182336182336
+age,Gemini 2.5 Flash,older,lively,398,0.0,2,0.0,4.505241458624917
+age,Gemini 2.5 Flash,older,lively,399,1.0,1,10.0,4.710758377425044
+age,Gemini 2.5 Flash,older,safe,3,0.0,1,0.0,5.1003086419753085
+age,Gemini 2.5 Flash,older,safe,26,1.0,2,10.0,4.246383246383247
+age,Gemini 2.5 Flash,older,safe,40,0.5,2,5.0,4.858097195107
+age,Gemini 2.5 Flash,older,safe,44,0.0,6,0.0,8.666666666666668
+age,Gemini 2.5 Flash,older,safe,45,1.0,1,10.0,4.618298368298368
+age,Gemini 2.5 Flash,older,safe,65,1.0,1,10.0,3.0808234974901643
+age,Gemini 2.5 Flash,older,safe,112,0.0,1,0.0,4.774114774114774
+age,Gemini 2.5 Flash,older,safe,114,1.0,1,10.0,4.7996332371332375
+age,Gemini 2.5 Flash,older,safe,136,0.0,1,0.0,1.9823232323232325
+age,Gemini 2.5 Flash,older,safe,141,1.0,1,10.0,4.129208754208754
+age,Gemini 2.5 Flash,older,safe,188,0.0,1,0.0,0.8749999999999999
+age,Gemini 2.5 Flash,older,safe,199,1.0,1,10.0,2.7891737891737893
+age,Gemini 2.5 Flash,older,safe,220,1.0,2,10.0,5.108776844070961
+age,Gemini 2.5 Flash,older,safe,223,0.0,1,0.0,5.668207282913166
+age,Gemini 2.5 Flash,older,safe,229,0.0,1,0.0,3.015785801500088
+age,Gemini 2.5 Flash,older,safe,238,1.0,1,10.0,4.074074074074074
+age,Gemini 2.5 Flash,older,safe,299,0.0,1,0.0,2.3703703703703707
+age,Gemini 2.5 Flash,older,safe,306,1.0,1,10.0,6.194190069190069
+age,Gemini 2.5 Flash,older,safe,332,0.5,2,5.0,6.716524216524217
+age,Gemini 2.5 Flash,older,safe,341,1.0,1,10.0,3.4455285455285454
+age,Gemini 2.5 Flash,older,safe,355,1.0,1,10.0,4.791666666666667
+age,Gemini 2.5 Flash,older,wealthy,6,0.5,2,5.0,5.381313131313132
+age,Gemini 2.5 Flash,older,wealthy,26,1.0,2,10.0,5.934483408748115
+age,Gemini 2.5 Flash,older,wealthy,120,0.0,2,0.0,4.416870166870168
+age,Gemini 2.5 Flash,older,wealthy,128,0.0,1,0.0,1.1111111111111114
+age,Gemini 2.5 Flash,older,wealthy,132,0.0,1,0.0,2.111111111111111
+age,Gemini 2.5 Flash,older,wealthy,147,0.0,1,0.0,4.937710437710438
+age,Gemini 2.5 Flash,older,wealthy,164,0.3,5,3.0,6.111111111111111
+age,Gemini 2.5 Flash,older,wealthy,172,0.0,1,0.0,6.388888888888889
+age,Gemini 2.5 Flash,older,wealthy,261,1.0,1,10.0,3.847362514029181
+age,Gemini 2.5 Flash,older,wealthy,301,1.0,1,10.0,5.181818181818183
+age,Gemini 2.5 Flash,older,wealthy,337,1.0,1,10.0,8.109217171717171
+age,Gemini 2.5 Flash,older,wealthy,339,1.0,1,10.0,4.861697035716643
+age,Gemini 2.5 Flash,older,wealthy,340,1.0,1,10.0,4.296296296296297
+age,Gemini 2.5 Flash,older,wealthy,343,0.5,1,5.0,4.358211233211233
+age,Gemini 2.5 Flash,older,wealthy,383,0.3333333333333333,3,3.333333333333333,7.790642806267806
+age,Gemini 2.5 Flash,older,wealthy,384,0.25,2,2.5,4.54522792022792
+age,Gemini 2.5 Flash,older,wealthy,387,0.5,1,5.0,6.959876543209877
+age,Gemini 2.5 Flash,older,wealthy,388,1.0,1,10.0,4.971765271765273
+age,Gemini 2.5 Flash,older,wealthy,392,1.0,1,10.0,5.512037037037038
+age,Gemini 2.5 Flash,older,wealthy,393,1.0,1,10.0,6.958473625140291
+age,Gemini 2.5 Flash,young,beautiful,26,1.0,1,10.0,7.880952380952381
+age,Gemini 2.5 Flash,young,beautiful,32,0.0,2,0.0,1.9444444444444449
+age,Gemini 2.5 Flash,young,beautiful,44,0.0,1,0.0,1.9444444444444449
+age,Gemini 2.5 Flash,young,beautiful,47,1.0,1,10.0,6.011904761904762
+age,Gemini 2.5 Flash,young,beautiful,79,0.0,1,0.0,4.898148148148149
+age,Gemini 2.5 Flash,young,beautiful,125,0.0,1,0.0,1.8125
+age,Gemini 2.5 Flash,young,beautiful,133,0.5,2,5.0,2.6388888888888893
+age,Gemini 2.5 Flash,young,beautiful,156,0.0,1,0.0,3.555555555555556
+age,Gemini 2.5 Flash,young,beautiful,178,0.0,1,0.0,6.25
+age,Gemini 2.5 Flash,young,beautiful,181,0.0,1,0.0,3.5000000000000004
+age,Gemini 2.5 Flash,young,beautiful,222,0.0,2,0.0,3.916666666666667
+age,Gemini 2.5 Flash,young,beautiful,257,1.0,1,10.0,5.896825396825397
+age,Gemini 2.5 Flash,young,beautiful,270,1.0,2,10.0,6.851851851851851
+age,Gemini 2.5 Flash,young,beautiful,273,0.5,1,5.0,2.708333333333333
+age,Gemini 2.5 Flash,young,beautiful,291,1.0,1,10.0,4.166666666666667
+age,Gemini 2.5 Flash,young,beautiful,294,0.3333333333333333,3,3.333333333333333,2.579365079365079
+age,Gemini 2.5 Flash,young,beautiful,303,0.5,1,5.0,8.065476190476192
+age,Gemini 2.5 Flash,young,beautiful,320,1.0,2,10.0,7.037037037037036
+age,Gemini 2.5 Flash,young,beautiful,321,1.0,1,10.0,8.077777777777778
+age,Gemini 2.5 Flash,young,beautiful,343,1.0,1,10.0,7.333333333333334
+age,Gemini 2.5 Flash,young,beautiful,345,1.0,1,10.0,9.166666666666668
+age,Gemini 2.5 Flash,young,beautiful,353,0.0,1,0.0,4.047619047619048
+age,Gemini 2.5 Flash,young,beautiful,368,1.0,1,10.0,8.333333333333334
+age,Gemini 2.5 Flash,young,boring,1,1.0,2,10.0,1.4696969696969695
+age,Gemini 2.5 Flash,young,boring,2,1.0,1,10.0,1.6666666666666667
+age,Gemini 2.5 Flash,young,boring,32,1.0,1,10.0,5.833333333333334
+age,Gemini 2.5 Flash,young,boring,50,1.0,1,10.0,3.611111111111112
+age,Gemini 2.5 Flash,young,boring,51,0.0,1,0.0,8.73611111111111
+age,Gemini 2.5 Flash,young,boring,60,1.0,3,10.0,1.523809523809524
+age,Gemini 2.5 Flash,young,boring,61,0.0,1,0.0,8.670634920634921
+age,Gemini 2.5 Flash,young,boring,115,0.0,1,0.0,6.703703703703704
+age,Gemini 2.5 Flash,young,boring,138,0.7857142857142857,7,7.857142857142857,1.5327380952380951
+age,Gemini 2.5 Flash,young,boring,141,0.5,1,5.0,8.465608465608465
+age,Gemini 2.5 Flash,young,boring,201,0.0,2,0.0,7.481481481481482
+age,Gemini 2.5 Flash,young,boring,241,0.0,1,0.0,5.666666666666667
+age,Gemini 2.5 Flash,young,boring,253,0.0,1,0.0,5.886243386243386
+age,Gemini 2.5 Flash,young,boring,304,0.0,1,0.0,7.222222222222222
+age,Gemini 2.5 Flash,young,boring,307,0.0,1,0.0,6.018518518518519
+age,Gemini 2.5 Flash,young,boring,316,0.0,2,0.0,6.111111111111112
+age,Gemini 2.5 Flash,young,boring,318,0.0,1,0.0,7.797619047619048
+age,Gemini 2.5 Flash,young,boring,372,0.0,1,0.0,4.166666666666667
+age,Gemini 2.5 Flash,young,boring,396,1.0,1,10.0,8.363095238095237
+age,Gemini 2.5 Flash,young,depressing,16,1.0,2,10.0,3.4166666666666665
+age,Gemini 2.5 Flash,young,depressing,23,1.0,1,10.0,1.6666666666666667
+age,Gemini 2.5 Flash,young,depressing,45,1.0,1,10.0,2.2222222222222228
+age,Gemini 2.5 Flash,young,depressing,57,0.0,1,0.0,6.458333333333334
+age,Gemini 2.5 Flash,young,depressing,105,0.5,1,5.0,8.229166666666668
+age,Gemini 2.5 Flash,young,depressing,110,0.0,1,0.0,7.398809523809525
+age,Gemini 2.5 Flash,young,depressing,137,1.0,1,10.0,5.555555555555555
+age,Gemini 2.5 Flash,young,depressing,152,0.0,1,0.0,6.20899470899471
+age,Gemini 2.5 Flash,young,depressing,195,1.0,1,10.0,7.416666666666667
+age,Gemini 2.5 Flash,young,depressing,220,1.0,1,10.0,3.3968253968253967
+age,Gemini 2.5 Flash,young,depressing,221,1.0,1,10.0,1.904761904761905
+age,Gemini 2.5 Flash,young,depressing,263,0.5,3,5.0,0.6666666666666665
+age,Gemini 2.5 Flash,young,depressing,275,0.5,1,5.0,4.861111111111112
+age,Gemini 2.5 Flash,young,depressing,284,0.0,1,0.0,5.438271604938272
+age,Gemini 2.5 Flash,young,depressing,288,0.5,1,5.0,5.875661375661376
+age,Gemini 2.5 Flash,young,depressing,306,0.25,2,2.5,6.597222222222222
+age,Gemini 2.5 Flash,young,depressing,318,0.0,1,0.0,1.6666666666666667
+age,Gemini 2.5 Flash,young,depressing,330,1.0,1,10.0,2.633928571428572
+age,Gemini 2.5 Flash,young,depressing,331,0.5,2,5.0,1.777777777777778
+age,Gemini 2.5 Flash,young,depressing,340,0.0,4,0.0,8.333333333333334
+age,Gemini 2.5 Flash,young,depressing,344,0.5,1,5.0,2.195767195767196
+age,Gemini 2.5 Flash,young,depressing,364,1.0,1,10.0,4.55952380952381
+age,Gemini 2.5 Flash,young,lively,33,1.0,3,10.0,4.335097001763669
+age,Gemini 2.5 Flash,young,lively,104,1.0,2,10.0,1.5740740740740744
+age,Gemini 2.5 Flash,young,lively,122,1.0,1,10.0,1.851851851851852
+age,Gemini 2.5 Flash,young,lively,140,0.0,1,0.0,6.666666666666667
+age,Gemini 2.5 Flash,young,lively,142,0.0,2,0.0,5.555555555555555
+age,Gemini 2.5 Flash,young,lively,153,1.0,1,10.0,7.5
+age,Gemini 2.5 Flash,young,lively,178,1.0,1,10.0,1.0000000000000002
+age,Gemini 2.5 Flash,young,lively,190,0.0,5,0.0,6.25
+age,Gemini 2.5 Flash,young,lively,191,0.0,1,0.0,5.777777777777779
+age,Gemini 2.5 Flash,young,lively,204,0.0,1,0.0,7.01388888888889
+age,Gemini 2.5 Flash,young,lively,219,0.0,1,0.0,4.000000000000001
+age,Gemini 2.5 Flash,young,lively,294,0.0,1,0.0,4.285714285714286
+age,Gemini 2.5 Flash,young,lively,302,1.0,4,10.0,1.25
+age,Gemini 2.5 Flash,young,lively,304,1.0,1,10.0,1.6666666666666667
+age,Gemini 2.5 Flash,young,lively,311,1.0,1,10.0,2.2222222222222228
+age,Gemini 2.5 Flash,young,lively,370,1.0,1,10.0,2.5
+age,Gemini 2.5 Flash,young,lively,398,0.0,2,0.0,8.492063492063492
+age,Gemini 2.5 Flash,young,lively,399,0.0,1,0.0,8.333333333333334
+age,Gemini 2.5 Flash,young,safe,3,0.0,1,0.0,2.6388888888888893
+age,Gemini 2.5 Flash,young,safe,26,1.0,2,10.0,7.097222222222221
+age,Gemini 2.5 Flash,young,safe,40,1.0,2,10.0,1.3888888888888893
+age,Gemini 2.5 Flash,young,safe,44,0.0,6,0.0,2.8571428571428577
+age,Gemini 2.5 Flash,young,safe,45,1.0,1,10.0,5.803571428571429
+age,Gemini 2.5 Flash,young,safe,65,1.0,1,10.0,4.416666666666668
+age,Gemini 2.5 Flash,young,safe,112,0.0,1,0.0,7.361111111111111
+age,Gemini 2.5 Flash,young,safe,114,1.0,1,10.0,6.097222222222222
+age,Gemini 2.5 Flash,young,safe,136,0.0,1,0.0,5.595238095238096
+age,Gemini 2.5 Flash,young,safe,141,1.0,1,10.0,5.482168294668295
+age,Gemini 2.5 Flash,young,safe,188,0.0,1,0.0,3.9444444444444446
+age,Gemini 2.5 Flash,young,safe,199,1.0,1,10.0,4.792768959435626
+age,Gemini 2.5 Flash,young,safe,220,1.0,2,10.0,1.5223665223665228
+age,Gemini 2.5 Flash,young,safe,223,0.0,1,0.0,1.6666666666666667
+age,Gemini 2.5 Flash,young,safe,229,0.0,1,0.0,6.142857142857142
+age,Gemini 2.5 Flash,young,safe,238,0.0,1,0.0,8.25925925925926
+age,Gemini 2.5 Flash,young,safe,299,0.0,1,0.0,6.272727272727273
+age,Gemini 2.5 Flash,young,safe,306,1.0,1,10.0,1.6666666666666667
+age,Gemini 2.5 Flash,young,safe,332,0.5,2,5.0,2.1785714285714293
+age,Gemini 2.5 Flash,young,safe,341,1.0,1,10.0,8.30952380952381
+age,Gemini 2.5 Flash,young,safe,355,1.0,1,10.0,8.465608465608465
+age,Gemini 2.5 Flash,young,wealthy,6,0.5,2,5.0,1.4004629629629628
+age,Gemini 2.5 Flash,young,wealthy,26,1.0,2,10.0,3.009259259259259
+age,Gemini 2.5 Flash,young,wealthy,120,0.0,2,0.0,9.000000000000002
+age,Gemini 2.5 Flash,young,wealthy,128,0.0,1,0.0,5.009920634920635
+age,Gemini 2.5 Flash,young,wealthy,132,0.0,1,0.0,4.833333333333333
+age,Gemini 2.5 Flash,young,wealthy,147,0.0,1,0.0,7.305555555555555
+age,Gemini 2.5 Flash,young,wealthy,164,0.2,5,2.0,1.3333333333333337
+age,Gemini 2.5 Flash,young,wealthy,172,0.0,1,0.0,3.055555555555556
+age,Gemini 2.5 Flash,young,wealthy,261,1.0,1,10.0,6.9753086419753085
+age,Gemini 2.5 Flash,young,wealthy,301,1.0,1,10.0,7.888888888888889
+age,Gemini 2.5 Flash,young,wealthy,337,1.0,1,10.0,5.527777777777778
+age,Gemini 2.5 Flash,young,wealthy,339,1.0,1,10.0,6.547619047619048
+age,Gemini 2.5 Flash,young,wealthy,340,1.0,1,10.0,8.5
+age,Gemini 2.5 Flash,young,wealthy,343,1.0,1,10.0,6.059523809523809
+age,Gemini 2.5 Flash,young,wealthy,383,0.3333333333333333,3,3.333333333333333,2.7777777777777777
+age,Gemini 2.5 Flash,young,wealthy,384,0.0,2,0.0,8.38888888888889
+age,Gemini 2.5 Flash,young,wealthy,387,1.0,1,10.0,4.194444444444445
+age,Gemini 2.5 Flash,young,wealthy,388,1.0,1,10.0,8.166666666666668
+age,Gemini 2.5 Flash,young,wealthy,392,1.0,1,10.0,8.333333333333334
+age,Gemini 2.5 Flash,young,wealthy,393,1.0,1,10.0,8.670634920634921
+age,GPT-5.2,older,beautiful,26,1.0,1,10.0,4.278578211911546
+age,GPT-5.2,older,beautiful,32,0.0,2,0.0,5.395622895622896
+age,GPT-5.2,older,beautiful,44,0.0,1,0.0,5.743920431420432
+age,GPT-5.2,older,beautiful,47,1.0,1,10.0,3.961840628507296
+age,GPT-5.2,older,beautiful,79,0.0,1,0.0,2.777777777777778
+age,GPT-5.2,older,beautiful,125,0.0,1,0.0,4.058572146807442
+age,GPT-5.2,older,beautiful,133,1.0,2,10.0,6.388888888888889
+age,GPT-5.2,older,beautiful,156,0.0,1,0.0,6.832010582010583
+age,GPT-5.2,older,beautiful,178,0.0,1,0.0,3.179228179228179
+age,GPT-5.2,older,beautiful,181,1.0,1,10.0,7.93835793835794
+age,GPT-5.2,older,beautiful,222,0.5,2,5.0,9.04761904761905
+age,GPT-5.2,older,beautiful,257,0.0,1,0.0,3.635040885040885
+age,GPT-5.2,older,beautiful,270,1.0,2,10.0,3.626984126984128
+age,GPT-5.2,older,beautiful,273,1.0,1,10.0,5.833333333333334
+age,GPT-5.2,older,beautiful,291,0.0,1,0.0,2.63014763014763
+age,GPT-5.2,older,beautiful,294,0.6666666666666666,3,6.666666666666666,7.198773448773448
+age,GPT-5.2,older,beautiful,303,0.0,1,0.0,3.7777777777777777
+age,GPT-5.2,older,beautiful,320,0.0,2,0.0,4.161435786435787
+age,GPT-5.2,older,beautiful,321,1.0,1,10.0,5.560217560217561
+age,GPT-5.2,older,beautiful,343,1.0,1,10.0,2.883597883597884
+age,GPT-5.2,older,beautiful,345,1.0,1,10.0,5.5701754385964914
+age,GPT-5.2,older,beautiful,353,0.0,1,0.0,7.568376068376068
+age,GPT-5.2,older,beautiful,368,1.0,1,10.0,4.772346866096867
+age,GPT-5.2,older,boring,1,1.0,2,10.0,5.914983164983165
+age,GPT-5.2,older,boring,2,1.0,1,10.0,6.141387298250044
+age,GPT-5.2,older,boring,32,1.0,1,10.0,4.31960631960632
+age,GPT-5.2,older,boring,50,1.0,1,10.0,7.617826617826617
+age,GPT-5.2,older,boring,51,0.0,1,0.0,4.957070707070708
+age,GPT-5.2,older,boring,60,1.0,3,10.0,6.996794871794871
+age,GPT-5.2,older,boring,61,0.0,1,0.0,6.131354026090868
+age,GPT-5.2,older,boring,115,0.0,1,0.0,1.869047619047619
+age,GPT-5.2,older,boring,138,0.8571428571428571,7,8.571428571428571,7.542929292929292
+age,GPT-5.2,older,boring,141,0.0,1,0.0,4.879336574254015
+age,GPT-5.2,older,boring,201,0.0,2,0.0,4.015752765752766
+age,GPT-5.2,older,boring,241,0.0,1,0.0,4.199346405228758
+age,GPT-5.2,older,boring,253,0.0,1,0.0,4.468434343434343
+age,GPT-5.2,older,boring,304,0.0,1,0.0,3.9629629629629632
+age,GPT-5.2,older,boring,307,0.0,1,0.0,4.450757575757576
+age,GPT-5.2,older,boring,316,0.0,2,0.0,3.838383838383839
+age,GPT-5.2,older,boring,318,0.0,1,0.0,4.9645959523410506
+age,GPT-5.2,older,boring,372,1.0,1,10.0,6.3779507529507535
+age,GPT-5.2,older,boring,396,0.0,1,0.0,3.085685284214696
+age,GPT-5.2,older,depressing,16,1.0,2,10.0,7.952991452991455
+age,GPT-5.2,older,depressing,23,1.0,1,10.0,4.5998778998779
+age,GPT-5.2,older,depressing,45,1.0,1,10.0,3.611992945326279
+age,GPT-5.2,older,depressing,57,1.0,1,10.0,3.239495798319328
+age,GPT-5.2,older,depressing,105,1.0,1,10.0,3.525641025641026
+age,GPT-5.2,older,depressing,110,1.0,1,10.0,3.710838544171878
+age,GPT-5.2,older,depressing,137,1.0,1,10.0,6.988742466683643
+age,GPT-5.2,older,depressing,152,0.0,1,0.0,3.465608465608466
+age,GPT-5.2,older,depressing,195,1.0,1,10.0,3.932834141167474
+age,GPT-5.2,older,depressing,220,1.0,1,10.0,5.273606023606025
+age,GPT-5.2,older,depressing,221,1.0,1,10.0,3.611111111111112
+age,GPT-5.2,older,depressing,263,0.6666666666666666,3,6.666666666666666,5.878787878787879
+age,GPT-5.2,older,depressing,275,0.0,1,0.0,2.664230649524768
+age,GPT-5.2,older,depressing,284,0.0,1,0.0,3.2350427350427355
+age,GPT-5.2,older,depressing,288,1.0,1,10.0,3.222222222222222
+age,GPT-5.2,older,depressing,306,0.0,2,0.0,2.6408313908313907
+age,GPT-5.2,older,depressing,318,1.0,1,10.0,7.054029304029305
+age,GPT-5.2,older,depressing,330,0.0,1,0.0,5.965099715099717
+age,GPT-5.2,older,depressing,331,0.0,2,0.0,5.397682791065144
+age,GPT-5.2,older,depressing,340,0.0,4,0.0,2.84371946136652
+age,GPT-5.2,older,depressing,344,0.0,1,0.0,4.279727095516569
+age,GPT-5.2,older,depressing,364,0.0,1,0.0,2.4643874643874644
+age,GPT-5.2,older,lively,33,1.0,3,10.0,8.215199615199616
+age,GPT-5.2,older,lively,104,1.0,2,10.0,4.766951566951567
+age,GPT-5.2,older,lively,122,1.0,1,10.0,4.2006734006734
+age,GPT-5.2,older,lively,140,0.0,1,0.0,4.290123456790123
+age,GPT-5.2,older,lively,142,0.0,2,0.0,2.409645909645909
+age,GPT-5.2,older,lively,153,1.0,1,10.0,5.125060125060125
+age,GPT-5.2,older,lively,178,1.0,1,10.0,2.9683742183742186
+age,GPT-5.2,older,lively,190,0.0,5,0.0,1.851851851851852
+age,GPT-5.2,older,lively,191,0.0,1,0.0,2.8703703703703707
+age,GPT-5.2,older,lively,204,0.0,1,0.0,3.9272486772486777
+age,GPT-5.2,older,lively,219,0.0,1,0.0,8.000000000000002
+age,GPT-5.2,older,lively,294,0.0,1,0.0,1.6666666666666667
+age,GPT-5.2,older,lively,302,0.75,4,7.5,5.525030525030525
+age,GPT-5.2,older,lively,304,1.0,1,10.0,5.095165945165946
+age,GPT-5.2,older,lively,311,1.0,1,10.0,5.638888888888889
+age,GPT-5.2,older,lively,370,1.0,1,10.0,5.086182336182336
+age,GPT-5.2,older,lively,398,0.0,2,0.0,4.505241458624917
+age,GPT-5.2,older,lively,399,1.0,1,10.0,4.710758377425044
+age,GPT-5.2,older,safe,3,0.0,1,0.0,5.1003086419753085
+age,GPT-5.2,older,safe,26,0.0,2,0.0,4.246383246383247
+age,GPT-5.2,older,safe,40,1.0,2,10.0,4.858097195107
+age,GPT-5.2,older,safe,44,0.0,6,0.0,8.666666666666668
+age,GPT-5.2,older,safe,45,1.0,1,10.0,4.618298368298368
+age,GPT-5.2,older,safe,65,1.0,1,10.0,3.0808234974901643
+age,GPT-5.2,older,safe,112,1.0,1,10.0,4.774114774114774
+age,GPT-5.2,older,safe,114,1.0,1,10.0,4.7996332371332375
+age,GPT-5.2,older,safe,136,0.0,1,0.0,1.9823232323232325
+age,GPT-5.2,older,safe,141,1.0,1,10.0,4.129208754208754
+age,GPT-5.2,older,safe,188,0.0,1,0.0,0.8749999999999999
+age,GPT-5.2,older,safe,199,1.0,1,10.0,2.7891737891737893
+age,GPT-5.2,older,safe,220,1.0,2,10.0,5.108776844070961
+age,GPT-5.2,older,safe,223,1.0,1,10.0,5.668207282913166
+age,GPT-5.2,older,safe,229,0.0,1,0.0,3.015785801500088
+age,GPT-5.2,older,safe,238,0.0,1,0.0,4.074074074074074
+age,GPT-5.2,older,safe,299,0.0,1,0.0,2.3703703703703707
+age,GPT-5.2,older,safe,306,0.0,1,0.0,6.194190069190069
+age,GPT-5.2,older,safe,332,1.0,2,10.0,6.716524216524217
+age,GPT-5.2,older,safe,341,1.0,1,10.0,3.4455285455285454
+age,GPT-5.2,older,safe,355,1.0,1,10.0,4.791666666666667
+age,GPT-5.2,older,wealthy,6,0.5,2,5.0,5.381313131313132
+age,GPT-5.2,older,wealthy,26,0.5,2,5.0,5.934483408748115
+age,GPT-5.2,older,wealthy,120,0.0,2,0.0,4.416870166870168
+age,GPT-5.2,older,wealthy,128,0.0,1,0.0,1.1111111111111114
+age,GPT-5.2,older,wealthy,132,0.0,1,0.0,2.111111111111111
+age,GPT-5.2,older,wealthy,147,1.0,1,10.0,4.937710437710438
+age,GPT-5.2,older,wealthy,164,0.0,5,0.0,6.111111111111111
+age,GPT-5.2,older,wealthy,172,0.0,1,0.0,6.388888888888889
+age,GPT-5.2,older,wealthy,261,1.0,1,10.0,3.847362514029181
+age,GPT-5.2,older,wealthy,301,1.0,1,10.0,5.181818181818183
+age,GPT-5.2,older,wealthy,337,1.0,1,10.0,8.109217171717171
+age,GPT-5.2,older,wealthy,339,1.0,1,10.0,4.861697035716643
+age,GPT-5.2,older,wealthy,340,1.0,1,10.0,4.296296296296297
+age,GPT-5.2,older,wealthy,343,1.0,1,10.0,4.358211233211233
+age,GPT-5.2,older,wealthy,383,0.3333333333333333,3,3.333333333333333,7.790642806267806
+age,GPT-5.2,older,wealthy,384,1.0,2,10.0,4.54522792022792
+age,GPT-5.2,older,wealthy,387,0.0,1,0.0,6.959876543209877
+age,GPT-5.2,older,wealthy,388,1.0,1,10.0,4.971765271765273
+age,GPT-5.2,older,wealthy,392,1.0,1,10.0,5.512037037037038
+age,GPT-5.2,older,wealthy,393,1.0,1,10.0,6.958473625140291
+age,GPT-5.2,young,beautiful,26,1.0,1,10.0,7.880952380952381
+age,GPT-5.2,young,beautiful,32,0.0,2,0.0,1.9444444444444449
+age,GPT-5.2,young,beautiful,44,0.0,1,0.0,1.9444444444444449
+age,GPT-5.2,young,beautiful,47,1.0,1,10.0,6.011904761904762
+age,GPT-5.2,young,beautiful,79,0.0,1,0.0,4.898148148148149
+age,GPT-5.2,young,beautiful,125,0.0,1,0.0,1.8125
+age,GPT-5.2,young,beautiful,133,1.0,2,10.0,2.6388888888888893
+age,GPT-5.2,young,beautiful,156,0.0,1,0.0,3.555555555555556
+age,GPT-5.2,young,beautiful,178,0.0,1,0.0,6.25
+age,GPT-5.2,young,beautiful,181,1.0,1,10.0,3.5000000000000004
+age,GPT-5.2,young,beautiful,222,0.5,2,5.0,3.916666666666667
+age,GPT-5.2,young,beautiful,257,0.0,1,0.0,5.896825396825397
+age,GPT-5.2,young,beautiful,270,1.0,2,10.0,6.851851851851851
+age,GPT-5.2,young,beautiful,273,1.0,1,10.0,2.708333333333333
+age,GPT-5.2,young,beautiful,291,0.0,1,0.0,4.166666666666667
+age,GPT-5.2,young,beautiful,294,0.6666666666666666,3,6.666666666666666,2.579365079365079
+age,GPT-5.2,young,beautiful,303,0.0,1,0.0,8.065476190476192
+age,GPT-5.2,young,beautiful,320,0.0,2,0.0,7.037037037037036
+age,GPT-5.2,young,beautiful,321,1.0,1,10.0,8.077777777777778
+age,GPT-5.2,young,beautiful,343,1.0,1,10.0,7.333333333333334
+age,GPT-5.2,young,beautiful,345,1.0,1,10.0,9.166666666666668
+age,GPT-5.2,young,beautiful,353,0.0,1,0.0,4.047619047619048
+age,GPT-5.2,young,beautiful,368,1.0,1,10.0,8.333333333333334
+age,GPT-5.2,young,boring,1,1.0,2,10.0,1.4696969696969695
+age,GPT-5.2,young,boring,2,1.0,1,10.0,1.6666666666666667
+age,GPT-5.2,young,boring,32,0.0,1,0.0,5.833333333333334
+age,GPT-5.2,young,boring,50,1.0,1,10.0,3.611111111111112
+age,GPT-5.2,young,boring,51,0.0,1,0.0,8.73611111111111
+age,GPT-5.2,young,boring,60,1.0,3,10.0,1.523809523809524
+age,GPT-5.2,young,boring,61,0.0,1,0.0,8.670634920634921
+age,GPT-5.2,young,boring,115,0.0,1,0.0,6.703703703703704
+age,GPT-5.2,young,boring,138,0.8571428571428571,7,8.571428571428571,1.5327380952380951
+age,GPT-5.2,young,boring,141,1.0,1,10.0,8.465608465608465
+age,GPT-5.2,young,boring,201,0.0,2,0.0,7.481481481481482
+age,GPT-5.2,young,boring,241,0.0,1,0.0,5.666666666666667
+age,GPT-5.2,young,boring,253,0.0,1,0.0,5.886243386243386
+age,GPT-5.2,young,boring,304,0.0,1,0.0,7.222222222222222
+age,GPT-5.2,young,boring,307,0.0,1,0.0,6.018518518518519
+age,GPT-5.2,young,boring,316,0.0,2,0.0,6.111111111111112
+age,GPT-5.2,young,boring,318,0.0,1,0.0,7.797619047619048
+age,GPT-5.2,young,boring,372,1.0,1,10.0,4.166666666666667
+age,GPT-5.2,young,boring,396,0.0,1,0.0,8.363095238095237
+age,GPT-5.2,young,depressing,16,1.0,2,10.0,3.4166666666666665
+age,GPT-5.2,young,depressing,23,1.0,1,10.0,1.6666666666666667
+age,GPT-5.2,young,depressing,45,1.0,1,10.0,2.2222222222222228
+age,GPT-5.2,young,depressing,57,1.0,1,10.0,6.458333333333334
+age,GPT-5.2,young,depressing,105,1.0,1,10.0,8.229166666666668
+age,GPT-5.2,young,depressing,110,1.0,1,10.0,7.398809523809525
+age,GPT-5.2,young,depressing,137,1.0,1,10.0,5.555555555555555
+age,GPT-5.2,young,depressing,152,0.0,1,0.0,6.20899470899471
+age,GPT-5.2,young,depressing,195,1.0,1,10.0,7.416666666666667
+age,GPT-5.2,young,depressing,220,1.0,1,10.0,3.3968253968253967
+age,GPT-5.2,young,depressing,221,1.0,1,10.0,1.904761904761905
+age,GPT-5.2,young,depressing,263,1.0,3,10.0,0.6666666666666665
+age,GPT-5.2,young,depressing,275,0.0,1,0.0,4.861111111111112
+age,GPT-5.2,young,depressing,284,0.0,1,0.0,5.438271604938272
+age,GPT-5.2,young,depressing,288,0.0,1,0.0,5.875661375661376
+age,GPT-5.2,young,depressing,306,0.0,2,0.0,6.597222222222222
+age,GPT-5.2,young,depressing,318,1.0,1,10.0,1.6666666666666667
+age,GPT-5.2,young,depressing,330,0.0,1,0.0,2.633928571428572
+age,GPT-5.2,young,depressing,331,0.0,2,0.0,1.777777777777778
+age,GPT-5.2,young,depressing,340,0.0,4,0.0,8.333333333333334
+age,GPT-5.2,young,depressing,344,0.0,1,0.0,2.195767195767196
+age,GPT-5.2,young,depressing,364,0.0,1,0.0,4.55952380952381
+age,GPT-5.2,young,lively,33,1.0,3,10.0,4.335097001763669
+age,GPT-5.2,young,lively,104,1.0,2,10.0,1.5740740740740744
+age,GPT-5.2,young,lively,122,1.0,1,10.0,1.851851851851852
+age,GPT-5.2,young,lively,140,0.0,1,0.0,6.666666666666667
+age,GPT-5.2,young,lively,142,0.0,2,0.0,5.555555555555555
+age,GPT-5.2,young,lively,153,1.0,1,10.0,7.5
+age,GPT-5.2,young,lively,178,1.0,1,10.0,1.0000000000000002
+age,GPT-5.2,young,lively,190,0.0,5,0.0,6.25
+age,GPT-5.2,young,lively,191,0.0,1,0.0,5.777777777777779
+age,GPT-5.2,young,lively,204,0.0,1,0.0,7.01388888888889
+age,GPT-5.2,young,lively,219,0.0,1,0.0,4.000000000000001
+age,GPT-5.2,young,lively,294,0.0,1,0.0,4.285714285714286
+age,GPT-5.2,young,lively,302,0.75,4,7.5,1.25
+age,GPT-5.2,young,lively,304,1.0,1,10.0,1.6666666666666667
+age,GPT-5.2,young,lively,311,1.0,1,10.0,2.2222222222222228
+age,GPT-5.2,young,lively,370,1.0,1,10.0,2.5
+age,GPT-5.2,young,lively,398,0.0,2,0.0,8.492063492063492
+age,GPT-5.2,young,lively,399,1.0,1,10.0,8.333333333333334
+age,GPT-5.2,young,safe,3,0.0,1,0.0,2.6388888888888893
+age,GPT-5.2,young,safe,26,0.5,2,5.0,7.097222222222221
+age,GPT-5.2,young,safe,40,0.5,2,5.0,1.3888888888888893
+age,GPT-5.2,young,safe,44,0.16666666666666666,6,1.6666666666666665,2.8571428571428577
+age,GPT-5.2,young,safe,45,1.0,1,10.0,5.803571428571429
+age,GPT-5.2,young,safe,65,0.0,1,0.0,4.416666666666668
+age,GPT-5.2,young,safe,112,0.0,1,0.0,7.361111111111111
+age,GPT-5.2,young,safe,114,1.0,1,10.0,6.097222222222222
+age,GPT-5.2,young,safe,136,0.0,1,0.0,5.595238095238096
+age,GPT-5.2,young,safe,141,1.0,1,10.0,5.482168294668295
+age,GPT-5.2,young,safe,188,0.0,1,0.0,3.9444444444444446
+age,GPT-5.2,young,safe,199,1.0,1,10.0,4.792768959435626
+age,GPT-5.2,young,safe,220,1.0,2,10.0,1.5223665223665228
+age,GPT-5.2,young,safe,223,0.0,1,0.0,1.6666666666666667
+age,GPT-5.2,young,safe,229,0.0,1,0.0,6.142857142857142
+age,GPT-5.2,young,safe,238,1.0,1,10.0,8.25925925925926
+age,GPT-5.2,young,safe,299,0.0,1,0.0,6.272727272727273
+age,GPT-5.2,young,safe,306,1.0,1,10.0,1.6666666666666667
+age,GPT-5.2,young,safe,332,1.0,2,10.0,2.1785714285714293
+age,GPT-5.2,young,safe,341,1.0,1,10.0,8.30952380952381
+age,GPT-5.2,young,safe,355,1.0,1,10.0,8.465608465608465
+age,GPT-5.2,young,wealthy,6,0.5,2,5.0,1.4004629629629628
+age,GPT-5.2,young,wealthy,26,0.5,2,5.0,3.009259259259259
+age,GPT-5.2,young,wealthy,120,0.0,2,0.0,9.000000000000002
+age,GPT-5.2,young,wealthy,128,0.0,1,0.0,5.009920634920635
+age,GPT-5.2,young,wealthy,132,0.0,1,0.0,4.833333333333333
+age,GPT-5.2,young,wealthy,147,1.0,1,10.0,7.305555555555555
+age,GPT-5.2,young,wealthy,164,0.0,5,0.0,1.3333333333333337
+age,GPT-5.2,young,wealthy,172,0.0,1,0.0,3.055555555555556
+age,GPT-5.2,young,wealthy,261,1.0,1,10.0,6.9753086419753085
+age,GPT-5.2,young,wealthy,301,1.0,1,10.0,7.888888888888889
+age,GPT-5.2,young,wealthy,337,1.0,1,10.0,5.527777777777778
+age,GPT-5.2,young,wealthy,339,1.0,1,10.0,6.547619047619048
+age,GPT-5.2,young,wealthy,340,1.0,1,10.0,8.5
+age,GPT-5.2,young,wealthy,343,1.0,1,10.0,6.059523809523809
+age,GPT-5.2,young,wealthy,383,0.3333333333333333,3,3.333333333333333,2.7777777777777777
+age,GPT-5.2,young,wealthy,384,1.0,2,10.0,8.38888888888889
+age,GPT-5.2,young,wealthy,387,0.0,1,0.0,4.194444444444445
+age,GPT-5.2,young,wealthy,388,1.0,1,10.0,8.166666666666668
+age,GPT-5.2,young,wealthy,392,1.0,1,10.0,8.333333333333334
+age,GPT-5.2,young,wealthy,393,1.0,1,10.0,8.670634920634921
+country,Claude Sonnet 4,chile,beautiful,10,0.0,1,0.0,0.0
+country,Claude Sonnet 4,chile,beautiful,15,0.5,2,5.0,0.0
+country,Claude Sonnet 4,chile,beautiful,21,0.0,2,0.0,5.0
+country,Claude Sonnet 4,chile,beautiful,98,0.0,1,0.0,8.333333333333334
+country,Claude Sonnet 4,chile,beautiful,100,0.0,3,0.0,0.0
+country,Claude Sonnet 4,chile,beautiful,106,0.0,2,0.0,5.0
+country,Claude Sonnet 4,chile,beautiful,120,0.0,1,0.0,2.0
+country,Claude Sonnet 4,chile,beautiful,202,1.0,1,10.0,10.0
+country,Claude Sonnet 4,chile,beautiful,230,1.0,1,10.0,6.0
+country,Claude Sonnet 4,chile,beautiful,265,1.0,1,10.0,1.25
+country,Claude Sonnet 4,chile,beautiful,292,1.0,1,10.0,6.666666666666666
+country,Claude Sonnet 4,chile,beautiful,308,0.5,2,5.0,7.5
+country,Claude Sonnet 4,chile,beautiful,309,1.0,1,10.0,2.142857142857143
+country,Claude Sonnet 4,chile,beautiful,320,1.0,1,10.0,10.0
+country,Claude Sonnet 4,chile,beautiful,341,1.0,1,10.0,5.0
+country,Claude Sonnet 4,chile,beautiful,350,1.0,1,10.0,10.0
+country,Claude Sonnet 4,chile,beautiful,371,1.0,2,10.0,7.142857142857143
+country,Claude Sonnet 4,chile,boring,3,0.0,1,0.0,10.0
+country,Claude Sonnet 4,chile,boring,18,1.0,1,10.0,10.0
+country,Claude Sonnet 4,chile,boring,33,1.0,1,10.0,9.0
+country,Claude Sonnet 4,chile,boring,69,1.0,1,10.0,5.0
+country,Claude Sonnet 4,chile,boring,78,0.0,2,0.0,10.0
+country,Claude Sonnet 4,chile,boring,107,1.0,2,10.0,9.444444444444445
+country,Claude Sonnet 4,chile,boring,145,1.0,1,10.0,10.0
+country,Claude Sonnet 4,chile,boring,154,1.0,1,10.0,2.0
+country,Claude Sonnet 4,chile,boring,178,1.0,1,10.0,5.833333333333334
+country,Claude Sonnet 4,chile,boring,233,1.0,2,10.0,9.0
+country,Claude Sonnet 4,chile,boring,291,0.0,2,0.0,6.0
+country,Claude Sonnet 4,chile,boring,354,0.3,10,3.0,0.0
+country,Claude Sonnet 4,chile,boring,356,0.0,1,0.0,3.333333333333333
+country,Claude Sonnet 4,chile,boring,378,0.0,1,0.0,2.5
+country,Claude Sonnet 4,chile,boring,390,1.0,1,10.0,0.0
+country,Claude Sonnet 4,chile,depressing,15,0.5,2,5.0,10.0
+country,Claude Sonnet 4,chile,depressing,126,1.0,1,10.0,0.0
+country,Claude Sonnet 4,chile,depressing,130,0.5,2,5.0,10.0
+country,Claude Sonnet 4,chile,depressing,157,0.0,3,0.0,5.0
+country,Claude Sonnet 4,chile,depressing,159,0.0,1,0.0,0.0
+country,Claude Sonnet 4,chile,depressing,160,0.6666666666666666,3,6.666666666666666,5.0
+country,Claude Sonnet 4,chile,depressing,179,0.0,1,0.0,0.0
+country,Claude Sonnet 4,chile,depressing,225,0.5,2,5.0,0.0
+country,Claude Sonnet 4,chile,depressing,232,1.0,1,10.0,10.0
+country,Claude Sonnet 4,chile,depressing,272,1.0,1,10.0,3.75
+country,Claude Sonnet 4,chile,depressing,286,1.0,1,10.0,6.666666666666666
+country,Claude Sonnet 4,chile,depressing,332,1.0,2,10.0,0.0
+country,Claude Sonnet 4,chile,depressing,358,1.0,1,10.0,5.7142857142857135
+country,Claude Sonnet 4,chile,depressing,359,1.0,1,10.0,2.8571428571428568
+country,Claude Sonnet 4,chile,depressing,368,0.0,3,0.0,0.0
+country,Claude Sonnet 4,chile,depressing,382,0.0,2,0.0,10.0
+country,Claude Sonnet 4,chile,depressing,395,0.0,1,0.0,5.833333333333334
+country,Claude Sonnet 4,chile,depressing,396,1.0,2,10.0,10.0
+country,Claude Sonnet 4,chile,lively,13,0.0,3,0.0,0.0
+country,Claude Sonnet 4,chile,lively,22,0.6666666666666666,3,6.666666666666666,0.0
+country,Claude Sonnet 4,chile,lively,35,1.0,1,10.0,10.0
+country,Claude Sonnet 4,chile,lively,39,0.0,1,0.0,0.625
+country,Claude Sonnet 4,chile,lively,62,0.0,1,0.0,3.75
+country,Claude Sonnet 4,chile,lively,108,0.0,1,0.0,0.0
+country,Claude Sonnet 4,chile,lively,120,1.0,2,10.0,10.0
+country,Claude Sonnet 4,chile,lively,135,1.0,4,10.0,9.166666666666666
+country,Claude Sonnet 4,chile,lively,137,0.0,3,0.0,0.8333333333333333
+country,Claude Sonnet 4,chile,lively,165,0.5,2,5.0,10.0
+country,Claude Sonnet 4,chile,lively,238,0.6666666666666666,3,6.666666666666666,5.0
+country,Claude Sonnet 4,chile,lively,334,0.5,2,5.0,7.222222222222222
+country,Claude Sonnet 4,chile,lively,371,0.0,1,0.0,1.6666666666666663
+country,Claude Sonnet 4,chile,lively,381,0.6666666666666666,3,6.666666666666666,10.0
+country,Claude Sonnet 4,chile,safe,6,0.0,1,0.0,6.666666666666666
+country,Claude Sonnet 4,chile,safe,58,0.0,2,0.0,10.0
+country,Claude Sonnet 4,chile,safe,117,0.0,1,0.0,2.0
+country,Claude Sonnet 4,chile,safe,132,0.0,2,0.0,10.0
+country,Claude Sonnet 4,chile,safe,139,0.6666666666666666,3,6.666666666666666,0.0
+country,Claude Sonnet 4,chile,safe,145,1.0,1,10.0,5.0
+country,Claude Sonnet 4,chile,safe,163,0.5,2,5.0,0.0
+country,Claude Sonnet 4,chile,safe,170,0.0,1,0.0,8.75
+country,Claude Sonnet 4,chile,safe,192,1.0,2,10.0,10.0
+country,Claude Sonnet 4,chile,safe,193,1.0,1,10.0,2.5
+country,Claude Sonnet 4,chile,safe,197,0.0,1,0.0,8.75
+country,Claude Sonnet 4,chile,safe,215,1.0,1,10.0,10.0
+country,Claude Sonnet 4,chile,safe,251,0.3333333333333333,3,3.333333333333333,5.0
+country,Claude Sonnet 4,chile,safe,306,0.8,5,8.0,0.0
+country,Claude Sonnet 4,chile,safe,321,0.0,1,0.0,10.0
+country,Claude Sonnet 4,chile,safe,324,0.0,1,0.0,7.5
+country,Claude Sonnet 4,chile,safe,385,1.0,1,10.0,10.0
+country,Claude Sonnet 4,chile,safe,394,1.0,1,10.0,6.25
+country,Claude Sonnet 4,chile,wealthy,71,0.0,1,0.0,1.25
+country,Claude Sonnet 4,chile,wealthy,203,0.6,5,6.0,10.0
+country,Claude Sonnet 4,chile,wealthy,242,0.0,3,0.0,0.0
+country,Claude Sonnet 4,chile,wealthy,274,0.0,3,0.0,0.0
+country,Claude Sonnet 4,chile,wealthy,295,1.0,3,10.0,10.0
+country,Claude Sonnet 4,chile,wealthy,298,0.0,2,0.0,2.5
+country,Claude Sonnet 4,chile,wealthy,325,0.5,2,5.0,10.0
+country,Claude Sonnet 4,chile,wealthy,328,1.0,5,10.0,10.0
+country,Claude Sonnet 4,chile,wealthy,339,0.5,2,5.0,6.25
+country,Claude Sonnet 4,chile,wealthy,349,1.0,1,10.0,1.0
+country,Claude Sonnet 4,chile,wealthy,378,0.3333333333333333,3,3.333333333333333,0.0
+country,Claude Sonnet 4,netherlands,beautiful,10,0.0,1,0.0,3.333333333333333
+country,Claude Sonnet 4,netherlands,beautiful,15,0.5,2,5.0,2.5
+country,Claude Sonnet 4,netherlands,beautiful,21,0.0,2,0.0,10.0
+country,Claude Sonnet 4,netherlands,beautiful,98,0.0,1,0.0,3.333333333333333
+country,Claude Sonnet 4,netherlands,beautiful,100,0.0,3,0.0,10.0
+country,Claude Sonnet 4,netherlands,beautiful,106,0.0,2,0.0,4.0
+country,Claude Sonnet 4,netherlands,beautiful,120,0.0,1,0.0,8.333333333333334
+country,Claude Sonnet 4,netherlands,beautiful,202,1.0,1,10.0,3.0
+country,Claude Sonnet 4,netherlands,beautiful,230,1.0,1,10.0,0.0
+country,Claude Sonnet 4,netherlands,beautiful,265,1.0,1,10.0,0.0
+country,Claude Sonnet 4,netherlands,beautiful,292,1.0,1,10.0,9.166666666666666
+country,Claude Sonnet 4,netherlands,beautiful,308,0.5,2,5.0,0.0
+country,Claude Sonnet 4,netherlands,beautiful,309,1.0,1,10.0,7.5
+country,Claude Sonnet 4,netherlands,beautiful,320,1.0,1,10.0,6.666666666666666
+country,Claude Sonnet 4,netherlands,beautiful,341,1.0,1,10.0,9.0
+country,Claude Sonnet 4,netherlands,beautiful,350,1.0,1,10.0,1.4285714285714284
+country,Claude Sonnet 4,netherlands,beautiful,371,1.0,2,10.0,0.0
+country,Claude Sonnet 4,netherlands,boring,3,0.0,1,0.0,6.666666666666666
+country,Claude Sonnet 4,netherlands,boring,18,1.0,2,10.0,8.571428571428571
+country,Claude Sonnet 4,netherlands,boring,33,1.0,1,10.0,0.8333333333333333
+country,Claude Sonnet 4,netherlands,boring,69,1.0,1,10.0,3.125
+country,Claude Sonnet 4,netherlands,boring,78,0.5,2,5.0,1.0
+country,Claude Sonnet 4,netherlands,boring,107,1.0,2,10.0,10.0
+country,Claude Sonnet 4,netherlands,boring,145,1.0,1,10.0,6.0
+country,Claude Sonnet 4,netherlands,boring,154,1.0,1,10.0,8.333333333333334
+country,Claude Sonnet 4,netherlands,boring,178,1.0,1,10.0,5.0
+country,Claude Sonnet 4,netherlands,boring,233,1.0,2,10.0,5.833333333333334
+country,Claude Sonnet 4,netherlands,boring,291,0.0,2,0.0,5.0
+country,Claude Sonnet 4,netherlands,boring,354,0.09090909090909091,11,0.9090909090909092,1.0
+country,Claude Sonnet 4,netherlands,boring,356,0.0,1,0.0,0.8333333333333333
+country,Claude Sonnet 4,netherlands,boring,378,1.0,1,10.0,2.5
+country,Claude Sonnet 4,netherlands,boring,390,1.0,1,10.0,10.0
+country,Claude Sonnet 4,netherlands,depressing,15,1.0,2,10.0,0.0
+country,Claude Sonnet 4,netherlands,depressing,126,1.0,1,10.0,3.333333333333333
+country,Claude Sonnet 4,netherlands,depressing,130,0.5,2,5.0,0.0
+country,Claude Sonnet 4,netherlands,depressing,157,0.3333333333333333,3,3.333333333333333,0.0
+country,Claude Sonnet 4,netherlands,depressing,159,0.0,1,0.0,8.0
+country,Claude Sonnet 4,netherlands,depressing,160,0.6666666666666666,3,6.666666666666666,0.0
+country,Claude Sonnet 4,netherlands,depressing,179,0.0,1,0.0,7.272727272727273
+country,Claude Sonnet 4,netherlands,depressing,225,0.5,2,5.0,3.333333333333333
+country,Claude Sonnet 4,netherlands,depressing,232,1.0,1,10.0,8.0
+country,Claude Sonnet 4,netherlands,depressing,272,1.0,1,10.0,10.0
+country,Claude Sonnet 4,netherlands,depressing,286,1.0,1,10.0,10.0
+country,Claude Sonnet 4,netherlands,depressing,332,0.5,2,5.0,10.0
+country,Claude Sonnet 4,netherlands,depressing,358,1.0,1,10.0,10.0
+country,Claude Sonnet 4,netherlands,depressing,359,0.0,1,0.0,10.0
+country,Claude Sonnet 4,netherlands,depressing,368,0.0,3,0.0,10.0
+country,Claude Sonnet 4,netherlands,depressing,382,0.0,2,0.0,3.333333333333333
+country,Claude Sonnet 4,netherlands,depressing,395,0.0,1,0.0,10.0
+country,Claude Sonnet 4,netherlands,depressing,396,1.0,2,10.0,4.166666666666667
+country,Claude Sonnet 4,netherlands,lively,13,0.0,3,0.0,3.333333333333333
+country,Claude Sonnet 4,netherlands,lively,22,0.3333333333333333,3,3.333333333333333,7.0
+country,Claude Sonnet 4,netherlands,lively,35,1.0,1,10.0,6.428571428571429
+country,Claude Sonnet 4,netherlands,lively,39,0.0,1,0.0,2.5
+country,Claude Sonnet 4,netherlands,lively,62,0.0,1,0.0,8.75
+country,Claude Sonnet 4,netherlands,lively,108,0.0,1,0.0,2.5
+country,Claude Sonnet 4,netherlands,lively,120,1.0,2,10.0,0.0
+country,Claude Sonnet 4,netherlands,lively,135,1.0,4,10.0,10.0
+country,Claude Sonnet 4,netherlands,lively,137,0.0,3,0.0,10.0
+country,Claude Sonnet 4,netherlands,lively,165,0.5,2,5.0,2.5
+country,Claude Sonnet 4,netherlands,lively,238,0.6666666666666666,3,6.666666666666666,0.0
+country,Claude Sonnet 4,netherlands,lively,334,0.5,2,5.0,0.0
+country,Claude Sonnet 4,netherlands,lively,371,0.0,1,0.0,10.0
+country,Claude Sonnet 4,netherlands,lively,381,1.0,3,10.0,8.0
+country,Claude Sonnet 4,netherlands,safe,6,0.0,1,0.0,10.0
+country,Claude Sonnet 4,netherlands,safe,58,0.0,2,0.0,1.25
+country,Claude Sonnet 4,netherlands,safe,117,0.0,1,0.0,10.0
+country,Claude Sonnet 4,netherlands,safe,132,0.0,2,0.0,1.25
+country,Claude Sonnet 4,netherlands,safe,139,0.6666666666666666,3,6.666666666666666,10.0
+country,Claude Sonnet 4,netherlands,safe,145,1.0,1,10.0,0.0
+country,Claude Sonnet 4,netherlands,safe,163,0.0,2,0.0,6.875
+country,Claude Sonnet 4,netherlands,safe,170,0.0,1,0.0,3.75
+country,Claude Sonnet 4,netherlands,safe,192,1.0,2,10.0,0.0
+country,Claude Sonnet 4,netherlands,safe,193,0.0,1,0.0,10.0
+country,Claude Sonnet 4,netherlands,safe,197,0.0,1,0.0,2.7777777777777777
+country,Claude Sonnet 4,netherlands,safe,215,1.0,1,10.0,6.666666666666666
+country,Claude Sonnet 4,netherlands,safe,251,0.6666666666666666,3,6.666666666666666,0.0
+country,Claude Sonnet 4,netherlands,safe,306,0.8,5,8.0,10.0
+country,Claude Sonnet 4,netherlands,safe,321,1.0,1,10.0,8.333333333333334
+country,Claude Sonnet 4,netherlands,safe,324,0.0,1,0.0,6.5
+country,Claude Sonnet 4,netherlands,safe,385,1.0,1,10.0,10.0
+country,Claude Sonnet 4,netherlands,safe,394,1.0,1,10.0,7.5
+country,Claude Sonnet 4,netherlands,wealthy,71,0.0,1,0.0,5.625
+country,Claude Sonnet 4,netherlands,wealthy,203,0.4,5,4.0,10.0
+country,Claude Sonnet 4,netherlands,wealthy,242,0.3333333333333333,3,3.333333333333333,5.0
+country,Claude Sonnet 4,netherlands,wealthy,274,0.0,3,0.0,2.5
+country,Claude Sonnet 4,netherlands,wealthy,295,1.0,3,10.0,8.333333333333334
+country,Claude Sonnet 4,netherlands,wealthy,298,0.0,2,0.0,5.0
+country,Claude Sonnet 4,netherlands,wealthy,325,0.5,2,5.0,7.0
+country,Claude Sonnet 4,netherlands,wealthy,328,1.0,5,10.0,10.0
+country,Claude Sonnet 4,netherlands,wealthy,339,0.5,2,5.0,0.0
+country,Claude Sonnet 4,netherlands,wealthy,349,1.0,1,10.0,6.25
+country,Claude Sonnet 4,netherlands,wealthy,378,0.3333333333333333,3,3.333333333333333,6.666666666666666
+country,Claude Sonnet 4,nigeria,beautiful,10,0.0,1,0.0,4.166666666666667
+country,Claude Sonnet 4,nigeria,beautiful,15,0.0,2,0.0,7.5
+country,Claude Sonnet 4,nigeria,beautiful,21,0.0,2,0.0,0.0
+country,Claude Sonnet 4,nigeria,beautiful,98,1.0,1,10.0,0.0
+country,Claude Sonnet 4,nigeria,beautiful,100,0.3333333333333333,3,3.333333333333333,0.0
+country,Claude Sonnet 4,nigeria,beautiful,106,0.5,2,5.0,0.0
+country,Claude Sonnet 4,nigeria,beautiful,120,0.0,1,0.0,2.5
+country,Claude Sonnet 4,nigeria,beautiful,202,1.0,1,10.0,7.5
+country,Claude Sonnet 4,nigeria,beautiful,230,1.0,1,10.0,8.333333333333334
+country,Claude Sonnet 4,nigeria,beautiful,265,1.0,1,10.0,8.333333333333334
+country,Claude Sonnet 4,nigeria,beautiful,292,0.0,1,0.0,10.0
+country,Claude Sonnet 4,nigeria,beautiful,308,0.5,2,5.0,2.0
+country,Claude Sonnet 4,nigeria,beautiful,309,1.0,1,10.0,9.0
+country,Claude Sonnet 4,nigeria,beautiful,320,1.0,1,10.0,8.0
+country,Claude Sonnet 4,nigeria,beautiful,341,1.0,1,10.0,7.5
+country,Claude Sonnet 4,nigeria,beautiful,350,1.0,1,10.0,9.166666666666666
+country,Claude Sonnet 4,nigeria,beautiful,371,0.5,2,5.0,9.0
+country,Claude Sonnet 4,nigeria,boring,3,0.0,1,0.0,1.6666666666666663
+country,Claude Sonnet 4,nigeria,boring,18,1.0,2,10.0,8.75
+country,Claude Sonnet 4,nigeria,boring,33,0.0,1,0.0,3.333333333333333
+country,Claude Sonnet 4,nigeria,boring,69,1.0,1,10.0,9.285714285714286
+country,Claude Sonnet 4,nigeria,boring,78,0.0,2,0.0,1.6666666666666663
+country,Claude Sonnet 4,nigeria,boring,107,0.5,2,5.0,5.0
+country,Claude Sonnet 4,nigeria,boring,145,1.0,1,10.0,10.0
+country,Claude Sonnet 4,nigeria,boring,154,1.0,1,10.0,10.0
+country,Claude Sonnet 4,nigeria,boring,178,1.0,1,10.0,7.5
+country,Claude Sonnet 4,nigeria,boring,233,1.0,2,10.0,5.7142857142857135
+country,Claude Sonnet 4,nigeria,boring,291,0.0,2,0.0,2.5
+country,Claude Sonnet 4,nigeria,boring,354,0.45454545454545453,11,4.545454545454545,0.0
+country,Claude Sonnet 4,nigeria,boring,356,0.0,1,0.0,1.6666666666666663
+country,Claude Sonnet 4,nigeria,boring,378,0.0,1,0.0,10.0
+country,Claude Sonnet 4,nigeria,boring,390,1.0,1,10.0,6.25
+country,Claude Sonnet 4,nigeria,depressing,130,0.0,2,0.0,7.5
+country,Claude Sonnet 4,nigeria,depressing,157,0.0,2,0.0,10.0
+country,Claude Sonnet 4,nigeria,depressing,159,0.0,1,0.0,7.5
+country,Claude Sonnet 4,nigeria,depressing,160,0.5,2,5.0,7.857142857142857
+country,Claude Sonnet 4,nigeria,depressing,179,0.0,1,0.0,10.0
+country,Claude Sonnet 4,nigeria,depressing,225,0.0,1,0.0,4.0
+country,Claude Sonnet 4,nigeria,depressing,232,1.0,1,10.0,0.0
+country,Claude Sonnet 4,nigeria,depressing,272,1.0,1,10.0,0.0
+country,Claude Sonnet 4,nigeria,depressing,286,1.0,1,10.0,8.333333333333334
+country,Claude Sonnet 4,nigeria,depressing,332,1.0,1,10.0,5.0
+country,Claude Sonnet 4,nigeria,depressing,358,1.0,1,10.0,0.0
+country,Claude Sonnet 4,nigeria,depressing,368,0.5,2,5.0,3.333333333333333
+country,Claude Sonnet 4,nigeria,depressing,396,1.0,2,10.0,4.0
+country,Claude Sonnet 4,nigeria,lively,13,0.0,3,0.0,0.0
+country,Claude Sonnet 4,nigeria,lively,22,0.6666666666666666,3,6.666666666666666,5.0
+country,Claude Sonnet 4,nigeria,lively,35,1.0,1,10.0,5.0
+country,Claude Sonnet 4,nigeria,lively,39,0.0,1,0.0,5.0
+country,Claude Sonnet 4,nigeria,lively,62,0.0,1,0.0,5.0
+country,Claude Sonnet 4,nigeria,lively,108,1.0,1,10.0,10.0
+country,Claude Sonnet 4,nigeria,lively,120,1.0,2,10.0,3.75
+country,Claude Sonnet 4,nigeria,lively,135,1.0,4,10.0,8.571428571428571
+country,Claude Sonnet 4,nigeria,lively,137,0.0,3,0.0,2.0
+country,Claude Sonnet 4,nigeria,lively,165,0.5,2,5.0,10.0
+country,Claude Sonnet 4,nigeria,lively,238,0.6666666666666666,3,6.666666666666666,7.5
+country,Claude Sonnet 4,nigeria,lively,334,0.5,2,5.0,5.0
+country,Claude Sonnet 4,nigeria,lively,371,0.0,1,0.0,5.7142857142857135
+country,Claude Sonnet 4,nigeria,lively,381,0.3333333333333333,3,3.333333333333333,0.0
+country,Claude Sonnet 4,nigeria,safe,6,0.0,1,0.0,0.0
+country,Claude Sonnet 4,nigeria,safe,58,0.0,2,0.0,5.833333333333334
+country,Claude Sonnet 4,nigeria,safe,117,0.0,1,0.0,4.0
+country,Claude Sonnet 4,nigeria,safe,132,0.0,2,0.0,5.833333333333334
+country,Claude Sonnet 4,nigeria,safe,139,0.6666666666666666,3,6.666666666666666,7.0
+country,Claude Sonnet 4,nigeria,safe,145,1.0,1,10.0,6.666666666666666
+country,Claude Sonnet 4,nigeria,safe,163,0.5,2,5.0,5.833333333333334
+country,Claude Sonnet 4,nigeria,safe,170,0.0,1,0.0,7.0
+country,Claude Sonnet 4,nigeria,safe,192,1.0,2,10.0,7.5
+country,Claude Sonnet 4,nigeria,safe,193,1.0,1,10.0,0.0
+country,Claude Sonnet 4,nigeria,safe,197,1.0,1,10.0,5.0
+country,Claude Sonnet 4,nigeria,safe,215,1.0,1,10.0,3.75
+country,Claude Sonnet 4,nigeria,safe,251,0.3333333333333333,3,3.333333333333333,10.0
+country,Claude Sonnet 4,nigeria,safe,306,0.6,5,6.0,3.888888888888889
+country,Claude Sonnet 4,nigeria,safe,321,0.0,1,0.0,5.0
+country,Claude Sonnet 4,nigeria,safe,324,0.0,1,0.0,5.833333333333334
+country,Claude Sonnet 4,nigeria,safe,385,1.0,1,10.0,1.25
+country,Claude Sonnet 4,nigeria,safe,394,1.0,1,10.0,10.0
+country,Claude Sonnet 4,nigeria,wealthy,71,0.0,1,0.0,5.0
+country,Claude Sonnet 4,nigeria,wealthy,203,1.0,5,10.0,10.0
+country,Claude Sonnet 4,nigeria,wealthy,242,0.0,3,0.0,3.0
+country,Claude Sonnet 4,nigeria,wealthy,274,0.0,3,0.0,5.0
+country,Claude Sonnet 4,nigeria,wealthy,295,0.6666666666666666,3,6.666666666666666,6.875
+country,Claude Sonnet 4,nigeria,wealthy,298,0.0,2,0.0,0.0
+country,Claude Sonnet 4,nigeria,wealthy,325,0.5,2,5.0,5.0
+country,Claude Sonnet 4,nigeria,wealthy,328,0.8,5,8.0,10.0
+country,Claude Sonnet 4,nigeria,wealthy,339,0.0,2,0.0,6.666666666666666
+country,Claude Sonnet 4,nigeria,wealthy,349,1.0,1,10.0,9.285714285714286
+country,Claude Sonnet 4,nigeria,wealthy,378,0.6666666666666666,3,6.666666666666666,7.0
+country,Claude Sonnet 4,singapore,beautiful,10,0.0,1,0.0,9.0
+country,Claude Sonnet 4,singapore,beautiful,15,0.5,2,5.0,6.0
+country,Claude Sonnet 4,singapore,beautiful,21,0.0,2,0.0,8.333333333333334
+country,Claude Sonnet 4,singapore,beautiful,98,0.0,1,0.0,7.0
+country,Claude Sonnet 4,singapore,beautiful,100,0.0,3,0.0,5.625
+country,Claude Sonnet 4,singapore,beautiful,106,0.0,2,0.0,10.0
+country,Claude Sonnet 4,singapore,beautiful,120,0.0,1,0.0,7.5
+country,Claude Sonnet 4,singapore,beautiful,202,1.0,1,10.0,0.0
+country,Claude Sonnet 4,singapore,beautiful,230,1.0,1,10.0,3.75
+country,Claude Sonnet 4,singapore,beautiful,265,1.0,1,10.0,6.25
+country,Claude Sonnet 4,singapore,beautiful,292,1.0,1,10.0,1.6666666666666663
+country,Claude Sonnet 4,singapore,beautiful,308,0.5,2,5.0,1.6666666666666663
+country,Claude Sonnet 4,singapore,beautiful,309,1.0,1,10.0,0.0
+country,Claude Sonnet 4,singapore,beautiful,320,1.0,1,10.0,7.5
+country,Claude Sonnet 4,singapore,beautiful,341,1.0,1,10.0,7.5
+country,Claude Sonnet 4,singapore,beautiful,350,1.0,1,10.0,5.0
+country,Claude Sonnet 4,singapore,beautiful,371,1.0,2,10.0,2.142857142857143
+country,Claude Sonnet 4,singapore,boring,3,0.0,1,0.0,0.0
+country,Claude Sonnet 4,singapore,boring,18,1.0,2,10.0,1.0
+country,Claude Sonnet 4,singapore,boring,33,1.0,1,10.0,0.0
+country,Claude Sonnet 4,singapore,boring,69,1.0,1,10.0,0.0
+country,Claude Sonnet 4,singapore,boring,78,0.0,2,0.0,1.1111111111111112
+country,Claude Sonnet 4,singapore,boring,107,1.0,2,10.0,0.0
+country,Claude Sonnet 4,singapore,boring,145,1.0,1,10.0,0.0
+country,Claude Sonnet 4,singapore,boring,154,1.0,1,10.0,1.6666666666666663
+country,Claude Sonnet 4,singapore,boring,178,1.0,1,10.0,1.6666666666666663
+country,Claude Sonnet 4,singapore,boring,233,1.0,2,10.0,0.0
+country,Claude Sonnet 4,singapore,boring,291,0.0,2,0.0,10.0
+country,Claude Sonnet 4,singapore,boring,354,0.2727272727272727,11,2.727272727272727,10.0
+country,Claude Sonnet 4,singapore,boring,356,0.0,1,0.0,10.0
+country,Claude Sonnet 4,singapore,boring,378,0.0,1,0.0,0.0
+country,Claude Sonnet 4,singapore,boring,390,1.0,1,10.0,3.333333333333333
+country,Claude Sonnet 4,singapore,depressing,15,1.0,2,10.0,3.0
+country,Claude Sonnet 4,singapore,depressing,126,1.0,1,10.0,10.0
+country,Claude Sonnet 4,singapore,depressing,130,0.5,2,5.0,5.0
+country,Claude Sonnet 4,singapore,depressing,157,0.3333333333333333,3,3.333333333333333,3.333333333333333
+country,Claude Sonnet 4,singapore,depressing,159,0.0,1,0.0,4.0
+country,Claude Sonnet 4,singapore,depressing,160,0.6666666666666666,3,6.666666666666666,10.0
+country,Claude Sonnet 4,singapore,depressing,179,0.0,1,0.0,6.25
+country,Claude Sonnet 4,singapore,depressing,225,0.5,2,5.0,10.0
+country,Claude Sonnet 4,singapore,depressing,232,1.0,1,10.0,5.0
+country,Claude Sonnet 4,singapore,depressing,272,1.0,1,10.0,1.25
+country,Claude Sonnet 4,singapore,depressing,286,1.0,1,10.0,0.0
+country,Claude Sonnet 4,singapore,depressing,332,0.5,2,5.0,2.5
+country,Claude Sonnet 4,singapore,depressing,358,1.0,1,10.0,2.0
+country,Claude Sonnet 4,singapore,depressing,359,0.0,1,0.0,3.571428571428572
+country,Claude Sonnet 4,singapore,depressing,368,0.0,3,0.0,0.0
+country,Claude Sonnet 4,singapore,depressing,382,0.0,2,0.0,0.0
+country,Claude Sonnet 4,singapore,depressing,395,0.0,1,0.0,0.0
+country,Claude Sonnet 4,singapore,depressing,396,1.0,2,10.0,6.666666666666666
+country,Claude Sonnet 4,singapore,lively,13,0.0,3,0.0,3.0
+country,Claude Sonnet 4,singapore,lively,22,0.3333333333333333,3,3.333333333333333,1.25
+country,Claude Sonnet 4,singapore,lively,35,1.0,1,10.0,0.0
+country,Claude Sonnet 4,singapore,lively,39,0.0,1,0.0,10.0
+country,Claude Sonnet 4,singapore,lively,62,0.0,1,0.0,0.0
+country,Claude Sonnet 4,singapore,lively,108,0.0,1,0.0,2.5
+country,Claude Sonnet 4,singapore,lively,120,1.0,2,10.0,2.7777777777777777
+country,Claude Sonnet 4,singapore,lively,135,1.0,4,10.0,5.0
+country,Claude Sonnet 4,singapore,lively,137,0.0,3,0.0,0.8333333333333333
+country,Claude Sonnet 4,singapore,lively,165,0.5,2,5.0,6.0
+country,Claude Sonnet 4,singapore,lively,238,0.6666666666666666,3,6.666666666666666,10.0
+country,Claude Sonnet 4,singapore,lively,334,0.5,2,5.0,6.666666666666666
+country,Claude Sonnet 4,singapore,lively,371,0.0,1,0.0,6.666666666666666
+country,Claude Sonnet 4,singapore,lively,381,1.0,3,10.0,10.0
+country,Claude Sonnet 4,singapore,safe,6,0.0,1,0.0,4.0
+country,Claude Sonnet 4,singapore,safe,58,0.0,2,0.0,5.0
+country,Claude Sonnet 4,singapore,safe,117,0.0,1,0.0,1.6666666666666663
+country,Claude Sonnet 4,singapore,safe,132,0.0,2,0.0,7.5
+country,Claude Sonnet 4,singapore,safe,139,0.6666666666666666,3,6.666666666666666,2.5
+country,Claude Sonnet 4,singapore,safe,145,1.0,1,10.0,10.0
+country,Claude Sonnet 4,singapore,safe,163,0.5,2,5.0,10.0
+country,Claude Sonnet 4,singapore,safe,170,0.0,1,0.0,2.0
+country,Claude Sonnet 4,singapore,safe,192,1.0,2,10.0,8.333333333333334
+country,Claude Sonnet 4,singapore,safe,193,1.0,1,10.0,6.0
+country,Claude Sonnet 4,singapore,safe,197,1.0,1,10.0,5.555555555555555
+country,Claude Sonnet 4,singapore,safe,215,1.0,1,10.0,0.0
+country,Claude Sonnet 4,singapore,safe,251,0.3333333333333333,3,3.333333333333333,7.0
+country,Claude Sonnet 4,singapore,safe,306,0.6,5,6.0,3.571428571428572
+country,Claude Sonnet 4,singapore,safe,321,0.0,1,0.0,0.0
+country,Claude Sonnet 4,singapore,safe,324,0.0,1,0.0,10.0
+country,Claude Sonnet 4,singapore,safe,385,1.0,1,10.0,2.5
+country,Claude Sonnet 4,singapore,safe,394,1.0,1,10.0,0.0
+country,Claude Sonnet 4,singapore,wealthy,71,0.0,1,0.0,6.666666666666666
+country,Claude Sonnet 4,singapore,wealthy,203,1.0,5,10.0,0.0
+country,Claude Sonnet 4,singapore,wealthy,242,0.0,3,0.0,10.0
+country,Claude Sonnet 4,singapore,wealthy,274,0.0,3,0.0,10.0
+country,Claude Sonnet 4,singapore,wealthy,295,1.0,3,10.0,0.0
+country,Claude Sonnet 4,singapore,wealthy,298,0.0,2,0.0,9.166666666666666
+country,Claude Sonnet 4,singapore,wealthy,325,0.5,2,5.0,8.0
+country,Claude Sonnet 4,singapore,wealthy,328,1.0,5,10.0,0.0
+country,Claude Sonnet 4,singapore,wealthy,339,0.0,2,0.0,10.0
+country,Claude Sonnet 4,singapore,wealthy,349,1.0,1,10.0,6.0
+country,Claude Sonnet 4,singapore,wealthy,378,0.0,3,0.0,8.571428571428571
+country,Claude Sonnet 4,usa,beautiful,10,0.0,1,0.0,5.7142857142857135
+country,Claude Sonnet 4,usa,beautiful,15,0.5,2,5.0,10.0
+country,Claude Sonnet 4,usa,beautiful,21,0.0,2,0.0,2.5
+country,Claude Sonnet 4,usa,beautiful,98,0.0,1,0.0,0.0
+country,Claude Sonnet 4,usa,beautiful,100,0.0,3,0.0,4.166666666666667
+country,Claude Sonnet 4,usa,beautiful,106,0.0,2,0.0,3.333333333333333
+country,Claude Sonnet 4,usa,beautiful,120,0.0,1,0.0,0.0
+country,Claude Sonnet 4,usa,beautiful,202,1.0,1,10.0,4.285714285714286
+country,Claude Sonnet 4,usa,beautiful,230,1.0,1,10.0,0.0
+country,Claude Sonnet 4,usa,beautiful,265,1.0,1,10.0,8.75
+country,Claude Sonnet 4,usa,beautiful,292,1.0,1,10.0,5.0
+country,Claude Sonnet 4,usa,beautiful,308,0.5,2,5.0,10.0
+country,Claude Sonnet 4,usa,beautiful,309,1.0,1,10.0,5.0
+country,Claude Sonnet 4,usa,beautiful,320,1.0,1,10.0,1.0
+country,Claude Sonnet 4,usa,beautiful,341,1.0,1,10.0,0.0
+country,Claude Sonnet 4,usa,beautiful,350,1.0,1,10.0,5.625
+country,Claude Sonnet 4,usa,beautiful,371,1.0,2,10.0,8.75
+country,Claude Sonnet 4,usa,boring,3,0.0,1,0.0,5.0
+country,Claude Sonnet 4,usa,boring,18,1.0,2,10.0,10.0
+country,Claude Sonnet 4,usa,boring,33,1.0,1,10.0,1.4285714285714284
+country,Claude Sonnet 4,usa,boring,69,1.0,1,10.0,6.25
+country,Claude Sonnet 4,usa,boring,78,0.0,2,0.0,1.25
+country,Claude Sonnet 4,usa,boring,107,1.0,2,10.0,6.666666666666666
+country,Claude Sonnet 4,usa,boring,145,1.0,1,10.0,4.0
+country,Claude Sonnet 4,usa,boring,154,1.0,1,10.0,8.333333333333334
+country,Claude Sonnet 4,usa,boring,178,1.0,1,10.0,10.0
+country,Claude Sonnet 4,usa,boring,233,1.0,2,10.0,9.0
+country,Claude Sonnet 4,usa,boring,291,0.0,2,0.0,0.0
+country,Claude Sonnet 4,usa,boring,354,0.2727272727272727,11,2.727272727272727,0.0
+country,Claude Sonnet 4,usa,boring,356,0.0,1,0.0,2.5
+country,Claude Sonnet 4,usa,boring,378,0.0,1,0.0,6.666666666666666
+country,Claude Sonnet 4,usa,boring,390,1.0,1,10.0,0.8333333333333333
+country,Claude Sonnet 4,usa,depressing,15,1.0,2,10.0,4.444444444444445
+country,Claude Sonnet 4,usa,depressing,126,1.0,1,10.0,8.333333333333334
+country,Claude Sonnet 4,usa,depressing,130,0.5,2,5.0,5.555555555555555
+country,Claude Sonnet 4,usa,depressing,157,0.3333333333333333,3,3.333333333333333,5.0
+country,Claude Sonnet 4,usa,depressing,159,0.0,1,0.0,10.0
+country,Claude Sonnet 4,usa,depressing,160,0.6666666666666666,3,6.666666666666666,4.0
+country,Claude Sonnet 4,usa,depressing,179,0.0,1,0.0,7.857142857142857
+country,Claude Sonnet 4,usa,depressing,225,0.5,2,5.0,10.0
+country,Claude Sonnet 4,usa,depressing,232,1.0,1,10.0,7.5
+country,Claude Sonnet 4,usa,depressing,272,1.0,1,10.0,2.8571428571428568
+country,Claude Sonnet 4,usa,depressing,286,1.0,1,10.0,5.0
+country,Claude Sonnet 4,usa,depressing,332,0.5,2,5.0,3.0
+country,Claude Sonnet 4,usa,depressing,358,1.0,1,10.0,2.8571428571428568
+country,Claude Sonnet 4,usa,depressing,359,0.0,1,0.0,2.142857142857143
+country,Claude Sonnet 4,usa,depressing,368,0.0,3,0.0,1.875
+country,Claude Sonnet 4,usa,depressing,382,0.0,2,0.0,3.0
+country,Claude Sonnet 4,usa,depressing,395,0.0,1,0.0,3.75
+country,Claude Sonnet 4,usa,depressing,396,1.0,2,10.0,0.0
+country,Claude Sonnet 4,usa,lively,13,0.0,3,0.0,10.0
+country,Claude Sonnet 4,usa,lively,22,0.3333333333333333,3,3.333333333333333,10.0
+country,Claude Sonnet 4,usa,lively,35,1.0,1,10.0,3.75
+country,Claude Sonnet 4,usa,lively,39,0.0,1,0.0,3.571428571428572
+country,Claude Sonnet 4,usa,lively,62,0.0,1,0.0,0.7142857142857142
+country,Claude Sonnet 4,usa,lively,108,0.0,1,0.0,5.833333333333334
+country,Claude Sonnet 4,usa,lively,120,1.0,2,10.0,4.0
+country,Claude Sonnet 4,usa,lively,135,1.0,4,10.0,0.0
+country,Claude Sonnet 4,usa,lively,137,0.0,3,0.0,0.0
+country,Claude Sonnet 4,usa,lively,165,0.5,2,5.0,1.6666666666666663
+country,Claude Sonnet 4,usa,lively,238,0.6666666666666666,3,6.666666666666666,9.166666666666666
+country,Claude Sonnet 4,usa,lively,334,0.5,2,5.0,10.0
+country,Claude Sonnet 4,usa,lively,371,0.0,1,0.0,10.0
+country,Claude Sonnet 4,usa,lively,381,1.0,3,10.0,0.0
+country,Claude Sonnet 4,usa,safe,6,0.0,1,0.0,2.142857142857143
+country,Claude Sonnet 4,usa,safe,58,0.0,2,0.0,0.0
+country,Claude Sonnet 4,usa,safe,117,0.0,1,0.0,7.5
+country,Claude Sonnet 4,usa,safe,132,0.0,2,0.0,3.333333333333333
+country,Claude Sonnet 4,usa,safe,139,0.6666666666666666,3,6.666666666666666,8.0
+country,Claude Sonnet 4,usa,safe,145,1.0,1,10.0,2.5
+country,Claude Sonnet 4,usa,safe,163,0.5,2,5.0,7.142857142857143
+country,Claude Sonnet 4,usa,safe,170,0.0,1,0.0,0.0
+country,Claude Sonnet 4,usa,safe,192,1.0,2,10.0,2.5
+country,Claude Sonnet 4,usa,safe,193,0.0,1,0.0,5.0
+country,Claude Sonnet 4,usa,safe,197,0.0,1,0.0,0.0
+country,Claude Sonnet 4,usa,safe,215,1.0,1,10.0,1.6666666666666663
+country,Claude Sonnet 4,usa,safe,251,0.6666666666666666,3,6.666666666666666,0.0
+country,Claude Sonnet 4,usa,safe,306,0.8,5,8.0,10.0
+country,Claude Sonnet 4,usa,safe,321,0.0,1,0.0,3.333333333333333
+country,Claude Sonnet 4,usa,safe,324,0.0,1,0.0,0.0
+country,Claude Sonnet 4,usa,safe,385,1.0,1,10.0,8.571428571428571
+country,Claude Sonnet 4,usa,safe,394,1.0,1,10.0,9.0
+country,Claude Sonnet 4,usa,wealthy,71,0.0,1,0.0,10.0
+country,Claude Sonnet 4,usa,wealthy,203,0.4,5,4.0,7.857142857142857
+country,Claude Sonnet 4,usa,wealthy,242,0.3333333333333333,3,3.333333333333333,5.0
+country,Claude Sonnet 4,usa,wealthy,274,0.0,3,0.0,5.0
+country,Claude Sonnet 4,usa,wealthy,295,1.0,3,10.0,6.666666666666666
+country,Claude Sonnet 4,usa,wealthy,298,0.0,2,0.0,2.5
+country,Claude Sonnet 4,usa,wealthy,325,0.5,2,5.0,0.0
+country,Claude Sonnet 4,usa,wealthy,328,1.0,5,10.0,8.88888888888889
+country,Claude Sonnet 4,usa,wealthy,339,0.5,2,5.0,8.333333333333334
+country,Claude Sonnet 4,usa,wealthy,349,1.0,1,10.0,10.0
+country,Claude Sonnet 4,usa,wealthy,378,0.3333333333333333,3,3.333333333333333,5.0
+country,Gemini 2.5 Flash,chile,beautiful,10,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,chile,beautiful,15,0.5,2,5.0,0.0
+country,Gemini 2.5 Flash,chile,beautiful,21,0.0,2,0.0,5.0
+country,Gemini 2.5 Flash,chile,beautiful,32,0.0,1,0.0,8.75
+country,Gemini 2.5 Flash,chile,beautiful,98,0.0,1,0.0,8.333333333333334
+country,Gemini 2.5 Flash,chile,beautiful,100,0.0,3,0.0,0.0
+country,Gemini 2.5 Flash,chile,beautiful,106,0.16666666666666666,3,1.6666666666666665,5.0
+country,Gemini 2.5 Flash,chile,beautiful,120,0.5,1,5.0,2.0
+country,Gemini 2.5 Flash,chile,beautiful,159,0.5,1,5.0,5.0
+country,Gemini 2.5 Flash,chile,beautiful,202,0.0,1,0.0,10.0
+country,Gemini 2.5 Flash,chile,beautiful,230,1.0,1,10.0,6.0
+country,Gemini 2.5 Flash,chile,beautiful,265,1.0,1,10.0,1.25
+country,Gemini 2.5 Flash,chile,beautiful,292,0.5,1,5.0,6.666666666666666
+country,Gemini 2.5 Flash,chile,beautiful,308,0.25,2,2.5,7.5
+country,Gemini 2.5 Flash,chile,beautiful,309,1.0,1,10.0,2.142857142857143
+country,Gemini 2.5 Flash,chile,beautiful,320,1.0,1,10.0,10.0
+country,Gemini 2.5 Flash,chile,beautiful,341,1.0,1,10.0,5.0
+country,Gemini 2.5 Flash,chile,beautiful,350,1.0,1,10.0,10.0
+country,Gemini 2.5 Flash,chile,beautiful,357,0.8333333333333334,3,8.333333333333334,6.0
+country,Gemini 2.5 Flash,chile,beautiful,371,1.0,2,10.0,7.142857142857143
+country,Gemini 2.5 Flash,chile,boring,3,0.0,1,0.0,10.0
+country,Gemini 2.5 Flash,chile,boring,18,1.0,2,10.0,10.0
+country,Gemini 2.5 Flash,chile,boring,33,1.0,1,10.0,9.0
+country,Gemini 2.5 Flash,chile,boring,69,1.0,1,10.0,5.0
+country,Gemini 2.5 Flash,chile,boring,78,0.0,2,0.0,10.0
+country,Gemini 2.5 Flash,chile,boring,107,1.0,2,10.0,9.444444444444445
+country,Gemini 2.5 Flash,chile,boring,145,1.0,1,10.0,10.0
+country,Gemini 2.5 Flash,chile,boring,154,1.0,1,10.0,2.0
+country,Gemini 2.5 Flash,chile,boring,178,1.0,1,10.0,5.833333333333334
+country,Gemini 2.5 Flash,chile,boring,233,1.0,2,10.0,9.0
+country,Gemini 2.5 Flash,chile,boring,291,0.0,2,0.0,6.0
+country,Gemini 2.5 Flash,chile,boring,354,0.2727272727272727,11,2.727272727272727,0.0
+country,Gemini 2.5 Flash,chile,boring,356,0.0,1,0.0,3.333333333333333
+country,Gemini 2.5 Flash,chile,boring,378,0.0,1,0.0,2.5
+country,Gemini 2.5 Flash,chile,boring,390,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,chile,depressing,15,1.0,2,10.0,10.0
+country,Gemini 2.5 Flash,chile,depressing,126,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,chile,depressing,130,0.5,2,5.0,10.0
+country,Gemini 2.5 Flash,chile,depressing,157,0.16666666666666666,3,1.6666666666666665,5.0
+country,Gemini 2.5 Flash,chile,depressing,159,0.0,1,0.0,0.0
+country,Gemini 2.5 Flash,chile,depressing,160,0.3333333333333333,3,3.333333333333333,5.0
+country,Gemini 2.5 Flash,chile,depressing,179,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,chile,depressing,225,0.5,2,5.0,0.0
+country,Gemini 2.5 Flash,chile,depressing,232,0.0,1,0.0,10.0
+country,Gemini 2.5 Flash,chile,depressing,272,1.0,1,10.0,3.75
+country,Gemini 2.5 Flash,chile,depressing,286,1.0,1,10.0,6.666666666666666
+country,Gemini 2.5 Flash,chile,depressing,332,0.0,2,0.0,0.0
+country,Gemini 2.5 Flash,chile,depressing,358,1.0,1,10.0,5.7142857142857135
+country,Gemini 2.5 Flash,chile,depressing,359,0.5,1,5.0,2.8571428571428568
+country,Gemini 2.5 Flash,chile,depressing,368,0.3333333333333333,3,3.333333333333333,0.0
+country,Gemini 2.5 Flash,chile,depressing,382,0.0,2,0.0,10.0
+country,Gemini 2.5 Flash,chile,depressing,395,1.0,1,10.0,5.833333333333334
+country,Gemini 2.5 Flash,chile,depressing,396,1.0,2,10.0,10.0
+country,Gemini 2.5 Flash,chile,lively,13,0.3333333333333333,3,3.333333333333333,0.0
+country,Gemini 2.5 Flash,chile,lively,22,1.0,3,10.0,0.0
+country,Gemini 2.5 Flash,chile,lively,35,1.0,1,10.0,10.0
+country,Gemini 2.5 Flash,chile,lively,39,0.0,1,0.0,0.625
+country,Gemini 2.5 Flash,chile,lively,62,1.0,1,10.0,3.75
+country,Gemini 2.5 Flash,chile,lively,108,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,chile,lively,120,1.0,2,10.0,10.0
+country,Gemini 2.5 Flash,chile,lively,135,0.75,4,7.5,9.166666666666666
+country,Gemini 2.5 Flash,chile,lively,137,0.0,3,0.0,0.8333333333333333
+country,Gemini 2.5 Flash,chile,lively,165,0.0,2,0.0,10.0
+country,Gemini 2.5 Flash,chile,lively,238,0.3333333333333333,3,3.333333333333333,5.0
+country,Gemini 2.5 Flash,chile,lively,334,0.5,2,5.0,7.222222222222222
+country,Gemini 2.5 Flash,chile,lively,371,0.0,1,0.0,1.6666666666666663
+country,Gemini 2.5 Flash,chile,lively,381,0.3333333333333333,3,3.333333333333333,10.0
+country,Gemini 2.5 Flash,chile,safe,6,0.0,1,0.0,6.666666666666666
+country,Gemini 2.5 Flash,chile,safe,58,0.5,2,5.0,10.0
+country,Gemini 2.5 Flash,chile,safe,117,0.0,1,0.0,2.0
+country,Gemini 2.5 Flash,chile,safe,132,0.0,2,0.0,10.0
+country,Gemini 2.5 Flash,chile,safe,139,0.3333333333333333,3,3.333333333333333,0.0
+country,Gemini 2.5 Flash,chile,safe,145,1.0,1,10.0,5.0
+country,Gemini 2.5 Flash,chile,safe,163,1.0,2,10.0,0.0
+country,Gemini 2.5 Flash,chile,safe,170,1.0,1,10.0,8.75
+country,Gemini 2.5 Flash,chile,safe,192,1.0,2,10.0,10.0
+country,Gemini 2.5 Flash,chile,safe,193,1.0,1,10.0,2.5
+country,Gemini 2.5 Flash,chile,safe,197,1.0,1,10.0,8.75
+country,Gemini 2.5 Flash,chile,safe,215,0.0,1,0.0,10.0
+country,Gemini 2.5 Flash,chile,safe,251,0.3333333333333333,3,3.333333333333333,5.0
+country,Gemini 2.5 Flash,chile,safe,306,0.4,5,4.0,0.0
+country,Gemini 2.5 Flash,chile,safe,321,0.0,1,0.0,10.0
+country,Gemini 2.5 Flash,chile,safe,324,0.0,1,0.0,7.5
+country,Gemini 2.5 Flash,chile,safe,385,1.0,1,10.0,10.0
+country,Gemini 2.5 Flash,chile,safe,394,1.0,1,10.0,6.25
+country,Gemini 2.5 Flash,chile,wealthy,71,0.0,1,0.0,1.25
+country,Gemini 2.5 Flash,chile,wealthy,203,1.0,5,10.0,10.0
+country,Gemini 2.5 Flash,chile,wealthy,242,0.0,3,0.0,0.0
+country,Gemini 2.5 Flash,chile,wealthy,274,0.0,3,0.0,0.0
+country,Gemini 2.5 Flash,chile,wealthy,295,0.6666666666666666,3,6.666666666666666,10.0
+country,Gemini 2.5 Flash,chile,wealthy,298,0.0,2,0.0,2.5
+country,Gemini 2.5 Flash,chile,wealthy,325,0.5,2,5.0,10.0
+country,Gemini 2.5 Flash,chile,wealthy,328,1.0,5,10.0,10.0
+country,Gemini 2.5 Flash,chile,wealthy,339,0.0,2,0.0,6.25
+country,Gemini 2.5 Flash,chile,wealthy,349,1.0,1,10.0,1.0
+country,Gemini 2.5 Flash,chile,wealthy,378,0.3333333333333333,3,3.333333333333333,0.0
+country,Gemini 2.5 Flash,netherlands,beautiful,10,0.0,1,0.0,3.333333333333333
+country,Gemini 2.5 Flash,netherlands,beautiful,15,0.5,2,5.0,2.5
+country,Gemini 2.5 Flash,netherlands,beautiful,21,0.0,2,0.0,10.0
+country,Gemini 2.5 Flash,netherlands,beautiful,32,0.0,1,0.0,7.5
+country,Gemini 2.5 Flash,netherlands,beautiful,98,0.0,1,0.0,3.333333333333333
+country,Gemini 2.5 Flash,netherlands,beautiful,100,0.0,3,0.0,10.0
+country,Gemini 2.5 Flash,netherlands,beautiful,106,0.0,3,0.0,4.0
+country,Gemini 2.5 Flash,netherlands,beautiful,120,0.0,1,0.0,8.333333333333334
+country,Gemini 2.5 Flash,netherlands,beautiful,159,0.0,1,0.0,8.75
+country,Gemini 2.5 Flash,netherlands,beautiful,202,1.0,1,10.0,3.0
+country,Gemini 2.5 Flash,netherlands,beautiful,230,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,netherlands,beautiful,265,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,netherlands,beautiful,292,1.0,1,10.0,9.166666666666666
+country,Gemini 2.5 Flash,netherlands,beautiful,308,0.5,2,5.0,0.0
+country,Gemini 2.5 Flash,netherlands,beautiful,309,1.0,1,10.0,7.5
+country,Gemini 2.5 Flash,netherlands,beautiful,320,1.0,1,10.0,6.666666666666666
+country,Gemini 2.5 Flash,netherlands,beautiful,341,1.0,1,10.0,9.0
+country,Gemini 2.5 Flash,netherlands,beautiful,350,1.0,1,10.0,1.4285714285714284
+country,Gemini 2.5 Flash,netherlands,beautiful,357,1.0,3,10.0,8.125
+country,Gemini 2.5 Flash,netherlands,beautiful,371,1.0,2,10.0,0.0
+country,Gemini 2.5 Flash,netherlands,boring,3,1.0,1,10.0,6.666666666666666
+country,Gemini 2.5 Flash,netherlands,boring,18,1.0,2,10.0,8.571428571428571
+country,Gemini 2.5 Flash,netherlands,boring,33,1.0,1,10.0,0.8333333333333333
+country,Gemini 2.5 Flash,netherlands,boring,69,1.0,1,10.0,3.125
+country,Gemini 2.5 Flash,netherlands,boring,78,0.0,2,0.0,1.0
+country,Gemini 2.5 Flash,netherlands,boring,107,1.0,2,10.0,10.0
+country,Gemini 2.5 Flash,netherlands,boring,145,1.0,1,10.0,6.0
+country,Gemini 2.5 Flash,netherlands,boring,154,1.0,1,10.0,8.333333333333334
+country,Gemini 2.5 Flash,netherlands,boring,178,1.0,1,10.0,5.0
+country,Gemini 2.5 Flash,netherlands,boring,233,1.0,2,10.0,5.833333333333334
+country,Gemini 2.5 Flash,netherlands,boring,291,0.0,2,0.0,5.0
+country,Gemini 2.5 Flash,netherlands,boring,354,0.09090909090909091,11,0.9090909090909092,1.0
+country,Gemini 2.5 Flash,netherlands,boring,356,0.0,1,0.0,0.8333333333333333
+country,Gemini 2.5 Flash,netherlands,boring,378,1.0,1,10.0,2.5
+country,Gemini 2.5 Flash,netherlands,boring,390,1.0,1,10.0,10.0
+country,Gemini 2.5 Flash,netherlands,depressing,15,1.0,2,10.0,0.0
+country,Gemini 2.5 Flash,netherlands,depressing,126,1.0,1,10.0,3.333333333333333
+country,Gemini 2.5 Flash,netherlands,depressing,130,0.5,2,5.0,0.0
+country,Gemini 2.5 Flash,netherlands,depressing,157,1.0,3,10.0,0.0
+country,Gemini 2.5 Flash,netherlands,depressing,159,0.0,1,0.0,8.0
+country,Gemini 2.5 Flash,netherlands,depressing,160,0.3333333333333333,3,3.333333333333333,0.0
+country,Gemini 2.5 Flash,netherlands,depressing,179,1.0,1,10.0,7.272727272727273
+country,Gemini 2.5 Flash,netherlands,depressing,225,0.0,2,0.0,3.333333333333333
+country,Gemini 2.5 Flash,netherlands,depressing,232,0.0,1,0.0,8.0
+country,Gemini 2.5 Flash,netherlands,depressing,272,0.0,1,0.0,10.0
+country,Gemini 2.5 Flash,netherlands,depressing,286,1.0,1,10.0,10.0
+country,Gemini 2.5 Flash,netherlands,depressing,332,0.0,2,0.0,10.0
+country,Gemini 2.5 Flash,netherlands,depressing,358,0.0,1,0.0,10.0
+country,Gemini 2.5 Flash,netherlands,depressing,359,0.0,1,0.0,10.0
+country,Gemini 2.5 Flash,netherlands,depressing,368,0.3333333333333333,3,3.333333333333333,10.0
+country,Gemini 2.5 Flash,netherlands,depressing,382,0.5,2,5.0,3.333333333333333
+country,Gemini 2.5 Flash,netherlands,depressing,395,1.0,1,10.0,10.0
+country,Gemini 2.5 Flash,netherlands,depressing,396,1.0,2,10.0,4.166666666666667
+country,Gemini 2.5 Flash,netherlands,lively,13,0.3333333333333333,3,3.333333333333333,3.333333333333333
+country,Gemini 2.5 Flash,netherlands,lively,22,0.3333333333333333,3,3.333333333333333,7.0
+country,Gemini 2.5 Flash,netherlands,lively,35,1.0,1,10.0,6.428571428571429
+country,Gemini 2.5 Flash,netherlands,lively,39,0.0,1,0.0,2.5
+country,Gemini 2.5 Flash,netherlands,lively,62,1.0,1,10.0,8.75
+country,Gemini 2.5 Flash,netherlands,lively,108,0.0,1,0.0,2.5
+country,Gemini 2.5 Flash,netherlands,lively,120,0.5,2,5.0,0.0
+country,Gemini 2.5 Flash,netherlands,lively,135,1.0,4,10.0,10.0
+country,Gemini 2.5 Flash,netherlands,lively,137,0.0,3,0.0,10.0
+country,Gemini 2.5 Flash,netherlands,lively,165,0.0,2,0.0,2.5
+country,Gemini 2.5 Flash,netherlands,lively,238,0.3333333333333333,3,3.333333333333333,0.0
+country,Gemini 2.5 Flash,netherlands,lively,334,0.5,2,5.0,0.0
+country,Gemini 2.5 Flash,netherlands,lively,371,1.0,1,10.0,10.0
+country,Gemini 2.5 Flash,netherlands,lively,381,1.0,3,10.0,8.0
+country,Gemini 2.5 Flash,netherlands,safe,6,0.0,1,0.0,10.0
+country,Gemini 2.5 Flash,netherlands,safe,58,0.5,2,5.0,1.25
+country,Gemini 2.5 Flash,netherlands,safe,117,0.0,1,0.0,10.0
+country,Gemini 2.5 Flash,netherlands,safe,132,0.0,2,0.0,1.25
+country,Gemini 2.5 Flash,netherlands,safe,139,0.3333333333333333,3,3.333333333333333,10.0
+country,Gemini 2.5 Flash,netherlands,safe,145,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,netherlands,safe,163,1.0,2,10.0,6.875
+country,Gemini 2.5 Flash,netherlands,safe,170,1.0,1,10.0,3.75
+country,Gemini 2.5 Flash,netherlands,safe,192,1.0,2,10.0,0.0
+country,Gemini 2.5 Flash,netherlands,safe,193,1.0,1,10.0,10.0
+country,Gemini 2.5 Flash,netherlands,safe,197,1.0,1,10.0,2.7777777777777777
+country,Gemini 2.5 Flash,netherlands,safe,215,0.0,1,0.0,6.666666666666666
+country,Gemini 2.5 Flash,netherlands,safe,251,0.3333333333333333,3,3.333333333333333,0.0
+country,Gemini 2.5 Flash,netherlands,safe,306,0.4,5,4.0,10.0
+country,Gemini 2.5 Flash,netherlands,safe,321,0.0,1,0.0,8.333333333333334
+country,Gemini 2.5 Flash,netherlands,safe,324,0.0,1,0.0,6.5
+country,Gemini 2.5 Flash,netherlands,safe,385,1.0,1,10.0,10.0
+country,Gemini 2.5 Flash,netherlands,safe,394,1.0,1,10.0,7.5
+country,Gemini 2.5 Flash,netherlands,wealthy,71,0.0,1,0.0,5.625
+country,Gemini 2.5 Flash,netherlands,wealthy,203,0.2,5,2.0,10.0
+country,Gemini 2.5 Flash,netherlands,wealthy,242,0.3333333333333333,3,3.333333333333333,5.0
+country,Gemini 2.5 Flash,netherlands,wealthy,274,0.3333333333333333,3,3.333333333333333,2.5
+country,Gemini 2.5 Flash,netherlands,wealthy,295,0.6666666666666666,3,6.666666666666666,8.333333333333334
+country,Gemini 2.5 Flash,netherlands,wealthy,298,0.0,2,0.0,5.0
+country,Gemini 2.5 Flash,netherlands,wealthy,325,0.75,2,7.5,7.0
+country,Gemini 2.5 Flash,netherlands,wealthy,328,1.0,5,10.0,10.0
+country,Gemini 2.5 Flash,netherlands,wealthy,339,0.5,2,5.0,0.0
+country,Gemini 2.5 Flash,netherlands,wealthy,349,0.5,1,5.0,6.25
+country,Gemini 2.5 Flash,netherlands,wealthy,378,0.6666666666666666,3,6.666666666666666,6.666666666666666
+country,Gemini 2.5 Flash,nigeria,beautiful,10,0.0,1,0.0,4.166666666666667
+country,Gemini 2.5 Flash,nigeria,beautiful,15,0.25,2,2.5,7.5
+country,Gemini 2.5 Flash,nigeria,beautiful,21,0.0,2,0.0,0.0
+country,Gemini 2.5 Flash,nigeria,beautiful,32,0.0,1,0.0,0.8333333333333333
+country,Gemini 2.5 Flash,nigeria,beautiful,98,0.5,1,5.0,0.0
+country,Gemini 2.5 Flash,nigeria,beautiful,100,0.0,3,0.0,0.0
+country,Gemini 2.5 Flash,nigeria,beautiful,106,0.3333333333333333,3,3.333333333333333,0.0
+country,Gemini 2.5 Flash,nigeria,beautiful,120,1.0,1,10.0,2.5
+country,Gemini 2.5 Flash,nigeria,beautiful,159,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,nigeria,beautiful,202,1.0,1,10.0,7.5
+country,Gemini 2.5 Flash,nigeria,beautiful,230,1.0,1,10.0,8.333333333333334
+country,Gemini 2.5 Flash,nigeria,beautiful,265,1.0,1,10.0,8.333333333333334
+country,Gemini 2.5 Flash,nigeria,beautiful,292,1.0,1,10.0,10.0
+country,Gemini 2.5 Flash,nigeria,beautiful,308,0.0,2,0.0,2.0
+country,Gemini 2.5 Flash,nigeria,beautiful,309,0.0,1,0.0,9.0
+country,Gemini 2.5 Flash,nigeria,beautiful,320,1.0,1,10.0,8.0
+country,Gemini 2.5 Flash,nigeria,beautiful,341,1.0,1,10.0,7.5
+country,Gemini 2.5 Flash,nigeria,beautiful,350,1.0,1,10.0,9.166666666666666
+country,Gemini 2.5 Flash,nigeria,beautiful,357,0.6666666666666666,3,6.666666666666666,10.0
+country,Gemini 2.5 Flash,nigeria,beautiful,371,1.0,2,10.0,9.0
+country,Gemini 2.5 Flash,nigeria,boring,3,0.0,1,0.0,1.6666666666666663
+country,Gemini 2.5 Flash,nigeria,boring,18,1.0,2,10.0,8.75
+country,Gemini 2.5 Flash,nigeria,boring,33,1.0,1,10.0,3.333333333333333
+country,Gemini 2.5 Flash,nigeria,boring,69,1.0,1,10.0,9.285714285714286
+country,Gemini 2.5 Flash,nigeria,boring,78,0.0,2,0.0,1.6666666666666663
+country,Gemini 2.5 Flash,nigeria,boring,107,1.0,2,10.0,5.0
+country,Gemini 2.5 Flash,nigeria,boring,145,1.0,1,10.0,10.0
+country,Gemini 2.5 Flash,nigeria,boring,154,1.0,1,10.0,10.0
+country,Gemini 2.5 Flash,nigeria,boring,178,1.0,1,10.0,7.5
+country,Gemini 2.5 Flash,nigeria,boring,233,1.0,2,10.0,5.7142857142857135
+country,Gemini 2.5 Flash,nigeria,boring,291,0.0,2,0.0,2.5
+country,Gemini 2.5 Flash,nigeria,boring,354,0.2727272727272727,11,2.727272727272727,0.0
+country,Gemini 2.5 Flash,nigeria,boring,356,0.0,1,0.0,1.6666666666666663
+country,Gemini 2.5 Flash,nigeria,boring,378,0.0,1,0.0,10.0
+country,Gemini 2.5 Flash,nigeria,boring,390,1.0,1,10.0,6.25
+country,Gemini 2.5 Flash,nigeria,depressing,15,1.0,2,10.0,3.75
+country,Gemini 2.5 Flash,nigeria,depressing,126,1.0,1,10.0,6.666666666666666
+country,Gemini 2.5 Flash,nigeria,depressing,130,0.25,2,2.5,7.5
+country,Gemini 2.5 Flash,nigeria,depressing,157,0.3333333333333333,3,3.333333333333333,10.0
+country,Gemini 2.5 Flash,nigeria,depressing,159,0.0,1,0.0,7.5
+country,Gemini 2.5 Flash,nigeria,depressing,160,0.3333333333333333,3,3.333333333333333,7.857142857142857
+country,Gemini 2.5 Flash,nigeria,depressing,179,0.5,1,5.0,10.0
+country,Gemini 2.5 Flash,nigeria,depressing,225,0.0,2,0.0,4.0
+country,Gemini 2.5 Flash,nigeria,depressing,232,0.5,1,5.0,0.0
+country,Gemini 2.5 Flash,nigeria,depressing,272,0.5,1,5.0,0.0
+country,Gemini 2.5 Flash,nigeria,depressing,286,1.0,1,10.0,8.333333333333334
+country,Gemini 2.5 Flash,nigeria,depressing,332,0.25,2,2.5,5.0
+country,Gemini 2.5 Flash,nigeria,depressing,358,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,nigeria,depressing,359,0.5,1,5.0,0.0
+country,Gemini 2.5 Flash,nigeria,depressing,368,0.3333333333333333,3,3.333333333333333,3.333333333333333
+country,Gemini 2.5 Flash,nigeria,depressing,382,0.5,2,5.0,0.8333333333333333
+country,Gemini 2.5 Flash,nigeria,depressing,395,1.0,1,10.0,7.5
+country,Gemini 2.5 Flash,nigeria,depressing,396,1.0,2,10.0,4.0
+country,Gemini 2.5 Flash,nigeria,lively,13,0.16666666666666666,3,1.6666666666666665,0.0
+country,Gemini 2.5 Flash,nigeria,lively,22,0.6666666666666666,3,6.666666666666666,5.0
+country,Gemini 2.5 Flash,nigeria,lively,35,1.0,1,10.0,5.0
+country,Gemini 2.5 Flash,nigeria,lively,39,0.0,1,0.0,5.0
+country,Gemini 2.5 Flash,nigeria,lively,62,1.0,1,10.0,5.0
+country,Gemini 2.5 Flash,nigeria,lively,108,1.0,1,10.0,10.0
+country,Gemini 2.5 Flash,nigeria,lively,120,1.0,2,10.0,3.75
+country,Gemini 2.5 Flash,nigeria,lively,135,1.0,4,10.0,8.571428571428571
+country,Gemini 2.5 Flash,nigeria,lively,137,0.3333333333333333,3,3.333333333333333,2.0
+country,Gemini 2.5 Flash,nigeria,lively,165,0.25,2,2.5,10.0
+country,Gemini 2.5 Flash,nigeria,lively,238,0.0,3,0.0,7.5
+country,Gemini 2.5 Flash,nigeria,lively,334,0.5,2,5.0,5.0
+country,Gemini 2.5 Flash,nigeria,lively,371,0.0,1,0.0,5.7142857142857135
+country,Gemini 2.5 Flash,nigeria,lively,381,0.3333333333333333,3,3.333333333333333,0.0
+country,Gemini 2.5 Flash,nigeria,safe,6,0.0,1,0.0,0.0
+country,Gemini 2.5 Flash,nigeria,safe,58,0.5,2,5.0,5.833333333333334
+country,Gemini 2.5 Flash,nigeria,safe,117,0.0,1,0.0,4.0
+country,Gemini 2.5 Flash,nigeria,safe,132,0.0,2,0.0,5.833333333333334
+country,Gemini 2.5 Flash,nigeria,safe,139,0.3333333333333333,3,3.333333333333333,7.0
+country,Gemini 2.5 Flash,nigeria,safe,145,1.0,1,10.0,6.666666666666666
+country,Gemini 2.5 Flash,nigeria,safe,163,1.0,2,10.0,5.833333333333334
+country,Gemini 2.5 Flash,nigeria,safe,170,1.0,1,10.0,7.0
+country,Gemini 2.5 Flash,nigeria,safe,192,1.0,2,10.0,7.5
+country,Gemini 2.5 Flash,nigeria,safe,193,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,nigeria,safe,197,1.0,1,10.0,5.0
+country,Gemini 2.5 Flash,nigeria,safe,215,0.0,1,0.0,3.75
+country,Gemini 2.5 Flash,nigeria,safe,251,0.3333333333333333,3,3.333333333333333,10.0
+country,Gemini 2.5 Flash,nigeria,safe,306,0.4,5,4.0,3.888888888888889
+country,Gemini 2.5 Flash,nigeria,safe,321,0.0,1,0.0,5.0
+country,Gemini 2.5 Flash,nigeria,safe,324,0.5,1,5.0,5.833333333333334
+country,Gemini 2.5 Flash,nigeria,safe,385,1.0,1,10.0,1.25
+country,Gemini 2.5 Flash,nigeria,safe,394,0.5,1,5.0,10.0
+country,Gemini 2.5 Flash,nigeria,wealthy,71,0.0,1,0.0,5.0
+country,Gemini 2.5 Flash,nigeria,wealthy,203,1.0,5,10.0,10.0
+country,Gemini 2.5 Flash,nigeria,wealthy,242,0.16666666666666666,3,1.6666666666666665,3.0
+country,Gemini 2.5 Flash,nigeria,wealthy,274,0.0,3,0.0,5.0
+country,Gemini 2.5 Flash,nigeria,wealthy,295,0.5,3,5.0,6.875
+country,Gemini 2.5 Flash,nigeria,wealthy,298,0.0,2,0.0,0.0
+country,Gemini 2.5 Flash,nigeria,wealthy,325,0.75,2,7.5,5.0
+country,Gemini 2.5 Flash,nigeria,wealthy,328,0.8,5,8.0,10.0
+country,Gemini 2.5 Flash,nigeria,wealthy,339,0.0,2,0.0,6.666666666666666
+country,Gemini 2.5 Flash,nigeria,wealthy,349,0.5,1,5.0,9.285714285714286
+country,Gemini 2.5 Flash,nigeria,wealthy,378,0.6666666666666666,3,6.666666666666666,7.0
+country,Gemini 2.5 Flash,singapore,beautiful,10,0.0,1,0.0,9.0
+country,Gemini 2.5 Flash,singapore,beautiful,15,0.5,2,5.0,6.0
+country,Gemini 2.5 Flash,singapore,beautiful,21,0.0,2,0.0,8.333333333333334
+country,Gemini 2.5 Flash,singapore,beautiful,32,0.0,1,0.0,10.0
+country,Gemini 2.5 Flash,singapore,beautiful,98,0.0,1,0.0,7.0
+country,Gemini 2.5 Flash,singapore,beautiful,100,0.0,3,0.0,5.625
+country,Gemini 2.5 Flash,singapore,beautiful,106,0.0,3,0.0,10.0
+country,Gemini 2.5 Flash,singapore,beautiful,120,0.0,1,0.0,7.5
+country,Gemini 2.5 Flash,singapore,beautiful,159,0.0,1,0.0,8.571428571428571
+country,Gemini 2.5 Flash,singapore,beautiful,202,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,singapore,beautiful,230,1.0,1,10.0,3.75
+country,Gemini 2.5 Flash,singapore,beautiful,265,1.0,1,10.0,6.25
+country,Gemini 2.5 Flash,singapore,beautiful,292,1.0,1,10.0,1.6666666666666663
+country,Gemini 2.5 Flash,singapore,beautiful,308,0.5,2,5.0,1.6666666666666663
+country,Gemini 2.5 Flash,singapore,beautiful,309,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,singapore,beautiful,320,1.0,1,10.0,7.5
+country,Gemini 2.5 Flash,singapore,beautiful,341,1.0,1,10.0,7.5
+country,Gemini 2.5 Flash,singapore,beautiful,350,1.0,1,10.0,5.0
+country,Gemini 2.5 Flash,singapore,beautiful,357,1.0,3,10.0,0.0
+country,Gemini 2.5 Flash,singapore,beautiful,371,1.0,2,10.0,2.142857142857143
+country,Gemini 2.5 Flash,singapore,boring,3,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,singapore,boring,18,1.0,2,10.0,1.0
+country,Gemini 2.5 Flash,singapore,boring,33,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,singapore,boring,69,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,singapore,boring,78,0.0,2,0.0,1.1111111111111112
+country,Gemini 2.5 Flash,singapore,boring,107,1.0,2,10.0,0.0
+country,Gemini 2.5 Flash,singapore,boring,145,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,singapore,boring,154,1.0,1,10.0,1.6666666666666663
+country,Gemini 2.5 Flash,singapore,boring,178,1.0,1,10.0,1.6666666666666663
+country,Gemini 2.5 Flash,singapore,boring,233,1.0,2,10.0,0.0
+country,Gemini 2.5 Flash,singapore,boring,291,0.0,2,0.0,10.0
+country,Gemini 2.5 Flash,singapore,boring,354,0.18181818181818182,11,1.8181818181818183,10.0
+country,Gemini 2.5 Flash,singapore,boring,356,0.0,1,0.0,10.0
+country,Gemini 2.5 Flash,singapore,boring,378,0.0,1,0.0,0.0
+country,Gemini 2.5 Flash,singapore,boring,390,1.0,1,10.0,3.333333333333333
+country,Gemini 2.5 Flash,singapore,depressing,15,0.5,2,5.0,3.0
+country,Gemini 2.5 Flash,singapore,depressing,126,0.5,1,5.0,10.0
+country,Gemini 2.5 Flash,singapore,depressing,130,0.0,2,0.0,5.0
+country,Gemini 2.5 Flash,singapore,depressing,157,0.3333333333333333,3,3.333333333333333,3.333333333333333
+country,Gemini 2.5 Flash,singapore,depressing,159,0.0,1,0.0,4.0
+country,Gemini 2.5 Flash,singapore,depressing,160,0.3333333333333333,3,3.333333333333333,10.0
+country,Gemini 2.5 Flash,singapore,depressing,179,0.5,1,5.0,6.25
+country,Gemini 2.5 Flash,singapore,depressing,225,0.0,2,0.0,10.0
+country,Gemini 2.5 Flash,singapore,depressing,232,0.5,1,5.0,5.0
+country,Gemini 2.5 Flash,singapore,depressing,272,0.5,1,5.0,1.25
+country,Gemini 2.5 Flash,singapore,depressing,286,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,singapore,depressing,332,1.0,2,10.0,2.5
+country,Gemini 2.5 Flash,singapore,depressing,358,1.0,1,10.0,2.0
+country,Gemini 2.5 Flash,singapore,depressing,359,0.5,1,5.0,3.571428571428572
+country,Gemini 2.5 Flash,singapore,depressing,368,0.3333333333333333,3,3.333333333333333,0.0
+country,Gemini 2.5 Flash,singapore,depressing,382,0.75,2,7.5,0.0
+country,Gemini 2.5 Flash,singapore,depressing,395,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,singapore,depressing,396,1.0,2,10.0,6.666666666666666
+country,Gemini 2.5 Flash,singapore,lively,13,0.0,3,0.0,3.0
+country,Gemini 2.5 Flash,singapore,lively,22,0.6666666666666666,3,6.666666666666666,1.25
+country,Gemini 2.5 Flash,singapore,lively,35,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,singapore,lively,39,0.0,1,0.0,10.0
+country,Gemini 2.5 Flash,singapore,lively,62,0.0,1,0.0,0.0
+country,Gemini 2.5 Flash,singapore,lively,108,1.0,1,10.0,2.5
+country,Gemini 2.5 Flash,singapore,lively,120,0.5,2,5.0,2.7777777777777777
+country,Gemini 2.5 Flash,singapore,lively,135,1.0,4,10.0,5.0
+country,Gemini 2.5 Flash,singapore,lively,137,0.0,3,0.0,0.8333333333333333
+country,Gemini 2.5 Flash,singapore,lively,165,0.5,2,5.0,6.0
+country,Gemini 2.5 Flash,singapore,lively,238,0.6666666666666666,3,6.666666666666666,10.0
+country,Gemini 2.5 Flash,singapore,lively,334,0.5,2,5.0,6.666666666666666
+country,Gemini 2.5 Flash,singapore,lively,371,1.0,1,10.0,6.666666666666666
+country,Gemini 2.5 Flash,singapore,lively,381,0.3333333333333333,3,3.333333333333333,10.0
+country,Gemini 2.5 Flash,singapore,safe,6,0.0,1,0.0,4.0
+country,Gemini 2.5 Flash,singapore,safe,58,0.5,2,5.0,5.0
+country,Gemini 2.5 Flash,singapore,safe,117,0.0,1,0.0,1.6666666666666663
+country,Gemini 2.5 Flash,singapore,safe,132,0.0,2,0.0,7.5
+country,Gemini 2.5 Flash,singapore,safe,139,0.3333333333333333,3,3.333333333333333,2.5
+country,Gemini 2.5 Flash,singapore,safe,145,1.0,1,10.0,10.0
+country,Gemini 2.5 Flash,singapore,safe,163,1.0,2,10.0,10.0
+country,Gemini 2.5 Flash,singapore,safe,170,1.0,1,10.0,2.0
+country,Gemini 2.5 Flash,singapore,safe,192,1.0,2,10.0,8.333333333333334
+country,Gemini 2.5 Flash,singapore,safe,193,1.0,1,10.0,6.0
+country,Gemini 2.5 Flash,singapore,safe,197,1.0,1,10.0,5.555555555555555
+country,Gemini 2.5 Flash,singapore,safe,215,0.0,1,0.0,0.0
+country,Gemini 2.5 Flash,singapore,safe,251,0.3333333333333333,3,3.333333333333333,7.0
+country,Gemini 2.5 Flash,singapore,safe,306,0.4,5,4.0,3.571428571428572
+country,Gemini 2.5 Flash,singapore,safe,321,0.0,1,0.0,0.0
+country,Gemini 2.5 Flash,singapore,safe,324,0.0,1,0.0,10.0
+country,Gemini 2.5 Flash,singapore,safe,385,1.0,1,10.0,2.5
+country,Gemini 2.5 Flash,singapore,safe,394,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,singapore,wealthy,71,0.0,1,0.0,6.666666666666666
+country,Gemini 2.5 Flash,singapore,wealthy,203,1.0,5,10.0,0.0
+country,Gemini 2.5 Flash,singapore,wealthy,242,0.0,3,0.0,10.0
+country,Gemini 2.5 Flash,singapore,wealthy,274,0.0,3,0.0,10.0
+country,Gemini 2.5 Flash,singapore,wealthy,295,0.6666666666666666,3,6.666666666666666,0.0
+country,Gemini 2.5 Flash,singapore,wealthy,298,0.0,2,0.0,9.166666666666666
+country,Gemini 2.5 Flash,singapore,wealthy,325,0.5,2,5.0,8.0
+country,Gemini 2.5 Flash,singapore,wealthy,328,0.8,5,8.0,0.0
+country,Gemini 2.5 Flash,singapore,wealthy,339,0.0,2,0.0,10.0
+country,Gemini 2.5 Flash,singapore,wealthy,349,1.0,1,10.0,6.0
+country,Gemini 2.5 Flash,singapore,wealthy,378,0.6666666666666666,3,6.666666666666666,8.571428571428571
+country,Gemini 2.5 Flash,usa,beautiful,10,0.0,1,0.0,5.7142857142857135
+country,Gemini 2.5 Flash,usa,beautiful,15,0.5,2,5.0,10.0
+country,Gemini 2.5 Flash,usa,beautiful,21,0.0,2,0.0,2.5
+country,Gemini 2.5 Flash,usa,beautiful,32,0.0,1,0.0,3.0
+country,Gemini 2.5 Flash,usa,beautiful,98,0.0,1,0.0,0.0
+country,Gemini 2.5 Flash,usa,beautiful,100,0.0,3,0.0,4.166666666666667
+country,Gemini 2.5 Flash,usa,beautiful,106,0.0,3,0.0,3.333333333333333
+country,Gemini 2.5 Flash,usa,beautiful,120,0.0,1,0.0,0.0
+country,Gemini 2.5 Flash,usa,beautiful,159,0.0,1,0.0,4.444444444444445
+country,Gemini 2.5 Flash,usa,beautiful,202,1.0,1,10.0,4.285714285714286
+country,Gemini 2.5 Flash,usa,beautiful,230,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,usa,beautiful,265,1.0,1,10.0,8.75
+country,Gemini 2.5 Flash,usa,beautiful,292,1.0,1,10.0,5.0
+country,Gemini 2.5 Flash,usa,beautiful,308,0.5,2,5.0,10.0
+country,Gemini 2.5 Flash,usa,beautiful,309,1.0,1,10.0,5.0
+country,Gemini 2.5 Flash,usa,beautiful,320,1.0,1,10.0,1.0
+country,Gemini 2.5 Flash,usa,beautiful,341,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,usa,beautiful,350,1.0,1,10.0,5.625
+country,Gemini 2.5 Flash,usa,beautiful,357,1.0,3,10.0,7.5
+country,Gemini 2.5 Flash,usa,beautiful,371,1.0,2,10.0,8.75
+country,Gemini 2.5 Flash,usa,boring,3,0.5,1,5.0,5.0
+country,Gemini 2.5 Flash,usa,boring,18,1.0,2,10.0,10.0
+country,Gemini 2.5 Flash,usa,boring,33,1.0,1,10.0,1.4285714285714284
+country,Gemini 2.5 Flash,usa,boring,69,1.0,1,10.0,6.25
+country,Gemini 2.5 Flash,usa,boring,78,0.0,2,0.0,1.25
+country,Gemini 2.5 Flash,usa,boring,107,1.0,2,10.0,6.666666666666666
+country,Gemini 2.5 Flash,usa,boring,145,1.0,1,10.0,4.0
+country,Gemini 2.5 Flash,usa,boring,154,1.0,1,10.0,8.333333333333334
+country,Gemini 2.5 Flash,usa,boring,178,1.0,1,10.0,10.0
+country,Gemini 2.5 Flash,usa,boring,233,1.0,2,10.0,9.0
+country,Gemini 2.5 Flash,usa,boring,291,0.0,2,0.0,0.0
+country,Gemini 2.5 Flash,usa,boring,354,0.22727272727272727,11,2.2727272727272725,0.0
+country,Gemini 2.5 Flash,usa,boring,356,0.0,1,0.0,2.5
+country,Gemini 2.5 Flash,usa,boring,378,0.0,1,0.0,6.666666666666666
+country,Gemini 2.5 Flash,usa,boring,390,1.0,1,10.0,0.8333333333333333
+country,Gemini 2.5 Flash,usa,depressing,15,1.0,2,10.0,4.444444444444445
+country,Gemini 2.5 Flash,usa,depressing,126,1.0,1,10.0,8.333333333333334
+country,Gemini 2.5 Flash,usa,depressing,130,0.5,2,5.0,5.555555555555555
+country,Gemini 2.5 Flash,usa,depressing,157,0.3333333333333333,3,3.333333333333333,5.0
+country,Gemini 2.5 Flash,usa,depressing,159,0.0,1,0.0,10.0
+country,Gemini 2.5 Flash,usa,depressing,160,0.16666666666666666,3,1.6666666666666665,4.0
+country,Gemini 2.5 Flash,usa,depressing,179,0.5,1,5.0,7.857142857142857
+country,Gemini 2.5 Flash,usa,depressing,225,0.0,2,0.0,10.0
+country,Gemini 2.5 Flash,usa,depressing,232,0.5,1,5.0,7.5
+country,Gemini 2.5 Flash,usa,depressing,272,0.5,1,5.0,2.8571428571428568
+country,Gemini 2.5 Flash,usa,depressing,286,1.0,1,10.0,5.0
+country,Gemini 2.5 Flash,usa,depressing,332,0.25,2,2.5,3.0
+country,Gemini 2.5 Flash,usa,depressing,358,1.0,1,10.0,2.8571428571428568
+country,Gemini 2.5 Flash,usa,depressing,359,0.5,1,5.0,2.142857142857143
+country,Gemini 2.5 Flash,usa,depressing,368,0.3333333333333333,3,3.333333333333333,1.875
+country,Gemini 2.5 Flash,usa,depressing,382,0.5,2,5.0,3.0
+country,Gemini 2.5 Flash,usa,depressing,395,1.0,1,10.0,3.75
+country,Gemini 2.5 Flash,usa,depressing,396,1.0,2,10.0,0.0
+country,Gemini 2.5 Flash,usa,lively,13,0.16666666666666666,3,1.6666666666666665,10.0
+country,Gemini 2.5 Flash,usa,lively,22,0.6666666666666666,3,6.666666666666666,10.0
+country,Gemini 2.5 Flash,usa,lively,35,1.0,1,10.0,3.75
+country,Gemini 2.5 Flash,usa,lively,39,0.0,1,0.0,3.571428571428572
+country,Gemini 2.5 Flash,usa,lively,62,1.0,1,10.0,0.7142857142857142
+country,Gemini 2.5 Flash,usa,lively,108,1.0,1,10.0,5.833333333333334
+country,Gemini 2.5 Flash,usa,lively,120,1.0,2,10.0,4.0
+country,Gemini 2.5 Flash,usa,lively,135,1.0,4,10.0,0.0
+country,Gemini 2.5 Flash,usa,lively,137,0.0,3,0.0,0.0
+country,Gemini 2.5 Flash,usa,lively,165,0.25,2,2.5,1.6666666666666663
+country,Gemini 2.5 Flash,usa,lively,238,0.3333333333333333,3,3.333333333333333,9.166666666666666
+country,Gemini 2.5 Flash,usa,lively,334,0.5,2,5.0,10.0
+country,Gemini 2.5 Flash,usa,lively,371,0.0,1,0.0,10.0
+country,Gemini 2.5 Flash,usa,lively,381,0.3333333333333333,3,3.333333333333333,0.0
+country,Gemini 2.5 Flash,usa,safe,6,0.0,1,0.0,2.142857142857143
+country,Gemini 2.5 Flash,usa,safe,58,0.5,2,5.0,0.0
+country,Gemini 2.5 Flash,usa,safe,117,0.0,1,0.0,7.5
+country,Gemini 2.5 Flash,usa,safe,132,0.0,2,0.0,3.333333333333333
+country,Gemini 2.5 Flash,usa,safe,139,0.3333333333333333,3,3.333333333333333,8.0
+country,Gemini 2.5 Flash,usa,safe,145,1.0,1,10.0,2.5
+country,Gemini 2.5 Flash,usa,safe,163,1.0,2,10.0,7.142857142857143
+country,Gemini 2.5 Flash,usa,safe,170,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,usa,safe,192,0.5,2,5.0,2.5
+country,Gemini 2.5 Flash,usa,safe,193,0.0,1,0.0,5.0
+country,Gemini 2.5 Flash,usa,safe,197,1.0,1,10.0,0.0
+country,Gemini 2.5 Flash,usa,safe,215,0.0,1,0.0,1.6666666666666663
+country,Gemini 2.5 Flash,usa,safe,251,0.6666666666666666,3,6.666666666666666,0.0
+country,Gemini 2.5 Flash,usa,safe,306,0.6,5,6.0,10.0
+country,Gemini 2.5 Flash,usa,safe,321,0.0,1,0.0,3.333333333333333
+country,Gemini 2.5 Flash,usa,safe,324,0.0,1,0.0,0.0
+country,Gemini 2.5 Flash,usa,safe,385,1.0,1,10.0,8.571428571428571
+country,Gemini 2.5 Flash,usa,safe,394,1.0,1,10.0,9.0
+country,Gemini 2.5 Flash,usa,wealthy,71,0.0,1,0.0,10.0
+country,Gemini 2.5 Flash,usa,wealthy,203,0.9,5,9.0,7.857142857142857
+country,Gemini 2.5 Flash,usa,wealthy,242,0.0,3,0.0,5.0
+country,Gemini 2.5 Flash,usa,wealthy,274,0.0,3,0.0,5.0
+country,Gemini 2.5 Flash,usa,wealthy,295,0.8333333333333334,3,8.333333333333334,6.666666666666666
+country,Gemini 2.5 Flash,usa,wealthy,298,0.0,2,0.0,2.5
+country,Gemini 2.5 Flash,usa,wealthy,325,0.75,2,7.5,0.0
+country,Gemini 2.5 Flash,usa,wealthy,328,1.0,5,10.0,8.88888888888889
+country,Gemini 2.5 Flash,usa,wealthy,339,0.0,2,0.0,8.333333333333334
+country,Gemini 2.5 Flash,usa,wealthy,349,0.5,1,5.0,10.0
+country,Gemini 2.5 Flash,usa,wealthy,378,0.3333333333333333,3,3.333333333333333,5.0
+country,GPT-5.2,chile,beautiful,10,0.0,1,0.0,0.0
+country,GPT-5.2,chile,beautiful,15,0.5,2,5.0,0.0
+country,GPT-5.2,chile,beautiful,21,0.0,2,0.0,5.0
+country,GPT-5.2,chile,beautiful,32,0.0,1,0.0,8.75
+country,GPT-5.2,chile,beautiful,98,0.0,1,0.0,8.333333333333334
+country,GPT-5.2,chile,beautiful,100,0.3333333333333333,3,3.333333333333333,0.0
+country,GPT-5.2,chile,beautiful,106,0.0,3,0.0,5.0
+country,GPT-5.2,chile,beautiful,120,0.0,1,0.0,2.0
+country,GPT-5.2,chile,beautiful,159,1.0,1,10.0,5.0
+country,GPT-5.2,chile,beautiful,202,1.0,1,10.0,10.0
+country,GPT-5.2,chile,beautiful,230,1.0,1,10.0,6.0
+country,GPT-5.2,chile,beautiful,265,1.0,1,10.0,1.25
+country,GPT-5.2,chile,beautiful,292,1.0,1,10.0,6.666666666666666
+country,GPT-5.2,chile,beautiful,308,0.5,2,5.0,7.5
+country,GPT-5.2,chile,beautiful,309,1.0,1,10.0,2.142857142857143
+country,GPT-5.2,chile,beautiful,320,1.0,1,10.0,10.0
+country,GPT-5.2,chile,beautiful,341,1.0,1,10.0,5.0
+country,GPT-5.2,chile,beautiful,350,1.0,1,10.0,10.0
+country,GPT-5.2,chile,beautiful,357,0.6666666666666666,3,6.666666666666666,6.0
+country,GPT-5.2,chile,beautiful,371,0.5,2,5.0,7.142857142857143
+country,GPT-5.2,chile,boring,3,1.0,1,10.0,10.0
+country,GPT-5.2,chile,boring,18,1.0,2,10.0,10.0
+country,GPT-5.2,chile,boring,33,1.0,1,10.0,9.0
+country,GPT-5.2,chile,boring,69,1.0,1,10.0,5.0
+country,GPT-5.2,chile,boring,78,0.5,2,5.0,10.0
+country,GPT-5.2,chile,boring,107,1.0,2,10.0,9.444444444444445
+country,GPT-5.2,chile,boring,145,1.0,1,10.0,10.0
+country,GPT-5.2,chile,boring,154,1.0,1,10.0,2.0
+country,GPT-5.2,chile,boring,178,1.0,1,10.0,5.833333333333334
+country,GPT-5.2,chile,boring,233,1.0,2,10.0,9.0
+country,GPT-5.2,chile,boring,291,0.0,2,0.0,6.0
+country,GPT-5.2,chile,boring,354,0.0,11,0.0,0.0
+country,GPT-5.2,chile,boring,356,0.0,1,0.0,3.333333333333333
+country,GPT-5.2,chile,boring,378,1.0,1,10.0,2.5
+country,GPT-5.2,chile,boring,390,1.0,1,10.0,0.0
+country,GPT-5.2,chile,depressing,15,1.0,2,10.0,10.0
+country,GPT-5.2,chile,depressing,126,1.0,1,10.0,0.0
+country,GPT-5.2,chile,depressing,130,1.0,2,10.0,10.0
+country,GPT-5.2,chile,depressing,157,0.6666666666666666,3,6.666666666666666,5.0
+country,GPT-5.2,chile,depressing,159,0.0,1,0.0,0.0
+country,GPT-5.2,chile,depressing,160,0.6666666666666666,3,6.666666666666666,5.0
+country,GPT-5.2,chile,depressing,179,1.0,1,10.0,0.0
+country,GPT-5.2,chile,depressing,225,0.5,2,5.0,0.0
+country,GPT-5.2,chile,depressing,232,0.0,1,0.0,10.0
+country,GPT-5.2,chile,depressing,272,0.0,1,0.0,3.75
+country,GPT-5.2,chile,depressing,286,1.0,1,10.0,6.666666666666666
+country,GPT-5.2,chile,depressing,332,0.0,2,0.0,0.0
+country,GPT-5.2,chile,depressing,358,1.0,1,10.0,5.7142857142857135
+country,GPT-5.2,chile,depressing,359,0.0,1,0.0,2.8571428571428568
+country,GPT-5.2,chile,depressing,368,0.0,3,0.0,0.0
+country,GPT-5.2,chile,depressing,382,0.0,2,0.0,10.0
+country,GPT-5.2,chile,depressing,395,0.0,1,0.0,5.833333333333334
+country,GPT-5.2,chile,depressing,396,1.0,2,10.0,10.0
+country,GPT-5.2,chile,lively,13,0.3333333333333333,3,3.333333333333333,0.0
+country,GPT-5.2,chile,lively,22,0.6666666666666666,3,6.666666666666666,0.0
+country,GPT-5.2,chile,lively,35,1.0,1,10.0,10.0
+country,GPT-5.2,chile,lively,39,0.0,1,0.0,0.625
+country,GPT-5.2,chile,lively,62,0.0,1,0.0,3.75
+country,GPT-5.2,chile,lively,108,0.0,1,0.0,0.0
+country,GPT-5.2,chile,lively,120,1.0,2,10.0,10.0
+country,GPT-5.2,chile,lively,135,1.0,4,10.0,9.166666666666666
+country,GPT-5.2,chile,lively,137,0.0,3,0.0,0.8333333333333333
+country,GPT-5.2,chile,lively,165,0.0,2,0.0,10.0
+country,GPT-5.2,chile,lively,238,0.6666666666666666,3,6.666666666666666,5.0
+country,GPT-5.2,chile,lively,334,0.5,2,5.0,7.222222222222222
+country,GPT-5.2,chile,lively,371,0.0,1,0.0,1.6666666666666663
+country,GPT-5.2,chile,lively,381,0.6666666666666666,3,6.666666666666666,10.0
+country,GPT-5.2,chile,safe,6,0.0,1,0.0,6.666666666666666
+country,GPT-5.2,chile,safe,58,0.5,2,5.0,10.0
+country,GPT-5.2,chile,safe,117,0.0,1,0.0,2.0
+country,GPT-5.2,chile,safe,132,0.0,2,0.0,10.0
+country,GPT-5.2,chile,safe,139,0.3333333333333333,3,3.333333333333333,0.0
+country,GPT-5.2,chile,safe,145,1.0,1,10.0,5.0
+country,GPT-5.2,chile,safe,163,0.5,2,5.0,0.0
+country,GPT-5.2,chile,safe,170,0.0,1,0.0,8.75
+country,GPT-5.2,chile,safe,192,1.0,2,10.0,10.0
+country,GPT-5.2,chile,safe,193,0.0,1,0.0,2.5
+country,GPT-5.2,chile,safe,197,1.0,1,10.0,8.75
+country,GPT-5.2,chile,safe,215,1.0,1,10.0,10.0
+country,GPT-5.2,chile,safe,251,0.6666666666666666,3,6.666666666666666,5.0
+country,GPT-5.2,chile,safe,306,0.6,5,6.0,0.0
+country,GPT-5.2,chile,safe,321,0.0,1,0.0,10.0
+country,GPT-5.2,chile,safe,324,0.5,1,5.0,7.5
+country,GPT-5.2,chile,safe,385,1.0,1,10.0,10.0
+country,GPT-5.2,chile,safe,394,0.5,1,5.0,6.25
+country,GPT-5.2,chile,wealthy,71,0.0,1,0.0,1.25
+country,GPT-5.2,chile,wealthy,203,1.0,5,10.0,10.0
+country,GPT-5.2,chile,wealthy,242,0.0,3,0.0,0.0
+country,GPT-5.2,chile,wealthy,274,0.0,3,0.0,0.0
+country,GPT-5.2,chile,wealthy,295,0.6666666666666666,3,6.666666666666666,10.0
+country,GPT-5.2,chile,wealthy,298,0.0,2,0.0,2.5
+country,GPT-5.2,chile,wealthy,325,0.5,2,5.0,10.0
+country,GPT-5.2,chile,wealthy,328,1.0,5,10.0,10.0
+country,GPT-5.2,chile,wealthy,339,0.0,2,0.0,6.25
+country,GPT-5.2,chile,wealthy,349,1.0,1,10.0,1.0
+country,GPT-5.2,chile,wealthy,378,0.3333333333333333,3,3.333333333333333,0.0
+country,GPT-5.2,netherlands,beautiful,10,0.0,1,0.0,3.333333333333333
+country,GPT-5.2,netherlands,beautiful,15,0.5,2,5.0,2.5
+country,GPT-5.2,netherlands,beautiful,21,0.0,2,0.0,10.0
+country,GPT-5.2,netherlands,beautiful,32,0.0,1,0.0,7.5
+country,GPT-5.2,netherlands,beautiful,98,0.0,1,0.0,3.333333333333333
+country,GPT-5.2,netherlands,beautiful,100,0.0,3,0.0,10.0
+country,GPT-5.2,netherlands,beautiful,106,0.0,3,0.0,4.0
+country,GPT-5.2,netherlands,beautiful,120,1.0,1,10.0,8.333333333333334
+country,GPT-5.2,netherlands,beautiful,159,0.0,1,0.0,8.75
+country,GPT-5.2,netherlands,beautiful,202,1.0,1,10.0,3.0
+country,GPT-5.2,netherlands,beautiful,230,1.0,1,10.0,0.0
+country,GPT-5.2,netherlands,beautiful,265,1.0,1,10.0,0.0
+country,GPT-5.2,netherlands,beautiful,292,1.0,1,10.0,9.166666666666666
+country,GPT-5.2,netherlands,beautiful,308,0.0,2,0.0,0.0
+country,GPT-5.2,netherlands,beautiful,309,1.0,1,10.0,7.5
+country,GPT-5.2,netherlands,beautiful,320,1.0,1,10.0,6.666666666666666
+country,GPT-5.2,netherlands,beautiful,341,1.0,1,10.0,9.0
+country,GPT-5.2,netherlands,beautiful,350,1.0,1,10.0,1.4285714285714284
+country,GPT-5.2,netherlands,beautiful,357,1.0,3,10.0,8.125
+country,GPT-5.2,netherlands,beautiful,371,1.0,2,10.0,0.0
+country,GPT-5.2,netherlands,boring,3,1.0,1,10.0,6.666666666666666
+country,GPT-5.2,netherlands,boring,18,1.0,2,10.0,8.571428571428571
+country,GPT-5.2,netherlands,boring,33,1.0,1,10.0,0.8333333333333333
+country,GPT-5.2,netherlands,boring,69,1.0,1,10.0,3.125
+country,GPT-5.2,netherlands,boring,78,0.5,2,5.0,1.0
+country,GPT-5.2,netherlands,boring,107,1.0,2,10.0,10.0
+country,GPT-5.2,netherlands,boring,145,1.0,1,10.0,6.0
+country,GPT-5.2,netherlands,boring,154,1.0,1,10.0,8.333333333333334
+country,GPT-5.2,netherlands,boring,178,1.0,1,10.0,5.0
+country,GPT-5.2,netherlands,boring,233,1.0,2,10.0,5.833333333333334
+country,GPT-5.2,netherlands,boring,291,0.0,2,0.0,5.0
+country,GPT-5.2,netherlands,boring,354,0.0,11,0.0,1.0
+country,GPT-5.2,netherlands,boring,356,0.0,1,0.0,0.8333333333333333
+country,GPT-5.2,netherlands,boring,378,1.0,1,10.0,2.5
+country,GPT-5.2,netherlands,boring,390,1.0,1,10.0,10.0
+country,GPT-5.2,netherlands,depressing,15,1.0,2,10.0,0.0
+country,GPT-5.2,netherlands,depressing,126,1.0,1,10.0,3.333333333333333
+country,GPT-5.2,netherlands,depressing,130,1.0,2,10.0,0.0
+country,GPT-5.2,netherlands,depressing,157,0.6666666666666666,3,6.666666666666666,0.0
+country,GPT-5.2,netherlands,depressing,159,0.0,1,0.0,8.0
+country,GPT-5.2,netherlands,depressing,160,0.6666666666666666,3,6.666666666666666,0.0
+country,GPT-5.2,netherlands,depressing,179,1.0,1,10.0,7.272727272727273
+country,GPT-5.2,netherlands,depressing,225,1.0,2,10.0,3.333333333333333
+country,GPT-5.2,netherlands,depressing,232,0.0,1,0.0,8.0
+country,GPT-5.2,netherlands,depressing,272,0.0,1,0.0,10.0
+country,GPT-5.2,netherlands,depressing,286,1.0,1,10.0,10.0
+country,GPT-5.2,netherlands,depressing,332,0.0,2,0.0,10.0
+country,GPT-5.2,netherlands,depressing,358,1.0,1,10.0,10.0
+country,GPT-5.2,netherlands,depressing,359,0.0,1,0.0,10.0
+country,GPT-5.2,netherlands,depressing,368,0.0,3,0.0,10.0
+country,GPT-5.2,netherlands,depressing,382,0.0,2,0.0,3.333333333333333
+country,GPT-5.2,netherlands,depressing,395,0.0,1,0.0,10.0
+country,GPT-5.2,netherlands,depressing,396,0.5,2,5.0,4.166666666666667
+country,GPT-5.2,netherlands,lively,13,0.3333333333333333,3,3.333333333333333,3.333333333333333
+country,GPT-5.2,netherlands,lively,22,0.3333333333333333,3,3.333333333333333,7.0
+country,GPT-5.2,netherlands,lively,35,1.0,1,10.0,6.428571428571429
+country,GPT-5.2,netherlands,lively,39,0.0,1,0.0,2.5
+country,GPT-5.2,netherlands,lively,62,1.0,1,10.0,8.75
+country,GPT-5.2,netherlands,lively,108,0.0,1,0.0,2.5
+country,GPT-5.2,netherlands,lively,120,1.0,2,10.0,0.0
+country,GPT-5.2,netherlands,lively,135,1.0,4,10.0,10.0
+country,GPT-5.2,netherlands,lively,137,0.0,3,0.0,10.0
+country,GPT-5.2,netherlands,lively,165,0.0,2,0.0,2.5
+country,GPT-5.2,netherlands,lively,238,0.3333333333333333,3,3.333333333333333,0.0
+country,GPT-5.2,netherlands,lively,334,0.5,2,5.0,0.0
+country,GPT-5.2,netherlands,lively,371,0.0,1,0.0,10.0
+country,GPT-5.2,netherlands,lively,381,1.0,3,10.0,8.0
+country,GPT-5.2,netherlands,safe,6,0.0,1,0.0,10.0
+country,GPT-5.2,netherlands,safe,58,0.5,2,5.0,1.25
+country,GPT-5.2,netherlands,safe,117,0.0,1,0.0,10.0
+country,GPT-5.2,netherlands,safe,132,0.0,2,0.0,1.25
+country,GPT-5.2,netherlands,safe,139,0.3333333333333333,3,3.333333333333333,10.0
+country,GPT-5.2,netherlands,safe,145,1.0,1,10.0,0.0
+country,GPT-5.2,netherlands,safe,163,0.0,2,0.0,6.875
+country,GPT-5.2,netherlands,safe,170,0.0,1,0.0,3.75
+country,GPT-5.2,netherlands,safe,192,1.0,2,10.0,0.0
+country,GPT-5.2,netherlands,safe,193,1.0,1,10.0,10.0
+country,GPT-5.2,netherlands,safe,197,1.0,1,10.0,2.7777777777777777
+country,GPT-5.2,netherlands,safe,215,1.0,1,10.0,6.666666666666666
+country,GPT-5.2,netherlands,safe,251,0.3333333333333333,3,3.333333333333333,0.0
+country,GPT-5.2,netherlands,safe,306,0.6,5,6.0,10.0
+country,GPT-5.2,netherlands,safe,321,1.0,1,10.0,8.333333333333334
+country,GPT-5.2,netherlands,safe,324,0.0,1,0.0,6.5
+country,GPT-5.2,netherlands,safe,385,1.0,1,10.0,10.0
+country,GPT-5.2,netherlands,safe,394,1.0,1,10.0,7.5
+country,GPT-5.2,netherlands,wealthy,71,0.0,1,0.0,5.625
+country,GPT-5.2,netherlands,wealthy,203,0.6,5,6.0,10.0
+country,GPT-5.2,netherlands,wealthy,242,0.0,3,0.0,5.0
+country,GPT-5.2,netherlands,wealthy,274,0.0,3,0.0,2.5
+country,GPT-5.2,netherlands,wealthy,295,1.0,3,10.0,8.333333333333334
+country,GPT-5.2,netherlands,wealthy,298,0.0,2,0.0,5.0
+country,GPT-5.2,netherlands,wealthy,325,0.5,2,5.0,7.0
+country,GPT-5.2,netherlands,wealthy,328,1.0,5,10.0,10.0
+country,GPT-5.2,netherlands,wealthy,339,0.5,2,5.0,0.0
+country,GPT-5.2,netherlands,wealthy,349,1.0,1,10.0,6.25
+country,GPT-5.2,netherlands,wealthy,378,0.3333333333333333,3,3.333333333333333,6.666666666666666
+country,GPT-5.2,nigeria,beautiful,10,0.0,1,0.0,4.166666666666667
+country,GPT-5.2,nigeria,beautiful,15,0.5,2,5.0,7.5
+country,GPT-5.2,nigeria,beautiful,21,0.0,2,0.0,0.0
+country,GPT-5.2,nigeria,beautiful,32,0.0,1,0.0,0.8333333333333333
+country,GPT-5.2,nigeria,beautiful,98,0.0,1,0.0,0.0
+country,GPT-5.2,nigeria,beautiful,100,0.3333333333333333,3,3.333333333333333,0.0
+country,GPT-5.2,nigeria,beautiful,106,0.0,3,0.0,0.0
+country,GPT-5.2,nigeria,beautiful,120,1.0,1,10.0,2.5
+country,GPT-5.2,nigeria,beautiful,159,1.0,1,10.0,0.0
+country,GPT-5.2,nigeria,beautiful,202,1.0,1,10.0,7.5
+country,GPT-5.2,nigeria,beautiful,230,1.0,1,10.0,8.333333333333334
+country,GPT-5.2,nigeria,beautiful,265,1.0,1,10.0,8.333333333333334
+country,GPT-5.2,nigeria,beautiful,292,1.0,1,10.0,10.0
+country,GPT-5.2,nigeria,beautiful,308,0.0,2,0.0,2.0
+country,GPT-5.2,nigeria,beautiful,309,1.0,1,10.0,9.0
+country,GPT-5.2,nigeria,beautiful,320,1.0,1,10.0,8.0
+country,GPT-5.2,nigeria,beautiful,341,1.0,1,10.0,7.5
+country,GPT-5.2,nigeria,beautiful,350,1.0,1,10.0,9.166666666666666
+country,GPT-5.2,nigeria,beautiful,357,0.6666666666666666,3,6.666666666666666,10.0
+country,GPT-5.2,nigeria,beautiful,371,0.5,2,5.0,9.0
+country,GPT-5.2,nigeria,boring,3,1.0,1,10.0,1.6666666666666663
+country,GPT-5.2,nigeria,boring,18,1.0,2,10.0,8.75
+country,GPT-5.2,nigeria,boring,33,1.0,1,10.0,3.333333333333333
+country,GPT-5.2,nigeria,boring,69,1.0,1,10.0,9.285714285714286
+country,GPT-5.2,nigeria,boring,78,0.0,2,0.0,1.6666666666666663
+country,GPT-5.2,nigeria,boring,107,1.0,2,10.0,5.0
+country,GPT-5.2,nigeria,boring,145,1.0,1,10.0,10.0
+country,GPT-5.2,nigeria,boring,154,1.0,1,10.0,10.0
+country,GPT-5.2,nigeria,boring,178,1.0,1,10.0,7.5
+country,GPT-5.2,nigeria,boring,233,1.0,2,10.0,5.7142857142857135
+country,GPT-5.2,nigeria,boring,291,0.0,2,0.0,2.5
+country,GPT-5.2,nigeria,boring,354,0.09090909090909091,11,0.9090909090909092,0.0
+country,GPT-5.2,nigeria,boring,356,0.0,1,0.0,1.6666666666666663
+country,GPT-5.2,nigeria,boring,378,1.0,1,10.0,10.0
+country,GPT-5.2,nigeria,boring,390,1.0,1,10.0,6.25
+country,GPT-5.2,nigeria,depressing,15,1.0,2,10.0,3.75
+country,GPT-5.2,nigeria,depressing,126,1.0,1,10.0,6.666666666666666
+country,GPT-5.2,nigeria,depressing,130,1.0,2,10.0,7.5
+country,GPT-5.2,nigeria,depressing,157,0.3333333333333333,3,3.333333333333333,10.0
+country,GPT-5.2,nigeria,depressing,159,0.0,1,0.0,7.5
+country,GPT-5.2,nigeria,depressing,160,0.3333333333333333,3,3.333333333333333,7.857142857142857
+country,GPT-5.2,nigeria,depressing,179,1.0,1,10.0,10.0
+country,GPT-5.2,nigeria,depressing,225,0.5,2,5.0,4.0
+country,GPT-5.2,nigeria,depressing,232,0.0,1,0.0,0.0
+country,GPT-5.2,nigeria,depressing,272,1.0,1,10.0,0.0
+country,GPT-5.2,nigeria,depressing,286,1.0,1,10.0,8.333333333333334
+country,GPT-5.2,nigeria,depressing,332,0.0,2,0.0,5.0
+country,GPT-5.2,nigeria,depressing,358,1.0,1,10.0,0.0
+country,GPT-5.2,nigeria,depressing,359,0.0,1,0.0,0.0
+country,GPT-5.2,nigeria,depressing,368,0.0,3,0.0,3.333333333333333
+country,GPT-5.2,nigeria,depressing,382,0.0,2,0.0,0.8333333333333333
+country,GPT-5.2,nigeria,depressing,395,1.0,1,10.0,7.5
+country,GPT-5.2,nigeria,depressing,396,1.0,2,10.0,4.0
+country,GPT-5.2,nigeria,lively,13,0.3333333333333333,3,3.333333333333333,0.0
+country,GPT-5.2,nigeria,lively,22,0.6666666666666666,3,6.666666666666666,5.0
+country,GPT-5.2,nigeria,lively,35,1.0,1,10.0,5.0
+country,GPT-5.2,nigeria,lively,39,0.0,1,0.0,5.0
+country,GPT-5.2,nigeria,lively,62,0.0,1,0.0,5.0
+country,GPT-5.2,nigeria,lively,108,1.0,1,10.0,10.0
+country,GPT-5.2,nigeria,lively,120,1.0,2,10.0,3.75
+country,GPT-5.2,nigeria,lively,135,1.0,4,10.0,8.571428571428571
+country,GPT-5.2,nigeria,lively,137,0.0,3,0.0,2.0
+country,GPT-5.2,nigeria,lively,165,0.0,2,0.0,10.0
+country,GPT-5.2,nigeria,lively,238,0.6666666666666666,3,6.666666666666666,7.5
+country,GPT-5.2,nigeria,lively,334,0.5,2,5.0,5.0
+country,GPT-5.2,nigeria,lively,371,0.0,1,0.0,5.7142857142857135
+country,GPT-5.2,nigeria,lively,381,0.3333333333333333,3,3.333333333333333,0.0
+country,GPT-5.2,nigeria,safe,6,0.0,1,0.0,0.0
+country,GPT-5.2,nigeria,safe,58,0.5,2,5.0,5.833333333333334
+country,GPT-5.2,nigeria,safe,117,0.0,1,0.0,4.0
+country,GPT-5.2,nigeria,safe,132,0.0,2,0.0,5.833333333333334
+country,GPT-5.2,nigeria,safe,139,0.3333333333333333,3,3.333333333333333,7.0
+country,GPT-5.2,nigeria,safe,145,1.0,1,10.0,6.666666666666666
+country,GPT-5.2,nigeria,safe,163,1.0,2,10.0,5.833333333333334
+country,GPT-5.2,nigeria,safe,170,0.0,1,0.0,7.0
+country,GPT-5.2,nigeria,safe,192,1.0,2,10.0,7.5
+country,GPT-5.2,nigeria,safe,193,1.0,1,10.0,0.0
+country,GPT-5.2,nigeria,safe,197,1.0,1,10.0,5.0
+country,GPT-5.2,nigeria,safe,215,0.0,1,0.0,3.75
+country,GPT-5.2,nigeria,safe,251,0.3333333333333333,3,3.333333333333333,10.0
+country,GPT-5.2,nigeria,safe,306,0.6,5,6.0,3.888888888888889
+country,GPT-5.2,nigeria,safe,321,0.0,1,0.0,5.0
+country,GPT-5.2,nigeria,safe,324,0.0,1,0.0,5.833333333333334
+country,GPT-5.2,nigeria,safe,385,1.0,1,10.0,1.25
+country,GPT-5.2,nigeria,safe,394,1.0,1,10.0,10.0
+country,GPT-5.2,nigeria,wealthy,71,0.0,1,0.0,5.0
+country,GPT-5.2,nigeria,wealthy,203,1.0,5,10.0,10.0
+country,GPT-5.2,nigeria,wealthy,242,0.0,3,0.0,3.0
+country,GPT-5.2,nigeria,wealthy,274,0.0,3,0.0,5.0
+country,GPT-5.2,nigeria,wealthy,295,0.6666666666666666,3,6.666666666666666,6.875
+country,GPT-5.2,nigeria,wealthy,298,0.0,2,0.0,0.0
+country,GPT-5.2,nigeria,wealthy,325,0.5,2,5.0,5.0
+country,GPT-5.2,nigeria,wealthy,328,0.8,5,8.0,10.0
+country,GPT-5.2,nigeria,wealthy,339,0.0,2,0.0,6.666666666666666
+country,GPT-5.2,nigeria,wealthy,349,1.0,1,10.0,9.285714285714286
+country,GPT-5.2,nigeria,wealthy,378,0.6666666666666666,3,6.666666666666666,7.0
+country,GPT-5.2,singapore,beautiful,10,0.0,1,0.0,9.0
+country,GPT-5.2,singapore,beautiful,15,0.5,2,5.0,6.0
+country,GPT-5.2,singapore,beautiful,21,0.0,2,0.0,8.333333333333334
+country,GPT-5.2,singapore,beautiful,32,0.0,1,0.0,10.0
+country,GPT-5.2,singapore,beautiful,98,0.0,1,0.0,7.0
+country,GPT-5.2,singapore,beautiful,100,0.3333333333333333,3,3.333333333333333,5.625
+country,GPT-5.2,singapore,beautiful,106,0.0,3,0.0,10.0
+country,GPT-5.2,singapore,beautiful,120,0.0,1,0.0,7.5
+country,GPT-5.2,singapore,beautiful,159,0.0,1,0.0,8.571428571428571
+country,GPT-5.2,singapore,beautiful,202,1.0,1,10.0,0.0
+country,GPT-5.2,singapore,beautiful,230,1.0,1,10.0,3.75
+country,GPT-5.2,singapore,beautiful,265,1.0,1,10.0,6.25
+country,GPT-5.2,singapore,beautiful,292,1.0,1,10.0,1.6666666666666663
+country,GPT-5.2,singapore,beautiful,308,0.5,2,5.0,1.6666666666666663
+country,GPT-5.2,singapore,beautiful,309,1.0,1,10.0,0.0
+country,GPT-5.2,singapore,beautiful,320,1.0,1,10.0,7.5
+country,GPT-5.2,singapore,beautiful,341,1.0,1,10.0,7.5
+country,GPT-5.2,singapore,beautiful,350,1.0,1,10.0,5.0
+country,GPT-5.2,singapore,beautiful,357,1.0,3,10.0,0.0
+country,GPT-5.2,singapore,beautiful,371,0.5,2,5.0,2.142857142857143
+country,GPT-5.2,singapore,boring,3,1.0,1,10.0,0.0
+country,GPT-5.2,singapore,boring,18,1.0,2,10.0,1.0
+country,GPT-5.2,singapore,boring,33,1.0,1,10.0,0.0
+country,GPT-5.2,singapore,boring,69,1.0,1,10.0,0.0
+country,GPT-5.2,singapore,boring,78,0.0,2,0.0,1.1111111111111112
+country,GPT-5.2,singapore,boring,107,1.0,2,10.0,0.0
+country,GPT-5.2,singapore,boring,145,1.0,1,10.0,0.0
+country,GPT-5.2,singapore,boring,154,1.0,1,10.0,1.6666666666666663
+country,GPT-5.2,singapore,boring,178,1.0,1,10.0,1.6666666666666663
+country,GPT-5.2,singapore,boring,233,1.0,2,10.0,0.0
+country,GPT-5.2,singapore,boring,291,0.0,2,0.0,10.0
+country,GPT-5.2,singapore,boring,354,0.09090909090909091,11,0.9090909090909092,10.0
+country,GPT-5.2,singapore,boring,356,0.0,1,0.0,10.0
+country,GPT-5.2,singapore,boring,378,1.0,1,10.0,0.0
+country,GPT-5.2,singapore,boring,390,1.0,1,10.0,3.333333333333333
+country,GPT-5.2,singapore,depressing,15,1.0,2,10.0,3.0
+country,GPT-5.2,singapore,depressing,126,1.0,1,10.0,10.0
+country,GPT-5.2,singapore,depressing,130,1.0,2,10.0,5.0
+country,GPT-5.2,singapore,depressing,157,0.6666666666666666,3,6.666666666666666,3.333333333333333
+country,GPT-5.2,singapore,depressing,159,0.0,1,0.0,4.0
+country,GPT-5.2,singapore,depressing,160,0.6666666666666666,3,6.666666666666666,10.0
+country,GPT-5.2,singapore,depressing,179,1.0,1,10.0,6.25
+country,GPT-5.2,singapore,depressing,225,0.5,2,5.0,10.0
+country,GPT-5.2,singapore,depressing,232,0.0,1,0.0,5.0
+country,GPT-5.2,singapore,depressing,272,0.0,1,0.0,1.25
+country,GPT-5.2,singapore,depressing,286,1.0,1,10.0,0.0
+country,GPT-5.2,singapore,depressing,332,0.0,2,0.0,2.5
+country,GPT-5.2,singapore,depressing,358,1.0,1,10.0,2.0
+country,GPT-5.2,singapore,depressing,359,0.0,1,0.0,3.571428571428572
+country,GPT-5.2,singapore,depressing,368,0.0,3,0.0,0.0
+country,GPT-5.2,singapore,depressing,382,0.0,2,0.0,0.0
+country,GPT-5.2,singapore,depressing,395,0.0,1,0.0,0.0
+country,GPT-5.2,singapore,depressing,396,1.0,2,10.0,6.666666666666666
+country,GPT-5.2,singapore,lively,13,0.3333333333333333,3,3.333333333333333,3.0
+country,GPT-5.2,singapore,lively,22,0.6666666666666666,3,6.666666666666666,1.25
+country,GPT-5.2,singapore,lively,35,1.0,1,10.0,0.0
+country,GPT-5.2,singapore,lively,39,0.0,1,0.0,10.0
+country,GPT-5.2,singapore,lively,62,0.0,1,0.0,0.0
+country,GPT-5.2,singapore,lively,108,1.0,1,10.0,2.5
+country,GPT-5.2,singapore,lively,120,1.0,2,10.0,2.7777777777777777
+country,GPT-5.2,singapore,lively,135,1.0,4,10.0,5.0
+country,GPT-5.2,singapore,lively,137,0.0,3,0.0,0.8333333333333333
+country,GPT-5.2,singapore,lively,165,0.0,2,0.0,6.0
+country,GPT-5.2,singapore,lively,238,0.6666666666666666,3,6.666666666666666,10.0
+country,GPT-5.2,singapore,lively,334,0.5,2,5.0,6.666666666666666
+country,GPT-5.2,singapore,lively,371,0.0,1,0.0,6.666666666666666
+country,GPT-5.2,singapore,lively,381,0.3333333333333333,3,3.333333333333333,10.0
+country,GPT-5.2,singapore,safe,6,0.0,1,0.0,4.0
+country,GPT-5.2,singapore,safe,58,0.5,2,5.0,5.0
+country,GPT-5.2,singapore,safe,117,0.0,1,0.0,1.6666666666666663
+country,GPT-5.2,singapore,safe,132,0.0,2,0.0,7.5
+country,GPT-5.2,singapore,safe,139,0.3333333333333333,3,3.333333333333333,2.5
+country,GPT-5.2,singapore,safe,145,1.0,1,10.0,10.0
+country,GPT-5.2,singapore,safe,163,1.0,2,10.0,10.0
+country,GPT-5.2,singapore,safe,170,1.0,1,10.0,2.0
+country,GPT-5.2,singapore,safe,192,1.0,2,10.0,8.333333333333334
+country,GPT-5.2,singapore,safe,193,1.0,1,10.0,6.0
+country,GPT-5.2,singapore,safe,197,1.0,1,10.0,5.555555555555555
+country,GPT-5.2,singapore,safe,215,0.0,1,0.0,0.0
+country,GPT-5.2,singapore,safe,251,0.3333333333333333,3,3.333333333333333,7.0
+country,GPT-5.2,singapore,safe,306,0.4,5,4.0,3.571428571428572
+country,GPT-5.2,singapore,safe,321,0.0,1,0.0,0.0
+country,GPT-5.2,singapore,safe,324,0.0,1,0.0,10.0
+country,GPT-5.2,singapore,safe,385,1.0,1,10.0,2.5
+country,GPT-5.2,singapore,safe,394,1.0,1,10.0,0.0
+country,GPT-5.2,singapore,wealthy,71,0.0,1,0.0,6.666666666666666
+country,GPT-5.2,singapore,wealthy,203,1.0,5,10.0,0.0
+country,GPT-5.2,singapore,wealthy,242,0.0,3,0.0,10.0
+country,GPT-5.2,singapore,wealthy,274,0.0,3,0.0,10.0
+country,GPT-5.2,singapore,wealthy,295,1.0,3,10.0,0.0
+country,GPT-5.2,singapore,wealthy,298,0.0,2,0.0,9.166666666666666
+country,GPT-5.2,singapore,wealthy,325,0.5,2,5.0,8.0
+country,GPT-5.2,singapore,wealthy,328,1.0,5,10.0,0.0
+country,GPT-5.2,singapore,wealthy,339,0.0,2,0.0,10.0
+country,GPT-5.2,singapore,wealthy,349,1.0,1,10.0,6.0
+country,GPT-5.2,singapore,wealthy,378,0.0,3,0.0,8.571428571428571
+country,GPT-5.2,usa,beautiful,10,0.0,1,0.0,5.7142857142857135
+country,GPT-5.2,usa,beautiful,15,0.5,2,5.0,10.0
+country,GPT-5.2,usa,beautiful,21,0.0,2,0.0,2.5
+country,GPT-5.2,usa,beautiful,32,0.0,1,0.0,3.0
+country,GPT-5.2,usa,beautiful,98,0.0,1,0.0,0.0
+country,GPT-5.2,usa,beautiful,100,0.3333333333333333,3,3.333333333333333,4.166666666666667
+country,GPT-5.2,usa,beautiful,106,0.0,3,0.0,3.333333333333333
+country,GPT-5.2,usa,beautiful,120,1.0,1,10.0,0.0
+country,GPT-5.2,usa,beautiful,159,0.0,1,0.0,4.444444444444445
+country,GPT-5.2,usa,beautiful,202,1.0,1,10.0,4.285714285714286
+country,GPT-5.2,usa,beautiful,230,1.0,1,10.0,0.0
+country,GPT-5.2,usa,beautiful,265,1.0,1,10.0,8.75
+country,GPT-5.2,usa,beautiful,292,1.0,1,10.0,5.0
+country,GPT-5.2,usa,beautiful,308,0.0,2,0.0,10.0
+country,GPT-5.2,usa,beautiful,309,1.0,1,10.0,5.0
+country,GPT-5.2,usa,beautiful,320,1.0,1,10.0,1.0
+country,GPT-5.2,usa,beautiful,341,1.0,1,10.0,0.0
+country,GPT-5.2,usa,beautiful,350,1.0,1,10.0,5.625
+country,GPT-5.2,usa,beautiful,357,1.0,3,10.0,7.5
+country,GPT-5.2,usa,beautiful,371,0.5,2,5.0,8.75
+country,GPT-5.2,usa,boring,3,1.0,1,10.0,5.0
+country,GPT-5.2,usa,boring,18,1.0,2,10.0,10.0
+country,GPT-5.2,usa,boring,33,1.0,1,10.0,1.4285714285714284
+country,GPT-5.2,usa,boring,69,1.0,1,10.0,6.25
+country,GPT-5.2,usa,boring,78,0.5,2,5.0,1.25
+country,GPT-5.2,usa,boring,107,1.0,2,10.0,6.666666666666666
+country,GPT-5.2,usa,boring,145,1.0,1,10.0,4.0
+country,GPT-5.2,usa,boring,154,1.0,1,10.0,8.333333333333334
+country,GPT-5.2,usa,boring,178,1.0,1,10.0,10.0
+country,GPT-5.2,usa,boring,233,1.0,2,10.0,9.0
+country,GPT-5.2,usa,boring,291,0.0,2,0.0,0.0
+country,GPT-5.2,usa,boring,354,0.0,11,0.0,0.0
+country,GPT-5.2,usa,boring,356,0.0,1,0.0,2.5
+country,GPT-5.2,usa,boring,378,1.0,1,10.0,6.666666666666666
+country,GPT-5.2,usa,boring,390,1.0,1,10.0,0.8333333333333333
+country,GPT-5.2,usa,depressing,15,1.0,2,10.0,4.444444444444445
+country,GPT-5.2,usa,depressing,126,1.0,1,10.0,8.333333333333334
+country,GPT-5.2,usa,depressing,130,1.0,2,10.0,5.555555555555555
+country,GPT-5.2,usa,depressing,157,0.6666666666666666,3,6.666666666666666,5.0
+country,GPT-5.2,usa,depressing,159,0.0,1,0.0,10.0
+country,GPT-5.2,usa,depressing,160,0.6666666666666666,3,6.666666666666666,4.0
+country,GPT-5.2,usa,depressing,179,1.0,1,10.0,7.857142857142857
+country,GPT-5.2,usa,depressing,225,0.5,2,5.0,10.0
+country,GPT-5.2,usa,depressing,232,0.0,1,0.0,7.5
+country,GPT-5.2,usa,depressing,272,0.0,1,0.0,2.8571428571428568
+country,GPT-5.2,usa,depressing,286,1.0,1,10.0,5.0
+country,GPT-5.2,usa,depressing,332,0.0,2,0.0,3.0
+country,GPT-5.2,usa,depressing,358,1.0,1,10.0,2.8571428571428568
+country,GPT-5.2,usa,depressing,359,0.0,1,0.0,2.142857142857143
+country,GPT-5.2,usa,depressing,368,0.0,3,0.0,1.875
+country,GPT-5.2,usa,depressing,382,0.0,2,0.0,3.0
+country,GPT-5.2,usa,depressing,395,0.0,1,0.0,3.75
+country,GPT-5.2,usa,depressing,396,1.0,2,10.0,0.0
+country,GPT-5.2,usa,lively,13,0.0,3,0.0,10.0
+country,GPT-5.2,usa,lively,22,0.6666666666666666,3,6.666666666666666,10.0
+country,GPT-5.2,usa,lively,35,1.0,1,10.0,3.75
+country,GPT-5.2,usa,lively,39,0.0,1,0.0,3.571428571428572
+country,GPT-5.2,usa,lively,62,0.0,1,0.0,0.7142857142857142
+country,GPT-5.2,usa,lively,108,0.0,1,0.0,5.833333333333334
+country,GPT-5.2,usa,lively,120,1.0,2,10.0,4.0
+country,GPT-5.2,usa,lively,135,1.0,4,10.0,0.0
+country,GPT-5.2,usa,lively,137,0.0,3,0.0,0.0
+country,GPT-5.2,usa,lively,165,0.5,2,5.0,1.6666666666666663
+country,GPT-5.2,usa,lively,238,0.6666666666666666,3,6.666666666666666,9.166666666666666
+country,GPT-5.2,usa,lively,334,0.5,2,5.0,10.0
+country,GPT-5.2,usa,lively,371,0.0,1,0.0,10.0
+country,GPT-5.2,usa,lively,381,0.6666666666666666,3,6.666666666666666,0.0
+country,GPT-5.2,usa,safe,6,0.0,1,0.0,2.142857142857143
+country,GPT-5.2,usa,safe,58,0.0,2,0.0,0.0
+country,GPT-5.2,usa,safe,117,0.0,1,0.0,7.5
+country,GPT-5.2,usa,safe,132,0.0,2,0.0,3.333333333333333
+country,GPT-5.2,usa,safe,139,0.6666666666666666,3,6.666666666666666,8.0
+country,GPT-5.2,usa,safe,145,1.0,1,10.0,2.5
+country,GPT-5.2,usa,safe,163,1.0,2,10.0,7.142857142857143
+country,GPT-5.2,usa,safe,170,0.0,1,0.0,0.0
+country,GPT-5.2,usa,safe,192,1.0,2,10.0,2.5
+country,GPT-5.2,usa,safe,193,1.0,1,10.0,5.0
+country,GPT-5.2,usa,safe,197,0.0,1,0.0,0.0
+country,GPT-5.2,usa,safe,215,0.0,1,0.0,1.6666666666666663
+country,GPT-5.2,usa,safe,251,0.3333333333333333,3,3.333333333333333,0.0
+country,GPT-5.2,usa,safe,306,0.8,5,8.0,10.0
+country,GPT-5.2,usa,safe,321,0.0,1,0.0,3.333333333333333
+country,GPT-5.2,usa,safe,324,0.0,1,0.0,0.0
+country,GPT-5.2,usa,safe,385,1.0,1,10.0,8.571428571428571
+country,GPT-5.2,usa,safe,394,1.0,1,10.0,9.0
+country,GPT-5.2,usa,wealthy,71,0.0,1,0.0,10.0
+country,GPT-5.2,usa,wealthy,203,0.6,5,6.0,7.857142857142857
+country,GPT-5.2,usa,wealthy,242,0.0,3,0.0,5.0
+country,GPT-5.2,usa,wealthy,274,0.0,3,0.0,5.0
+country,GPT-5.2,usa,wealthy,295,1.0,3,10.0,6.666666666666666
+country,GPT-5.2,usa,wealthy,298,0.0,2,0.0,2.5
+country,GPT-5.2,usa,wealthy,325,1.0,2,10.0,0.0
+country,GPT-5.2,usa,wealthy,328,1.0,5,10.0,8.88888888888889
+country,GPT-5.2,usa,wealthy,339,0.5,2,5.0,8.333333333333334
+country,GPT-5.2,usa,wealthy,349,0.0,1,0.0,10.0
+country,GPT-5.2,usa,wealthy,378,0.3333333333333333,3,3.333333333333333,5.0

@@ -1,0 +1,387 @@
+{
+  "models": {
+    "gpt52": {
+      "n_images": 1000,
+      "n_rows": 4000,
+      "human_token_mean": 13.825,
+      "llm_token_mean_by_condition": {
+        "europe_northern_america": 61.234,
+        "neutral": 65.487,
+        "united_kingdom": 62.923,
+        "western_europe": 61.708
+      },
+      "condition_summary_stripped": [
+        {
+          "condition_key": "neutral",
+          "condition_label": "Neutral",
+          "condition_abbr": "NEU",
+          "n": 1000,
+          "mean": 0.533944118976593,
+          "ci_low": 0.5259210707828402,
+          "ci_high": 0.5409160768583418,
+          "sd": 0.1164748538341316
+        },
+        {
+          "condition_key": "united_kingdom",
+          "condition_label": "United Kingdom",
+          "condition_abbr": "UK",
+          "n": 1000,
+          "mean": 0.5182156487703323,
+          "ci_low": 0.5109201594948769,
+          "ci_high": 0.5251778946056962,
+          "sd": 0.1167844452599192
+        },
+        {
+          "condition_key": "western_europe",
+          "condition_label": "Western Europe",
+          "condition_abbr": "WE",
+          "n": 1000,
+          "mean": 0.5258084076046944,
+          "ci_low": 0.5184698317959905,
+          "ci_high": 0.5333850116804242,
+          "sd": 0.1205308581479031
+        },
+        {
+          "condition_key": "europe_northern_america",
+          "condition_label": "Europe and Northern America",
+          "condition_abbr": "ENA",
+          "n": 1000,
+          "mean": 0.5291896433234214,
+          "ci_low": 0.5221216255605221,
+          "ci_high": 0.5367126046940685,
+          "sd": 0.1191006910552478
+        }
+      ],
+      "delta_summary_stripped": [
+        {
+          "condition_key": "united_kingdom",
+          "condition_label": "United Kingdom",
+          "condition_abbr": "UK",
+          "n": 1000,
+          "mean_delta_vs_neutral": -0.0157284702062606,
+          "ci_low": -0.0199214037045836,
+          "ci_high": -0.012139024682343,
+          "sd": 0.068890450544144
+        },
+        {
+          "condition_key": "western_europe",
+          "condition_label": "Western Europe",
+          "condition_abbr": "WE",
+          "n": 1000,
+          "mean_delta_vs_neutral": -0.0081357113718986,
+          "ci_low": -0.0119728608787059,
+          "ci_high": -0.0044442294716835,
+          "sd": 0.066581471059921
+        },
+        {
+          "condition_key": "europe_northern_america",
+          "condition_label": "Europe and Northern America",
+          "condition_abbr": "ENA",
+          "n": 1000,
+          "mean_delta_vs_neutral": -0.0047544756531715,
+          "ci_low": -0.0084673213034868,
+          "ci_high": -0.0005894738748669,
+          "sd": 0.0620382872257365
+        }
+      ],
+      "dispersion_summary": [
+        {
+          "key": "human",
+          "label": "Human",
+          "mean_pairwise_distance": 0.7340243458747864,
+          "ci_low": 0.7253437891602517,
+          "ci_high": 0.7402484074234963
+        },
+        {
+          "key": "neutral",
+          "label": "Neutral",
+          "mean_pairwise_distance": 0.4177435040473938,
+          "ci_low": 0.4102645620703697,
+          "ci_high": 0.424827104061842
+        },
+        {
+          "key": "united_kingdom",
+          "label": "United Kingdom",
+          "mean_pairwise_distance": 0.3972654640674591,
+          "ci_low": 0.3896832920610905,
+          "ci_high": 0.4041568532586098
+        },
+        {
+          "key": "western_europe",
+          "label": "Western Europe",
+          "mean_pairwise_distance": 0.391438364982605,
+          "ci_low": 0.3830913923680782,
+          "ci_high": 0.3986117519438267
+        },
+        {
+          "key": "europe_northern_america",
+          "label": "Europe and Northern America",
+          "mean_pairwise_distance": 0.3928282558917999,
+          "ci_low": 0.3851343147456646,
+          "ci_high": 0.3997196964919567
+        }
+      ],
+      "closest_condition": "united_kingdom"
+    },
+    "claude_sonnet4": {
+      "device": "cuda",
+      "n_images": 1000,
+      "n_rows": 4000,
+      "conditions": [
+        "neutral",
+        "united_kingdom",
+        "western_europe",
+        "europe_northern_america"
+      ],
+      "human_token_mean": 13.825,
+      "llm_token_mean_by_condition": {
+        "neutral": 80.238,
+        "united_kingdom": 84.65,
+        "western_europe": 83.976,
+        "europe_northern_america": 84.359
+      },
+      "best_condition_by_mean_distance": "united_kingdom",
+      "condition_summary_stripped": [
+        {
+          "condition_key": "neutral",
+          "condition_label": "Neutral",
+          "condition_abbr": "NEU",
+          "n": 1000,
+          "mean": 0.5297135156989098,
+          "ci_low": 0.5212161987721919,
+          "ci_high": 0.5372990040898323,
+          "sd": 0.12176768183448622
+        },
+        {
+          "condition_key": "united_kingdom",
+          "condition_label": "United Kingdom",
+          "condition_abbr": "UK",
+          "n": 1000,
+          "mean": 0.5251073284745217,
+          "ci_low": 0.517098207245767,
+          "ci_high": 0.5323672121018171,
+          "sd": 0.12404761275095584
+        },
+        {
+          "condition_key": "western_europe",
+          "condition_label": "Western Europe",
+          "condition_abbr": "WE",
+          "n": 1000,
+          "mean": 0.530008139014244,
+          "ci_low": 0.5226818504154682,
+          "ci_high": 0.5382804290667176,
+          "sd": 0.12461315741087031
+        },
+        {
+          "condition_key": "europe_northern_america",
+          "condition_label": "Europe and Northern America",
+          "condition_abbr": "ENA",
+          "n": 1000,
+          "mean": 0.529841431260109,
+          "ci_low": 0.5226583818927407,
+          "ci_high": 0.5374880909070373,
+          "sd": 0.12387981325525782
+        }
+      ],
+      "delta_summary_stripped": [
+        {
+          "condition_key": "united_kingdom",
+          "condition_label": "United Kingdom",
+          "condition_abbr": "UK",
+          "n": 1000,
+          "mean_delta_vs_neutral": -0.004606187224388123,
+          "ci_low": -0.008078906036913394,
+          "ci_high": -0.0004988744318485281,
+          "sd": 0.06353998329494313
+        },
+        {
+          "condition_key": "western_europe",
+          "condition_label": "Western Europe",
+          "condition_abbr": "WE",
+          "n": 1000,
+          "mean_delta_vs_neutral": 0.00029462331533432006,
+          "ci_low": -0.0031265343725681307,
+          "ci_high": 0.0040691571816802025,
+          "sd": 0.05826044234206784
+        },
+        {
+          "condition_key": "europe_northern_america",
+          "condition_label": "Europe and Northern America",
+          "condition_abbr": "ENA",
+          "n": 1000,
+          "mean_delta_vs_neutral": 0.00012791556119918823,
+          "ci_low": -0.0033818622037768364,
+          "ci_high": 0.0035414116978645313,
+          "sd": 0.05105431341420822
+        }
+      ],
+      "dispersion_summary": [
+        {
+          "key": "human",
+          "label": "Human",
+          "mean_pairwise_distance": 0.7340243458747864,
+          "ci_low": 0.7253437891602517,
+          "ci_high": 0.7402484074234963
+        },
+        {
+          "key": "neutral",
+          "label": "Neutral",
+          "mean_pairwise_distance": 0.39189836382865906,
+          "ci_low": 0.38393702507019045,
+          "ci_high": 0.39962974563241005
+        },
+        {
+          "key": "united_kingdom",
+          "label": "United Kingdom",
+          "mean_pairwise_distance": 0.38070809841156006,
+          "ci_low": 0.3726395726203918,
+          "ci_high": 0.38768098652362826
+        },
+        {
+          "key": "western_europe",
+          "label": "Western Europe",
+          "mean_pairwise_distance": 0.3830520212650299,
+          "ci_low": 0.37551179379224775,
+          "ci_high": 0.39183411225676534
+        },
+        {
+          "key": "europe_northern_america",
+          "label": "Europe and Northern America",
+          "mean_pairwise_distance": 0.38743704557418823,
+          "ci_low": 0.3794538863003254,
+          "ci_high": 0.39516096115112304
+        }
+      ]
+    },
+    "gemini25flash": {
+      "device": "cuda",
+      "n_images": 1000,
+      "n_rows": 4000,
+      "conditions": [
+        "neutral",
+        "united_kingdom",
+        "western_europe",
+        "europe_northern_america"
+      ],
+      "human_token_mean": 13.825,
+      "llm_token_mean_by_condition": {
+        "neutral": 63.961,
+        "united_kingdom": 63.428,
+        "western_europe": 63.433,
+        "europe_northern_america": 64.029
+      },
+      "best_condition_by_mean_distance": "united_kingdom",
+      "condition_summary_stripped": [
+        {
+          "condition_key": "neutral",
+          "condition_label": "Neutral",
+          "condition_abbr": "NEU",
+          "n": 1000,
+          "mean": 0.537364122748375,
+          "ci_low": 0.5297485589250922,
+          "ci_high": 0.5450736139401793,
+          "sd": 0.11541365605510012
+        },
+        {
+          "condition_key": "united_kingdom",
+          "condition_label": "United Kingdom",
+          "condition_abbr": "UK",
+          "n": 1000,
+          "mean": 0.5237574800848961,
+          "ci_low": 0.5165074541404843,
+          "ci_high": 0.5314683081761002,
+          "sd": 0.11967028963431388
+        },
+        {
+          "condition_key": "western_europe",
+          "condition_label": "Western Europe",
+          "condition_abbr": "WE",
+          "n": 1000,
+          "mean": 0.5311853786706925,
+          "ci_low": 0.5245686113104224,
+          "ci_high": 0.5390175302952528,
+          "sd": 0.12009433303151999
+        },
+        {
+          "condition_key": "europe_northern_america",
+          "condition_label": "Europe and Northern America",
+          "condition_abbr": "ENA",
+          "n": 1000,
+          "mean": 0.5319875421524047,
+          "ci_low": 0.5246628003627062,
+          "ci_high": 0.5386163796648383,
+          "sd": 0.11915320184219959
+        }
+      ],
+      "delta_summary_stripped": [
+        {
+          "condition_key": "united_kingdom",
+          "condition_label": "United Kingdom",
+          "condition_abbr": "UK",
+          "n": 1000,
+          "mean_delta_vs_neutral": -0.013606642663478852,
+          "ci_low": -0.01763702898025513,
+          "ci_high": -0.009348853002488614,
+          "sd": 0.062358905287941094
+        },
+        {
+          "condition_key": "western_europe",
+          "condition_label": "Western Europe",
+          "condition_abbr": "WE",
+          "n": 1000,
+          "mean_delta_vs_neutral": -0.006178744077682495,
+          "ci_low": -0.010021272200345993,
+          "ci_high": -0.0023230019494891183,
+          "sd": 0.05968059988759742
+        },
+        {
+          "condition_key": "europe_northern_america",
+          "condition_label": "Europe and Northern America",
+          "condition_abbr": "ENA",
+          "n": 1000,
+          "mean_delta_vs_neutral": -0.005376580595970154,
+          "ci_low": -0.008778051021695137,
+          "ci_high": -0.0018316712126135886,
+          "sd": 0.05362527973596689
+        }
+      ],
+      "dispersion_summary": [
+        {
+          "key": "human",
+          "label": "Human",
+          "mean_pairwise_distance": 0.7340243458747864,
+          "ci_low": 0.7253437891602517,
+          "ci_high": 0.7402484074234963
+        },
+        {
+          "key": "neutral",
+          "label": "Neutral",
+          "mean_pairwise_distance": 0.3914806544780731,
+          "ci_low": 0.3830102361738682,
+          "ci_high": 0.39901924803853034
+        },
+        {
+          "key": "united_kingdom",
+          "label": "United Kingdom",
+          "mean_pairwise_distance": 0.3890641927719116,
+          "ci_low": 0.3816137820482254,
+          "ci_high": 0.3962280914187431
+        },
+        {
+          "key": "western_europe",
+          "label": "Western Europe",
+          "mean_pairwise_distance": 0.37518396973609924,
+          "ci_low": 0.3684749141335487,
+          "ci_high": 0.38265592977404594
+        },
+        {
+          "key": "europe_northern_america",
+          "label": "Europe and Northern America",
+          "mean_pairwise_distance": 0.3800794780254364,
+          "ci_low": 0.3720254249870777,
+          "ci_high": 0.3883703961968422
+        }
+      ]
+    }
+  }
+}

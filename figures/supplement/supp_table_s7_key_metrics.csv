@@ -1,0 +1,7 @@
+﻿section,metric,value
+macro5_identity,Model-mean nearest-to-neutral macro group,Europe and Northern America (0.136)
+macro5_identity,Model-mean strongest positive macro IPI,Asia (0.231)
+micro20_identity,Model-mean top three nearest-to-neutral micro regions,Central America (4.33); Northern America (5.33); Western Asia (5.67)
+micro20_identity,Model-mean strongest positive and negative micro IPI,Central Asia (0.355); Eastern Europe (-0.505)
+meso7_prompt_form,Spearman correlation between original and weak prompt,Neutral distance 0.821; IPI 0.214
+meso7_model_extension,Spearman correlation to GPT-5.2 by model family,"Qwen2.5-VL-72B: semantic 0.179, IPI 0.357; Llama 3.2 11B Vision: semantic 0.036, IPI 0.607; Gemma 3 27B: semantic 0.464, IPI 0.536"

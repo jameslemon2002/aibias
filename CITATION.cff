@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "AIBias Open Release"
+message: "If you use this repository, please cite the associated manuscript."
+type: software
+authors:
+  - family-names: Zhao
+    given-names: Rong
+  - family-names: Liu
+    given-names: Wanqi
+  - family-names: Sha
+    given-names: Zhizhou
+  - family-names: Su
+    given-names: Nanxi
+  - family-names: Zhang
+    given-names: Yecheng

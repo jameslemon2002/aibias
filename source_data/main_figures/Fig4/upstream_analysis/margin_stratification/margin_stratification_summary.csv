@@ -1,0 +1,28 @@
+axis,model,margin_bin,n_pairs,llm_divergence_rate,strict_replication_rate
+gender,GPT-5.2,Low,30,0.0,0.0
+gender,GPT-5.2,Mid,30,0.1666666666666666,0.0666666666666666
+gender,GPT-5.2,High,30,0.1666666666666666,0.0666666666666666
+gender,Claude Sonnet 4,Low,25,0.04,0.0
+gender,Claude Sonnet 4,Mid,24,0.0,0.0
+gender,Claude Sonnet 4,High,24,0.0416666666666666,0.0
+gender,Gemini 2.5 Flash,Low,27,0.1111111111111111,0.074074074074074
+gender,Gemini 2.5 Flash,Mid,27,0.0,0.0
+gender,Gemini 2.5 Flash,High,27,0.1481481481481481,0.1481481481481481
+age,GPT-5.2,Low,30,0.0333333333333333,0.0333333333333333
+age,GPT-5.2,Mid,30,0.0666666666666666,0.0
+age,GPT-5.2,High,30,0.1333333333333333,0.0666666666666666
+age,Claude Sonnet 4,Low,30,0.0,0.0
+age,Claude Sonnet 4,Mid,30,0.0333333333333333,0.0
+age,Claude Sonnet 4,High,30,0.0333333333333333,0.0
+age,Gemini 2.5 Flash,Low,27,0.1111111111111111,0.1111111111111111
+age,Gemini 2.5 Flash,Mid,27,0.0,0.0
+age,Gemini 2.5 Flash,High,27,0.1111111111111111,0.037037037037037
+country,GPT-5.2,Low,30,0.4,0.03333333333333333
+country,GPT-5.2,Mid,30,0.06666666666666667,0.0
+country,GPT-5.2,High,30,0.3,0.0
+country,Claude Sonnet 4,Low,29,0.27586206896551724,0.0
+country,Claude Sonnet 4,Mid,29,0.13793103448275862,0.0
+country,Claude Sonnet 4,High,29,0.27586206896551724,0.0
+country,Gemini 2.5 Flash,Low,30,0.36666666666666664,0.0
+country,Gemini 2.5 Flash,Mid,30,0.36666666666666664,0.0
+country,Gemini 2.5 Flash,High,30,0.4666666666666667,0.0

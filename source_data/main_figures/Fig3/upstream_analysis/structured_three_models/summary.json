@@ -1,0 +1,17 @@
+{
+  "n_rows_scores": 71416,
+  "n_parse_failures": 584,
+  "models": [
+    "GPT-5.2",
+    "Claude Sonnet 4",
+    "Gemini 2.5 Flash"
+  ],
+  "dimensions": [
+    "safe",
+    "lively",
+    "wealthy",
+    "beautiful",
+    "boring",
+    "depressing"
+  ]
+}

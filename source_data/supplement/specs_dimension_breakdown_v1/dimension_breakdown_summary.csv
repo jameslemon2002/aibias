@@ -1,0 +1,55 @@
+axis,model,dimension,n_pairs,llm_divergence_rate,strict_replication_rate
+gender,GPT-5.2,safe,15,0.2,0.0666666666666666
+gender,GPT-5.2,lively,15,0.0666666666666666,0.0
+gender,GPT-5.2,boring,15,0.2,0.2
+gender,GPT-5.2,wealthy,15,0.0,0.0
+gender,GPT-5.2,depressing,15,0.0666666666666666,0.0
+gender,GPT-5.2,beautiful,15,0.1333333333333333,0.0
+age,GPT-5.2,safe,15,0.2666666666666666,0.1333333333333333
+age,GPT-5.2,lively,15,0.0,0.0
+age,GPT-5.2,boring,15,0.1333333333333333,0.0666666666666666
+age,GPT-5.2,wealthy,15,0.0,0.0
+age,GPT-5.2,depressing,15,0.0666666666666666,0.0
+age,GPT-5.2,beautiful,15,0.0,0.0
+country,GPT-5.2,safe,15,0.4666666666666667,0.0
+country,GPT-5.2,lively,15,0.26666666666666666,0.06666666666666667
+country,GPT-5.2,boring,15,0.06666666666666667,0.0
+country,GPT-5.2,wealthy,15,0.3333333333333333,0.0
+country,GPT-5.2,depressing,15,0.2,0.0
+country,GPT-5.2,beautiful,15,0.2,0.0
+gender,Claude Sonnet 4,safe,13,0.0769230769230769,0.0
+gender,Claude Sonnet 4,lively,15,0.0,0.0
+gender,Claude Sonnet 4,boring,4,0.0,0.0
+gender,Claude Sonnet 4,wealthy,15,0.0,0.0
+gender,Claude Sonnet 4,depressing,11,0.0,0.0
+gender,Claude Sonnet 4,beautiful,15,0.0666666666666666,0.0
+age,Claude Sonnet 4,safe,15,0.0,0.0
+age,Claude Sonnet 4,lively,15,0.0,0.0
+age,Claude Sonnet 4,boring,15,0.0666666666666666,0.0
+age,Claude Sonnet 4,wealthy,15,0.0,0.0
+age,Claude Sonnet 4,depressing,15,0.0666666666666666,0.0
+age,Claude Sonnet 4,beautiful,15,0.0,0.0
+country,Claude Sonnet 4,safe,15,0.2,0.0
+country,Claude Sonnet 4,lively,15,0.13333333333333333,0.0
+country,Claude Sonnet 4,boring,15,0.26666666666666666,0.0
+country,Claude Sonnet 4,wealthy,15,0.3333333333333333,0.0
+country,Claude Sonnet 4,depressing,15,0.2,0.0
+country,Claude Sonnet 4,beautiful,12,0.25,0.0
+gender,Gemini 2.5 Flash,safe,15,0.0666666666666666,0.0666666666666666
+gender,Gemini 2.5 Flash,lively,15,0.0,0.0
+gender,Gemini 2.5 Flash,boring,14,0.2857142857142857,0.2142857142857142
+gender,Gemini 2.5 Flash,wealthy,15,0.0,0.0
+gender,Gemini 2.5 Flash,depressing,12,0.0833333333333333,0.0833333333333333
+gender,Gemini 2.5 Flash,beautiful,10,0.1,0.1
+age,Gemini 2.5 Flash,safe,15,0.0666666666666666,0.0
+age,Gemini 2.5 Flash,lively,15,0.0666666666666666,0.0
+age,Gemini 2.5 Flash,boring,14,0.0714285714285714,0.0714285714285714
+age,Gemini 2.5 Flash,wealthy,13,0.0,0.0
+age,Gemini 2.5 Flash,depressing,10,0.0,0.0
+age,Gemini 2.5 Flash,beautiful,14,0.2142857142857142,0.2142857142857142
+country,Gemini 2.5 Flash,safe,15,0.2,0.0
+country,Gemini 2.5 Flash,lively,15,0.4666666666666667,0.0
+country,Gemini 2.5 Flash,boring,15,0.13333333333333333,0.0
+country,Gemini 2.5 Flash,wealthy,15,0.5333333333333333,0.0
+country,Gemini 2.5 Flash,depressing,15,0.6666666666666666,0.0
+country,Gemini 2.5 Flash,beautiful,15,0.4,0.0

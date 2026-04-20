@@ -1,0 +1,16 @@
+﻿condition_key,condition_label,condition_background,mean_pair_distance,sd_pair_distance,se_pair_distance,rank_closest_to_neutral,run_key,model_label
+europe_northern_america,Europe and Northern America,Europe and Northern America,0.1743785887956619,0.0579865910112857,0.0057986591011285,1,macro5_gpt52,GPT-5.2
+asia,Asia,Asia,0.1920204758644104,0.0867501646280288,0.0086750164628028,2,macro5_gpt52,GPT-5.2
+oceania,Oceania,Oceania,0.1943913102149963,0.0568142458796501,0.005681424587965,3,macro5_gpt52,GPT-5.2
+latin_america_caribbean,Latin America and the Caribbean,Latin America and the Caribbean,0.2011452317237854,0.0694623365998268,0.0069462336599826,4,macro5_gpt52,GPT-5.2
+africa,Africa,Africa,0.2053856402635574,0.0851118639111518,0.0085111863911151,5,macro5_gpt52,GPT-5.2
+europe_northern_america,Europe and Northern America,Europe and Northern America,0.1343030482530594,0.0580648407340049,0.0058064840734004,1,macro5_claude,macro5_claude
+asia,Asia,Asia,0.1678397059440612,0.0642489641904831,0.0064248964190483,2,macro5_claude,macro5_claude
+africa,Africa,Africa,0.1715843975543975,0.0647469013929367,0.0064746901392936,3,macro5_claude,macro5_claude
+latin_america_caribbean,Latin America and the Caribbean,Latin America and the Caribbean,0.2300998568534851,0.0810533165931701,0.008105331659317,4,macro5_claude,macro5_claude
+oceania,Oceania,Oceania,0.2310189753770828,0.092933103442192,0.0092933103442192,5,macro5_claude,macro5_claude
+europe_northern_america,Europe and Northern America,Europe and Northern America,0.0978274121880531,0.0494718626141548,0.0049471862614154,1,macro5_gemini,macro5_gemini
+latin_america_caribbean,Latin America and the Caribbean,Latin America and the Caribbean,0.1238831505179405,0.0522623881697654,0.0052262388169765,2,macro5_gemini,macro5_gemini
+oceania,Oceania,Oceania,0.1246090158820152,0.0454361289739608,0.004543612897396,3,macro5_gemini,macro5_gemini
+africa,Africa,Africa,0.1247675493359565,0.0532085672020912,0.0053208567202091,4,macro5_gemini,macro5_gemini
+asia,Asia,Asia,0.1317326575517654,0.0544383116066455,0.0054438311606645,5,macro5_gemini,macro5_gemini

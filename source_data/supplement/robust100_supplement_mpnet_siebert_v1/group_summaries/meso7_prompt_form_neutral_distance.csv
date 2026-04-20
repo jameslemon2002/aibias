@@ -1,0 +1,15 @@
+﻿condition_key,condition_label,condition_background,mean_pair_distance,sd_pair_distance,se_pair_distance,rank_closest_to_neutral,run_key,model_label
+central_southern_asia,Central and Southern Asia,Central and Southern Asia,0.1803697198629379,0.0660234615206718,0.0066023461520671,1,meso7_gpt52_original,GPT-5.2 original prompt
+europe_northern_america,Europe and Northern America,Europe and Northern America,0.1832574605941772,0.0602326393127441,0.0060232639312744,2,meso7_gpt52_original,GPT-5.2 original prompt
+oceania,Oceania,Oceania,0.1859851032495498,0.0599509067833423,0.0059950906783342,3,meso7_gpt52_original,GPT-5.2 original prompt
+east_southeast_asia,Eastern and South-eastern Asia,Eastern and South-eastern Asia,0.1963830143213272,0.0784253552556037,0.0078425355255603,4,meso7_gpt52_original,GPT-5.2 original prompt
+northern_africa_western_asia,Northern Africa and Western Asia,Northern Africa and Western Asia,0.2006171941757202,0.0933628752827644,0.0093362875282764,5,meso7_gpt52_original,GPT-5.2 original prompt
+latin_america_caribbean,Latin America and the Caribbean,Latin America and the Caribbean,0.2006728798151016,0.0732563436031341,0.0073256343603134,6,meso7_gpt52_original,GPT-5.2 original prompt
+sub_saharan_africa,Sub-Saharan Africa,Sub-Saharan Africa,0.2175921499729156,0.0765924155712127,0.0076592415571212,7,meso7_gpt52_original,GPT-5.2 original prompt
+europe_northern_america,Europe and Northern America,Europe and Northern America,0.2557235956192016,0.0991291850805282,0.0099129185080528,1,meso7_gpt52_weak,GPT-5.2 weak prompt
+central_southern_asia,Central and Southern Asia,Central and Southern Asia,0.2842552065849304,0.1008941009640693,0.0100894100964069,2,meso7_gpt52_weak,GPT-5.2 weak prompt
+oceania,Oceania,Oceania,0.291414737701416,0.1134357452392578,0.0113435745239257,3,meso7_gpt52_weak,GPT-5.2 weak prompt
+latin_america_caribbean,Latin America and the Caribbean,Latin America and the Caribbean,0.3151620328426361,0.0970329120755195,0.0097032912075519,4,meso7_gpt52_weak,GPT-5.2 weak prompt
+northern_africa_western_asia,Northern Africa and Western Asia,Northern Africa and Western Asia,0.3168793618679046,0.119598664343357,0.0119598664343357,5,meso7_gpt52_weak,GPT-5.2 weak prompt
+east_southeast_asia,Eastern and South-eastern Asia,Eastern and South-eastern Asia,0.323862761259079,0.1090713962912559,0.0109071396291255,6,meso7_gpt52_weak,GPT-5.2 weak prompt
+sub_saharan_africa,Sub-Saharan Africa,Sub-Saharan Africa,0.3279033005237579,0.1674225628376007,0.01674225628376,7,meso7_gpt52_weak,GPT-5.2 weak prompt

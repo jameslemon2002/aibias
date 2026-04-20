@@ -1,0 +1,8 @@
+﻿condition_key,condition_label,condition_abbr,mean_distance,mean_rank,min_rank,max_rank
+europe_northern_america,Europe and Northern America,ENA,0.13713077952464423,1.0,1,1
+northern_africa_western_asia,Northern Africa and Western Asia,NAWA,0.16942245264848074,3.0,2,4
+central_southern_asia,Central and Southern Asia,CSA,0.17072863380114237,3.6666666666666665,3,5
+sub_saharan_africa,Sub-Saharan Africa,SSA,0.17951039969921112,5.0,2,7
+east_southeast_asia,Eastern and South-eastern Asia,ESEA,0.17954700191815695,5.0,4,6
+oceania,Oceania,OCE,0.19248839716116586,5.0,2,7
+latin_america_caribbean,Latin America and the Caribbean,LAC,0.18853160738945007,5.333333333333333,4,7

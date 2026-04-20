@@ -1,0 +1,134 @@
+{
+  "family_id": "main_prompt_family_micro20_identity_v1",
+  "system_prompt": "You are a careful observer of urban street scenes. Base your response only on visible evidence in the image. Do not identify the exact location or speculate about hidden social facts. Write in English as one short paragraph of 55-75 words.",
+  "neutral_user_prompt": "Imagine you are looking at this street scene and giving a brief impression of it. Describe the most salient visible features and the overall character of the place.",
+  "regional_user_prompt": "Imagine you are looking at this street scene as a person with a cultural background from {region}, and giving a brief impression of it. Describe the most salient visible features and the overall character of the place.",
+  "conditions": [
+    {
+      "key": "neutral",
+      "label": "Neutral",
+      "background": "none",
+      "template": "neutral"
+    },
+    {
+      "key": "northern_america",
+      "label": "Northern America",
+      "background": "Northern America",
+      "template": "regional"
+    },
+    {
+      "key": "western_europe",
+      "label": "Western Europe",
+      "background": "Western Europe",
+      "template": "regional"
+    },
+    {
+      "key": "northern_europe",
+      "label": "Northern Europe",
+      "background": "Northern Europe",
+      "template": "regional"
+    },
+    {
+      "key": "southern_europe",
+      "label": "Southern Europe",
+      "background": "Southern Europe",
+      "template": "regional"
+    },
+    {
+      "key": "eastern_europe",
+      "label": "Eastern Europe",
+      "background": "Eastern Europe",
+      "template": "regional"
+    },
+    {
+      "key": "central_asia",
+      "label": "Central Asia",
+      "background": "Central Asia",
+      "template": "regional"
+    },
+    {
+      "key": "southern_asia",
+      "label": "Southern Asia",
+      "background": "Southern Asia",
+      "template": "regional"
+    },
+    {
+      "key": "northern_africa",
+      "label": "Northern Africa",
+      "background": "Northern Africa",
+      "template": "regional"
+    },
+    {
+      "key": "western_asia",
+      "label": "Western Asia",
+      "background": "Western Asia",
+      "template": "regional"
+    },
+    {
+      "key": "eastern_asia",
+      "label": "Eastern Asia",
+      "background": "Eastern Asia",
+      "template": "regional"
+    },
+    {
+      "key": "south_eastern_asia",
+      "label": "South-eastern Asia",
+      "background": "South-eastern Asia",
+      "template": "regional"
+    },
+    {
+      "key": "eastern_africa",
+      "label": "Eastern Africa",
+      "background": "Eastern Africa",
+      "template": "regional"
+    },
+    {
+      "key": "middle_africa",
+      "label": "Middle Africa",
+      "background": "Middle Africa",
+      "template": "regional"
+    },
+    {
+      "key": "western_africa",
+      "label": "Western Africa",
+      "background": "Western Africa",
+      "template": "regional"
+    },
+    {
+      "key": "southern_africa",
+      "label": "Southern Africa",
+      "background": "Southern Africa",
+      "template": "regional"
+    },
+    {
+      "key": "caribbean",
+      "label": "Caribbean",
+      "background": "the Caribbean",
+      "template": "regional"
+    },
+    {
+      "key": "central_america",
+      "label": "Central America",
+      "background": "Central America",
+      "template": "regional"
+    },
+    {
+      "key": "south_america",
+      "label": "South America",
+      "background": "South America",
+      "template": "regional"
+    },
+    {
+      "key": "australia_new_zealand",
+      "label": "Australia and New Zealand",
+      "background": "Australia and New Zealand",
+      "template": "regional"
+    },
+    {
+      "key": "pacific_islands",
+      "label": "Pacific islands",
+      "background": "Pacific islands",
+      "template": "regional"
+    }
+  ]
+}

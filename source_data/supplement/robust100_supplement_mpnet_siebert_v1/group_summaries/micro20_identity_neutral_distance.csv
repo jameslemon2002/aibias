@@ -1,0 +1,61 @@
+﻿condition_key,condition_label,condition_background,mean_pair_distance,sd_pair_distance,se_pair_distance,rank_closest_to_neutral,run_key,model_label
+western_asia,Western Asia,Western Asia,0.1688030362129211,0.0547502227127552,0.0054750222712755,1,micro20_gpt52,GPT-5.2
+central_asia,Central Asia,Central Asia,0.1777423918247223,0.0551834516227245,0.0055183451622724,2,micro20_gpt52,GPT-5.2
+central_america,Central America,Central America,0.1796534955501556,0.0562804043292999,0.0056280404329299,3,micro20_gpt52,GPT-5.2
+northern_europe,Northern Europe,Northern Europe,0.185275912284851,0.0545824468135833,0.0054582446813583,4,micro20_gpt52,GPT-5.2
+caribbean,Caribbean,the Caribbean,0.185920238494873,0.0596887394785881,0.0059688739478588,5,micro20_gpt52,GPT-5.2
+eastern_africa,Eastern Africa,Eastern Africa,0.1865053623914718,0.0568331852555274,0.0056833185255527,6,micro20_gpt52,GPT-5.2
+south_america,South America,South America,0.1881173253059387,0.0526082590222358,0.0052608259022235,7,micro20_gpt52,GPT-5.2
+western_europe,Western Europe,Western Europe,0.1882141530513763,0.0584347806870937,0.0058434780687093,8,micro20_gpt52,GPT-5.2
+southern_africa,Southern Africa,Southern Africa,0.1899499893188476,0.0609240680932998,0.0060924068093299,9,micro20_gpt52,GPT-5.2
+eastern_asia,Eastern Asia,Eastern Asia,0.1912508904933929,0.0661915689706802,0.006619156897068,10,micro20_gpt52,GPT-5.2
+northern_africa,Northern Africa,Northern Africa,0.1922967582941055,0.0601131580770015,0.0060113158077001,11,micro20_gpt52,GPT-5.2
+eastern_europe,Eastern Europe,Eastern Europe,0.1956672817468643,0.0530950203537941,0.0053095020353794,12,micro20_gpt52,GPT-5.2
+pacific_islands,Pacific islands,Pacific islands,0.1978460103273391,0.0736895054578781,0.0073689505457878,13,micro20_gpt52,GPT-5.2
+northern_america,Northern America,Northern America,0.1979526877403259,0.062597781419754,0.0062597781419754,14,micro20_gpt52,GPT-5.2
+middle_africa,Middle Africa,Middle Africa,0.1990443468093872,0.0696394219994545,0.0069639421999454,15,micro20_gpt52,GPT-5.2
+western_africa,Western Africa,Western Africa,0.2008655220270156,0.0802290067076683,0.0080229006707668,16,micro20_gpt52,GPT-5.2
+southern_europe,Southern Europe,Southern Europe,0.2025616765022277,0.060029037296772,0.0060029037296772,17,micro20_gpt52,GPT-5.2
+southern_asia,Southern Asia,Southern Asia,0.2051490247249603,0.0869932621717453,0.0086993262171745,18,micro20_gpt52,GPT-5.2
+south_eastern_asia,South-eastern Asia,South-eastern Asia,0.2136444449424743,0.0988219752907753,0.0098821975290775,19,micro20_gpt52,GPT-5.2
+australia_new_zealand,Australia and New Zealand,Australia and New Zealand,0.2691169381141662,0.0711164623498916,0.0071116462349891,20,micro20_gpt52,GPT-5.2
+northern_america,Northern America,Northern America,0.1394851505756378,0.0620752945542335,0.0062075294554233,1,micro20_claude,micro20_claude
+western_europe,Western Europe,Western Europe,0.1431015431880951,0.0549018234014511,0.0054901823401451,2,micro20_claude,micro20_claude
+western_asia,Western Asia,Western Asia,0.1635105162858963,0.0555686056613922,0.0055568605661392,3,micro20_claude,micro20_claude
+southern_africa,Southern Africa,Southern Africa,0.1680397093296051,0.0639184936881065,0.0063918493688106,4,micro20_claude,micro20_claude
+middle_africa,Middle Africa,Middle Africa,0.1752516776323318,0.0698941349983215,0.0069894134998321,5,micro20_claude,micro20_claude
+northern_europe,Northern Europe,Northern Europe,0.1780403554439544,0.0592516250908374,0.0059251625090837,6,micro20_claude,micro20_claude
+eastern_africa,Eastern Africa,Eastern Africa,0.1788408607244491,0.0707231685519218,0.0070723168551921,7,micro20_claude,micro20_claude
+central_america,Central America,Central America,0.1823846846818924,0.0608624331653118,0.0060862433165311,8,micro20_claude,micro20_claude
+central_asia,Central Asia,Central Asia,0.1936059147119522,0.0691179260611534,0.0069117926061153,9,micro20_claude,micro20_claude
+eastern_europe,Eastern Europe,Eastern Europe,0.1941038519144058,0.0649957954883575,0.0064995795488357,10,micro20_claude,micro20_claude
+southern_asia,Southern Asia,Southern Asia,0.1982113122940063,0.0706860646605491,0.0070686064660549,11,micro20_claude,micro20_claude
+south_america,South America,South America,0.1994585245847702,0.0732382461428642,0.0073238246142864,12,micro20_claude,micro20_claude
+western_africa,Western Africa,Western Africa,0.2035558819770813,0.0844268575310707,0.008442685753107,13,micro20_claude,micro20_claude
+eastern_asia,Eastern Asia,Eastern Asia,0.2039568722248077,0.0679882019758224,0.0067988201975822,14,micro20_claude,micro20_claude
+northern_africa,Northern Africa,Northern Africa,0.205500066280365,0.080008178949356,0.0080008178949356,15,micro20_claude,micro20_claude
+australia_new_zealand,Australia and New Zealand,Australia and New Zealand,0.2117147594690323,0.069008357822895,0.0069008357822895,16,micro20_claude,micro20_claude
+south_eastern_asia,South-eastern Asia,South-eastern Asia,0.2168784886598587,0.0722944512963295,0.0072294451296329,17,micro20_claude,micro20_claude
+southern_europe,Southern Europe,Southern Europe,0.2362828701734542,0.0762365460395813,0.0076236546039581,18,micro20_claude,micro20_claude
+caribbean,Caribbean,the Caribbean,0.2525934278964996,0.080419160425663,0.0080419160425662,19,micro20_claude,micro20_claude
+pacific_islands,Pacific islands,Pacific islands,0.262185126543045,0.0797367691993713,0.0079736769199371,20,micro20_claude,micro20_claude
+northern_america,Northern America,Northern America,0.105493888258934,0.0545005053281784,0.0054500505328178,1,micro20_gemini,micro20_gemini
+central_america,Central America,Central America,0.1132896915078163,0.0443863831460475,0.0044386383146047,2,micro20_gemini,micro20_gemini
+south_america,South America,South America,0.12229585647583,0.0510340817272663,0.0051034081727266,3,micro20_gemini,micro20_gemini
+northern_africa,Northern Africa,Northern Africa,0.1230091676115989,0.0454135611653327,0.0045413561165332,4,micro20_gemini,micro20_gemini
+southern_africa,Southern Africa,Southern Africa,0.1238984167575836,0.0538795590400695,0.0053879559040069,5,micro20_gemini,micro20_gemini
+eastern_africa,Eastern Africa,Eastern Africa,0.1256950795650482,0.052267599850893,0.0052267599850893,6,micro20_gemini,micro20_gemini
+middle_africa,Middle Africa,Middle Africa,0.1262070536613464,0.0499818511307239,0.0049981851130723,7,micro20_gemini,micro20_gemini
+western_africa,Western Africa,Western Africa,0.1263734847307205,0.0500330440700054,0.0050033044070005,8,micro20_gemini,micro20_gemini
+western_europe,Western Europe,Western Europe,0.1264126747846603,0.0554595105350017,0.0055459510535001,9,micro20_gemini,micro20_gemini
+southern_asia,Southern Asia,Southern Asia,0.1271376758813858,0.055058941245079,0.0055058941245079,10,micro20_gemini,micro20_gemini
+central_asia,Central Asia,Central Asia,0.1282720863819122,0.055613774806261,0.0055613774806261,11,micro20_gemini,micro20_gemini
+eastern_asia,Eastern Asia,Eastern Asia,0.1297799795866012,0.0536970272660255,0.0053697027266025,12,micro20_gemini,micro20_gemini
+western_asia,Western Asia,Western Asia,0.1297892481088638,0.0565795116126537,0.0056579511612653,13,micro20_gemini,micro20_gemini
+south_eastern_asia,South-eastern Asia,South-eastern Asia,0.1309918612241745,0.0612886063754558,0.0061288606375455,14,micro20_gemini,micro20_gemini
+eastern_europe,Eastern Europe,Eastern Europe,0.131041333079338,0.0526240244507789,0.0052624024450778,15,micro20_gemini,micro20_gemini
+australia_new_zealand,Australia and New Zealand,Australia and New Zealand,0.1368594169616699,0.054218016564846,0.0054218016564846,16,micro20_gemini,micro20_gemini
+northern_europe,Northern Europe,Northern Europe,0.1441488415002823,0.0645698308944702,0.006456983089447,17,micro20_gemini,micro20_gemini
+southern_europe,Southern Europe,Southern Europe,0.1468049883842468,0.061552669852972,0.0061552669852972,18,micro20_gemini,micro20_gemini
+pacific_islands,Pacific islands,Pacific islands,0.1517078727483749,0.0703983157873153,0.0070398315787315,19,micro20_gemini,micro20_gemini
+caribbean,Caribbean,the Caribbean,0.1520175188779831,0.0703431963920593,0.0070343196392059,20,micro20_gemini,micro20_gemini

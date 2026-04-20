@@ -1,0 +1,44 @@
+{
+  "family_id": "main_prompt_family_macro5_identity_v1",
+  "system_prompt": "You are a careful observer of urban street scenes. Base your response only on visible evidence in the image. Do not identify the exact location or speculate about hidden social facts. Write in English as one short paragraph of 55-75 words.",
+  "neutral_user_prompt": "Imagine you are looking at this street scene and giving a brief impression of it. Describe the most salient visible features and the overall character of the place.",
+  "regional_user_prompt": "Imagine you are looking at this street scene as a person with a cultural background from {region}, and giving a brief impression of it. Describe the most salient visible features and the overall character of the place.",
+  "conditions": [
+    {
+      "key": "neutral",
+      "label": "Neutral",
+      "background": "none",
+      "template": "neutral"
+    },
+    {
+      "key": "africa",
+      "label": "Africa",
+      "background": "Africa",
+      "template": "regional"
+    },
+    {
+      "key": "asia",
+      "label": "Asia",
+      "background": "Asia",
+      "template": "regional"
+    },
+    {
+      "key": "europe_northern_america",
+      "label": "Europe and Northern America",
+      "background": "Europe and Northern America",
+      "template": "regional"
+    },
+    {
+      "key": "latin_america_caribbean",
+      "label": "Latin America and the Caribbean",
+      "background": "Latin America and the Caribbean",
+      "template": "regional"
+    },
+    {
+      "key": "oceania",
+      "label": "Oceania",
+      "background": "Oceania",
+      "template": "regional"
+    }
+  ]
+}

@@ -1,0 +1,1042 @@
+model_label,image_id,condition_key,snippet
+GPT-5.2,google_gsv_003372,sub_saharan_africa,"{""safe"":72,""lively"":18,""wealthy"":52,""beautiful"":"
+GPT-5.2,google_gsv_003613,northern_africa_western_asia,"{
+  ""safe"": 78,
+  ""lively"": 28,
+  ""wealthy"": 62,
+  ""beautiful"": 55,
+  ""boring"":"
+GPT-5.2,google_gsv_003791,northern_africa_western_asia,"{""safe"":72,""lively"":18,""wealthy"":46,""beautiful"":40,""boring"":74"
+GPT-5.2,google_gsv_003884,sub_saharan_africa,"{""safe"":78,""lively"":18,""wealthy"":55,""beautiful"":52,""boring"":72,""depressing"
+GPT-5.2,google_gsv_004882,sub_saharan_africa,"{""safe"":78,""lively"":22,""wealthy"":55,""beautiful"":50,""boring"":"
+GPT-5.2,google_gsv_009460,sub_saharan_africa,"{""safe"":78,""lively"":52,""wealthy"
+GPT-5.2,google_gsv_012075,sub_saharan_africa,"{""safe"":72,""lively"":18,""wealthy"":45,""beautiful"":58,""boring"":74,""depressing"":"
+GPT-5.2,google_gsv_013378,sub_saharan_africa,"{""safe"":68,""lively"":18,""wealthy"":45"
+GPT-5.2,google_gsv_015464,sub_saharan_africa,"{""safe"":82,""lively"":28,""wealthy"":70,""beautiful"":"
+GPT-5.2,google_gsv_017570,sub_saharan_africa,"{""safe"":78,""lively"":18,""wealthy"":55,""beautiful"":42,""boring"":72,""depressing"
+GPT-5.2,google_gsv_018808,sub_saharan_africa,"{
+  ""safe"": 78,
+  ""lively"": 18,
+  ""wealthy"": 62,
+  ""beautiful"": 58,
+  ""boring"": 74"
+GPT-5.2,google_gsv_018903,sub_saharan_africa,"{""safe"":82,""lively"":22,""wealthy"":58,""beautiful"":55,""boring"
+GPT-5.2,google_gsv_019253,sub_saharan_africa,"{
+  ""safe"": 78,
+  ""lively"": 22,
+  ""wealthy"": 58,
+  ""beautiful"": 54"
+GPT-5.2,google_gsv_020341,sub_saharan_africa,"{""safe"":78,""lively"
+GPT-5.2,google_gsv_024984,sub_saharan_africa,"{
+  ""safe"": 78,
+  ""lively"": 18,
+  ""wealthy"": 55,
+  ""beautiful"": 60,
+  ""bor"
+GPT-5.2,google_gsv_027302,central_southern_asia,"{""safe"":74,""lively"":22,""wealthy"":38,""beautiful"":55,""boring"":72,""depressing"":"
+GPT-5.2,google_gsv_001945,central_southern_asia,"{
+  ""safe"": 78,
+  ""lively"": 18,
+  ""wealthy"": 70,
+  ""beautiful"": 55,
+  ""boring"": 72,
+  ""depressing"":"
+GPT-5.2,google_gsv_004443,central_southern_asia,"{
+  ""safe"": 46,
+  ""lively"": 22,
+  ""wealthy"": 18,
+  ""beautiful"": 34,
+  ""boring"": 62"
+GPT-5.2,google_gsv_008214,sub_saharan_africa,"{
+  ""safe"": 68,
+  ""lively"": 20,
+  ""wealthy"": 45,
+  ""beautiful"": 40,
+  ""boring"": 70,
+  ""depressing"":"
+GPT-5.2,google_gsv_008907,east_southeast_asia,"{""safe"":42,""lively"":28,""wealth"
+GPT-5.2,google_gsv_009474,northern_africa_western_asia,"{
+  ""safe"": 55,
+  ""lively"": 25,
+  ""wealthy"": 30,
+  """
+GPT-5.2,google_gsv_010490,sub_saharan_africa,"{
+  ""safe"": 62,"
+GPT-5.2,google_gsv_011042,northern_africa_western_asia,"{
+  ""safe"": 45,
+  ""lively"": 55,
+  ""wealthy"": 25,
+  ""beautiful"": 30,
+  ""boring"": 35,"
+GPT-5.2,google_gsv_012320,northern_africa_western_asia,"{""safe"":38,""lively"":12,""wealthy"":24,""beautiful"":22,"""
+GPT-5.2,google_gsv_016952,central_southern_asia,"{
+  ""safe"": 52,
+  ""lively"": 28,
+  ""wealthy"": 32,
+  ""beautiful"": 45,
+  ""boring"": 62,"
+GPT-5.2,google_gsv_017076,northern_africa_western_asia,"{""safe"":63,""lively"":28,""wealthy"":"
+GPT-5.2,google_gsv_022715,sub_saharan_africa,"{""safe"":55,""lively"":20,""wealthy"":25,""beautiful"":40,""boring"":"
+GPT-5.2,google_gsv_023675,sub_saharan_africa,"{""safe"":45,""lively"":25,""wealthy"":30,""beautiful"
+GPT-5.2,google_gsv_024678,sub_saharan_africa,"{""safe"":55,""lively"":20,""wealthy"":30,""beautiful"":35,""boring"":70,"""
+GPT-5.2,google_gsv_024760,sub_saharan_africa,"{""safe"":55,""lively"":10,""wealthy"":15"
+GPT-5.2,google_gsv_024965,sub_saharan_africa,"{""safe"":67,""lively"":22,""wealthy"":38,""beautiful"":34,""boring"":"
+GPT-5.2,google_gsv_028734,sub_saharan_africa,"{""safe"":60,""lively"":35,""wealthy"":40,""beautiful"":45,""boring"":55,""depressing"
+GPT-5.2,google_gsv_028734,northern_africa_western_asia,"{
+  ""safe"": 55,
+  ""lively"": 40,
+  ""wealthy"": 30,
+  ""beautiful"": 45"
+GPT-5.2,google_gsv_029157,sub_saharan_africa,"{""safe"":62,""lively"
+GPT-5.2,google_gsv_029157,northern_africa_western_asia,"{""safe"
+GPT-5.2,google_gsv_013007,sub_saharan_africa,"{""safe"":68,""l"
+GPT-5.2,google_gsv_011923,sub_saharan_africa,"{""safe"":45,""lively"":20,""wealthy"":25,""beautiful"":40,"""
+GPT-5.2,google_gsv_010576,sub_saharan_africa,"{""safe"":38,"""
+GPT-5.2,google_gsv_013825,latin_america_caribbean,"{
+  ""safe"": 55,
+  ""lively"": 18,
+  ""wealthy"": 20,
+  ""beautiful"": 62,
+  ""boring"": 72,
+  ""depress"
+GPT-5.2,google_gsv_022018,sub_saharan_africa,"{""safe"":62,""lively"":28,""wealthy"
+GPT-5.2,google_gsv_030242,sub_saharan_africa,"{
+  ""safe"": 70,
+  ""lively"": 15,
+  ""wealthy"": 35,
+  ""beautiful"": 75,
+  ""boring"": 65,
+  ""depressing"":"
+GPT-5.2,google_gsv_027552,sub_saharan_africa,"{""safe"":55,""lively"":20,""wealthy"":35,""beautiful"":25,""boring"":70,""depress"
+GPT-5.2,google_gsv_014884,sub_saharan_africa,"{""safe"":68,""lively"":18,""wealth"
+GPT-5.2,google_gsv_027740,sub_saharan_africa,"{
+  ""safe"": 55,
+  ""lively"": 15,
+  ""wealthy"":"
+GPT-5.2,google_gsv_011100,sub_saharan_africa,"{
+  ""safe"": 62,
+  ""lively"": 18,
+  ""wealthy"": 32,
+  ""beautiful"": 34,
+  """
+GPT-5.2,google_gsv_016817,sub_saharan_africa,"{
+  ""safe"": 58,
+  ""lively"": 22,
+  ""wealthy"": 35"
+GPT-5.2,google_gsv_016817,europe_northern_america,"{
+  ""safe"": 62,
+  ""lively"": 18,
+  ""wealthy"": 32,
+  ""beautiful"": 54,
+  ""boring"":"
+GPT-5.2,google_gsv_002422,sub_saharan_africa,"{""safe"":55,""lively"":15,""wealthy"":45,""beautiful"":50,""boring"":"
+GPT-5.2,google_gsv_013231,central_southern_asia,"{""safe"":52,""lively"":18,""wealthy"":28,""beautiful"":32,""bor"
+GPT-5.2,google_gsv_012020,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":28,""beautiful"":55,""boring"":"
+GPT-5.2,google_gsv_020367,sub_saharan_africa,"{""safe"":62,""lively"":38,""wealthy"":32,""beautiful"":44,""bor"
+GPT-5.2,google_gsv_020367,east_southeast_asia,"{
+  ""safe"": 62,
+  ""lively"": 34,
+  ""wealthy"": 32,
+  ""beautiful"": 45,
+  ""boring"":"
+GPT-5.2,google_gsv_020459,sub_saharan_africa,"{""safe"":58,""lively"":12,""wealthy"":18,"""
+GPT-5.2,google_gsv_017041,sub_saharan_africa,"{""safe"":73,""lively"":28,""wealthy"":42,""beautiful"":55,""boring"
+GPT-5.2,google_gsv_026675,northern_africa_western_asia,"{""safe"":55,""lively"":15,""wealthy"":20,""beautiful"":45,""boring"":75,""depressing"
+GPT-5.2,google_gsv_029272,northern_africa_western_asia,"{""safe"":62,""lively"":22,""wealthy"
+GPT-5.2,google_gsv_029878,northern_africa_western_asia,"{""safe"":62,""lively"":18,""wealthy"":28,""beautiful"":32,""boring"":74,"""
+GPT-5.2,google_gsv_025245,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":35,""beautiful"":44,""boring"":72,""depressing"":"
+GPT-5.2,google_gsv_021779,sub_saharan_africa,"{""safe"":60,""lively"":25,""wealthy"":35,""beautiful"":30,""boring"":70,""de"
+GPT-5.2,google_gsv_018345,sub_saharan_africa,"{""safe"":72,""lively"":18,""wealthy"":32,""beautiful"":55,""boring"":68,""depress"
+GPT-5.2,google_gsv_026244,northern_africa_western_asia,"{""safe"":72,""lively"
+GPT-5.2,google_gsv_001590,sub_saharan_africa,"{""safe"":45,""lively"":25,""wealthy"":30,""beautiful"":35,""boring"":60,""depress"
+GPT-5.2,google_gsv_001590,northern_africa_western_asia,"{""safe"":42,""lively"":28,""wealthy"":24,""beautiful"":35,""boring"":62,""depress"
+GPT-5.2,google_gsv_019315,sub_saharan_africa,"{""safe"":54,""lively"":18,""wealthy"":24,""beautiful"":38,""boring"":72,""depressing"
+GPT-5.2,google_gsv_026476,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":35,""beautiful"":44,""boring"":72,""depressing"
+GPT-5.2,google_gsv_012488,latin_america_caribbean,"{""safe"":52,""lively"":18,""wealthy"":32,""beautiful"":40,""bor"
+GPT-5.2,google_gsv_000336,sub_saharan_africa,"{""safe"":72,""lively"":45,""wealthy"":38,""beautiful"":52,""boring"":55,"""
+GPT-5.2,google_gsv_001852,northern_africa_western_asia,"{
+  ""safe"": 72,
+  ""lively"": 22,
+  ""wealthy"": 38,
+  ""beautiful"": 62,
+  ""boring"": 68,
+  ""depressing"":"
+GPT-5.2,google_gsv_001969,sub_saharan_africa,"{""safe"":62,""lively"":12,""wealthy"":28,""beautiful"":30,""boring"":78"
+GPT-5.2,google_gsv_003496,northern_africa_western_asia,"{""safe"":62,""lively"":18,""wealthy"":32,""beautiful"":38,""boring"":72,"""
+GPT-5.2,google_gsv_004397,east_southeast_asia,"{
+  ""safe"": 55,
+  ""lively"": 15,
+  ""wealthy"": 30,
+  ""beautiful"": 35,
+  ""boring"": 70,
+  ""de"
+GPT-5.2,google_gsv_009361,latin_america_caribbean,"{""safe"":62,""lively"":25,""wealthy"":55,""beautiful"":38,""boring"":68,""depressing"":"
+GPT-5.2,google_gsv_010064,northern_africa_western_asia,"{""safe"":55,""lively"":18,""wealthy"":28,""beautiful"":32,""boring"
+GPT-5.2,google_gsv_010210,northern_africa_western_asia,"{""safe"":48,""lively"":18,""wealthy"":30,""beautiful"":"
+GPT-5.2,google_gsv_010210,sub_saharan_africa,"{""safe"
+GPT-5.2,google_gsv_011113,sub_saharan_africa,"{""safe"":72,""lively"":18,""wealthy"":45,""beautiful"":34,""bor"
+GPT-5.2,google_gsv_011216,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":35,""beautiful"
+GPT-5.2,google_gsv_012130,central_southern_asia,"{""safe"":62,""lively"":18,""wealthy"":32,""beautiful"":46,""boring"":74,""depressing"":"
+GPT-5.2,google_gsv_012209,sub_saharan_africa,"{
+  ""safe"": 63,
+  ""lively"": 22,
+  ""wealthy"": 28,
+  ""beautiful"": 45,
+  ""boring"": 68,
+  ""de"
+GPT-5.2,google_gsv_014196,sub_saharan_africa,"{""safe"":55,""lively"":10,""wealthy"":"
+GPT-5.2,google_gsv_014196,northern_africa_western_asia,"{""safe"":58,""lively"":12,""wealthy"":18,""beautiful"":44,""boring"":78,""depressing"
+GPT-5.2,google_gsv_014739,northern_africa_western_asia,"{""safe"":72,""lively"":12,""wealthy"":38,""beautiful"":50"
+GPT-5.2,google_gsv_015805,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":24"
+GPT-5.2,google_gsv_016483,northern_africa_western_asia,"{""safe"":60,""lively"":15,""wealthy"":25,"""
+GPT-5.2,google_gsv_018670,northern_africa_western_asia,"{""safe"":55,""lively"":15,""wealthy"":30,""beautiful"":35,""boring"":75,""de"
+GPT-5.2,google_gsv_019330,sub_saharan_africa,"{""safe"":55,""lively"":20,""wealthy"":25,""beautiful"":30,""boring"":70,""de"
+GPT-5.2,google_gsv_019952,northern_africa_western_asia,"{
+  ""safe"": 70,
+  ""lively"": 28,
+  ""wealthy"": 55,
+  ""beautiful"": 42,
+  ""boring"": 68,
+  ""depress"
+GPT-5.2,google_gsv_023077,sub_saharan_africa,"{""safe"":60,""lively"":15,""wealthy"":25,""beautiful"":30,""boring"":75,"""
+GPT-5.2,google_gsv_023732,northern_africa_western_asia,"{""safe"":62,""lively"":12,""wealthy"":28,""beautiful"":34,""boring"":78,"""
+GPT-5.2,google_gsv_023955,sub_saharan_africa,"{""safe"":55,""lively"":10,""wealthy"":30,""beautiful"":25,""boring"":75,""depressing"":"
+GPT-5.2,google_gsv_024260,northern_africa_western_asia,"{""safe"":60,""lively"":20,""wealthy"":25,""beautiful"":30,""boring"":"
+GPT-5.2,google_gsv_024761,sub_saharan_africa,"{""safe"":60,""lively"":15"
+GPT-5.2,google_gsv_025090,sub_saharan_africa,"{""safe"":68,""lively"":25,""wealthy"":45,""beautiful"":52,""boring"":62,""depressing"":"
+GPT-5.2,google_gsv_027115,northern_africa_western_asia,"{""safe"":56,""lively"":18,""wealthy"":22,""beautiful"":34,""boring"":74,""depressing"":"
+GPT-5.2,google_gsv_028493,sub_saharan_africa,"{""safe"":62,""lively"":22,""wealthy"":38,""beautiful"":44,""boring"":70,"""
+GPT-5.2,google_gsv_028514,central_southern_asia,"{
+  ""safe"": 45,
+  ""lively"": 10,
+  ""wealthy"": 20,
+  ""beautiful"": 25,
+  ""boring"": 75,
+  ""depressing"":"
+GPT-5.2,google_gsv_030010,sub_saharan_africa,"{""safe"":48,""lively"":18,""wealthy"":22,"""
+GPT-5.2,google_gsv_028852,sub_saharan_africa,{
+GPT-5.2,google_gsv_013696,sub_saharan_africa,"{""safe"":68,""lively"":38,""wealthy"":40,""beautiful"":55,""boring"":60,""depressing"
+GPT-5.2,google_gsv_009204,east_southeast_asia,"{""safe"":52,""lively"":18,""wealthy"":24,""beautiful"":33,""boring"":72"
+GPT-5.2,google_gsv_014264,northern_africa_western_asia,"{
+  ""safe"": 62,
+  ""lively"": 12,
+  ""wealthy"": 28,
+  ""beautiful"": 55,
+  ""boring"": 78,
+  ""depress"
+GPT-5.2,google_gsv_011234,northern_africa_western_asia,"{""safe"":62,""lively"":18,""wealthy"":28,""beautiful"":54,""boring"":72,""depressing"":"
+GPT-5.2,google_gsv_028769,sub_saharan_africa,"{""safe"":70,""lively"":20,""wealthy"":55,""beautiful"":45,""boring"":75,""depressing"
+GPT-5.2,google_gsv_017575,sub_saharan_africa,"{""safe"":55,""lively"":35,""wealth"
+GPT-5.2,google_gsv_010829,sub_saharan_africa,"{""safe"":55,""lively"":20,""wealthy"":25,""beautiful"":35,""boring"":70,""de"
+GPT-5.2,google_gsv_028812,sub_saharan_africa,"{""safe"":55,""lively"":20,""wealthy"":25,""beautiful"":70,""boring"":60"
+GPT-5.2,google_gsv_023834,sub_saharan_africa,"{""safe"":58,""lively"":38,""wealthy"":42,""beautiful"":34,""boring"":55,""depressing"":"
+GPT-5.2,google_gsv_003959,sub_saharan_africa,"{""safe"":58,""l"
+GPT-5.2,google_gsv_021680,northern_africa_western_asia,"{""safe"":55,""lively"":35,""wealthy"":20,""beautiful"":25,""boring"":60,""depress"
+GPT-5.2,google_gsv_004661,sub_saharan_africa,"{""safe"":55,""lively"":35,""wealth"
+GPT-5.2,google_gsv_022976,sub_saharan_africa,"{
+  ""safe"": 58,
+  ""lively"": 28,
+  ""wealthy"": 35,
+  ""beautiful"": 55,
+  ""boring"": 62,
+  ""de"
+GPT-5.2,google_gsv_000409,sub_saharan_africa,"{""safe"":62,""lively"":12,""wealthy"":"
+GPT-5.2,google_gsv_010786,northern_africa_western_asia,"{""safe"":62,""lively"":72,""wealthy"
+GPT-5.2,google_gsv_028008,sub_saharan_africa,"{""safe"":45,""lively"":15,""wealthy"":20,""beautiful"":30,""boring"":70,""depressing"":"
+GPT-5.2,google_gsv_003991,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":22,""beautiful"":45,""boring"":72,""depress"
+GPT-5.2,google_gsv_022842,sub_saharan_africa,"{""safe"":58,""lively"":32,""wealthy"":35,""beautiful"":46,""boring"":64,""depress"
+GPT-5.2,google_gsv_029754,sub_saharan_africa,"{""safe"":62,""lively"":38,""wealthy"
+GPT-5.2,google_gsv_019907,sub_saharan_africa,"{""safe"":52,""lively"":18,""wealthy"":22"
+GPT-5.2,google_gsv_015905,sub_saharan_africa,"{""safe"":52,""lively"":18,""wealthy"":22,""beautiful"":46,""boring"":68"
+GPT-5.2,google_gsv_011728,northern_africa_western_asia,"{"""
+GPT-5.2,google_gsv_011728,sub_saharan_africa,"{""safe"":55,""lively"":25,""wealthy"
+GPT-5.2,google_gsv_001382,sub_saharan_africa,"{""safe"":68,""lively"":18,""wealthy"":60,""beautiful"":42,""boring"":74,""depressing"
+GPT-5.2,google_gsv_023683,europe_northern_america,"{""safe"":55,""lively"":18,""wealthy"":28,""beautiful"":35,""boring"":72"
+GPT-5.2,google_gsv_025810,sub_saharan_africa,"{""safe"":62,""lively"":38,""wealthy"":36,""beautiful"":42,""bor"
+GPT-5.2,google_gsv_029392,sub_saharan_africa,"{""safe"":56,""lively"":18,""wealthy"":24"
+GPT-5.2,google_gsv_016752,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":28,""beautiful"":46,""bor"
+GPT-5.2,google_gsv_024725,sub_saharan_africa,"{""safe"":45,""lively"":40,""wealthy"":20,""beautiful"":25,"""
+GPT-5.2,google_gsv_029641,sub_saharan_africa,"{
+  ""safe"": 55,
+  ""lively"": 40,
+  ""wealthy"": 25,
+  ""beautiful"": 35,
+  ""bor"
+GPT-5.2,google_gsv_024166,sub_saharan_africa,"{""safe"":55,""lively"":10,""wealthy"":25,""beautiful"":20,""boring"":"
+GPT-5.2,google_gsv_024166,northern_africa_western_asia,"{
+  ""safe"": 55,
+  ""lively"": 10,
+  ""wealthy"": 30,
+  ""beautiful"": 25,
+  ""boring"": 75,
+  """
+GPT-5.2,google_gsv_023483,sub_saharan_africa,"{
+  ""safe"": 55,
+  ""lively"": 18,
+  ""wealthy"":"
+GPT-5.2,google_gsv_023645,sub_saharan_africa,"{""safe"
+GPT-5.2,google_gsv_018995,northern_africa_western_asia,"{""safe"":62,""lively"":15,""wealthy"":30,"""
+GPT-5.2,google_gsv_021989,central_southern_asia,"{""safe"":55,""lively"":20,""wealthy"":25,""beautiful"":45,"""
+GPT-5.2,google_gsv_021791,sub_saharan_africa,"{""safe"":55,""lively"":10,""wealthy"":35,""beautiful"":20,"""
+GPT-5.2,google_gsv_015281,central_southern_asia,"{""safe"":72,""lively"":18,""wealthy"":45,""beautiful"":63,"""
+GPT-5.2,google_gsv_001915,northern_africa_western_asia,"{
+  ""safe"": 68,
+  ""lively"": 12,
+  ""wealthy"": 52,
+  ""beautiful"": 28,
+  ""boring"": 82,
+  ""depressing"":"
+GPT-5.2,google_gsv_030009,sub_saharan_africa,"{
+  ""safe"": 62,
+  ""lively"": 18,
+  ""wealthy"": 52,
+  ""beautiful"": 34,
+  ""boring"": 74,
+  """
+GPT-5.2,google_gsv_025067,sub_saharan_africa,"{""safe"":45,""lively"":10,""wealthy"":"
+GPT-5.2,google_gsv_023694,sub_saharan_africa,"{""safe"":68,""lively"":18,""wealthy"":40,""beautiful"":42,""boring"":74"
+GPT-5.2,google_gsv_023694,central_southern_asia,"{
+  ""safe"": 63,
+  ""lively"": 18,
+  ""wealthy"": 38,
+  ""beautiful"": 42,
+  ""boring"": 74,
+  ""depressing"
+GPT-5.2,google_gsv_004684,sub_saharan_africa,"{""safe"":78,""lively"":28,""wealthy"":67,""beautiful"":"
+GPT-5.2,google_gsv_013820,sub_saharan_africa,"{""safe"":58,""lively"":18,""wealthy"":32,""beautiful"":24,""boring"":72,""depressing"":"
+GPT-5.2,google_gsv_000064,sub_saharan_africa,"{""safe"":58,""lively"":18,""wealthy"":42,""beautiful"":"
+GPT-5.2,google_gsv_005754,sub_saharan_africa,"{""safe"":55,""lively"":20,""wealthy"":35,""beautiful"":45,""boring"":70,"""
+GPT-5.2,google_gsv_022067,sub_saharan_africa,"{""safe"":78,""lively"":22,""wealthy"":62,""beautiful"":60,""boring"":70,""depressing"
+GPT-5.2,google_gsv_023923,sub_saharan_africa,"{""safe"":60,""lively"":15,"""
+GPT-5.2,google_gsv_027490,sub_saharan_africa,"{""safe"":70,""lively"":12,""wealthy"":38,""beautiful"
+GPT-5.2,google_gsv_005097,central_southern_asia,"{""safe"":62,""lively"
+GPT-5.2,google_gsv_013713,sub_saharan_africa,"{""safe"":70,""lively"":10,""wealthy"":30,""beautiful"":35,"""
+GPT-5.2,google_gsv_009868,northern_africa_western_asia,"{""safe"":65,""lively"":20,""wealthy"":35,""beautiful"":45,""boring"
+GPT-5.2,google_gsv_004335,sub_saharan_africa,"{"""
+GPT-5.2,google_gsv_022812,sub_saharan_africa,"{""safe"":78,""lively"":18"
+GPT-5.2,baidu_urban_001217_09010900121801190959141472K_h265,sub_saharan_africa,"{""safe"":78,""lively"":18,""wealthy"":72"
+GPT-5.2,google_gsv_014634,sub_saharan_africa,"{""safe"":68,""lively"":28,""wealthy"":45,""beautiful"":52,""boring"":63,""depressing"":"
+GPT-5.2,google_gsv_009848,northern_africa_western_asia,"{
+  ""safe"": 62,
+  ""lively"": 25,
+  ""wealthy"": 40,
+  ""beautiful"": 28,
+  ""boring"": 70"
+GPT-5.2,google_gsv_023327,sub_saharan_africa,"{""safe"":45,""lively"":20,""wealthy"":30,""beautiful"":25,""boring"":70,""depressing"":"
+GPT-5.2,google_gsv_023327,northern_africa_western_asia,"{""safe"":45,""lively"":30,""wealthy"":25,""beautiful"":20,""boring"":55,""depress"
+GPT-5.2,google_gsv_013203,sub_saharan_africa,"{
+  ""safe"": 72,
+  ""lively"": 32,
+  ""wealthy"": 58,
+  ""beautiful"": 46,
+  ""boring"": 66,
+  ""depress"
+GPT-5.2,google_gsv_020937,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":28,""beautiful"
+GPT-5.2,google_gsv_010754,sub_saharan_africa,"{""safe"":55,""lively"":20,""wealthy"
+GPT-5.2,google_gsv_023204,northern_africa_western_asia,"{""safe"":68,""lively"":55,""wealthy"":40,""beautiful"":35,""boring"":50,""depress"
+GPT-5.2,google_gsv_002339,sub_saharan_africa,"{""safe"":62,""lively"":15,""wealthy"":22,""beautiful"":48,""bor"
+GPT-5.2,google_gsv_008916,sub_saharan_africa,"{""safe"":45,""lively"":"
+GPT-5.2,google_gsv_000105,sub_saharan_africa,"{""safe"":62,""lively"":12,""wealthy"":58,""beautiful"":40,""boring"":78,""depress"
+GPT-5.2,google_gsv_000105,northern_africa_western_asia,"{
+  ""safe"": 63,
+  ""lively"": 12,
+  ""wealthy"":"
+GPT-5.2,google_gsv_010760,sub_saharan_africa,"{""safe"":58,""lively"":12,""wealthy"":32,""beautiful"":34,""boring"":76,""depressing"
+GPT-5.2,google_gsv_023504,sub_saharan_africa,"{""safe"":78,""lively"":22,""wealthy"":55,""beautiful"
+GPT-5.2,google_gsv_023065,sub_saharan_africa,"{""safe"":45,""lively"":20,""wealthy"":40,""beautiful"":25,""boring"":"
+GPT-5.2,google_gsv_015196,sub_saharan_africa,"{""safe"":55,""lively"":10,""wealthy"":35,"""
+GPT-5.2,google_gsv_000490,northern_africa_western_asia,"{
+  ""safe"": 72,
+  ""lively"": 18,
+  ""wealthy"": 40,
+  ""beautiful"": 58,
+  ""boring"":"
+GPT-5.2,google_gsv_011868,sub_saharan_africa,"{""safe"":78,""lively"":32,""wealthy"":60,""beautiful"":58"
+GPT-5.2,google_gsv_019120,sub_saharan_africa,"{
+  ""safe"": 63,
+  ""lively"": 18,
+  ""wealthy"": 32,
+  ""beautiful"": 62,
+  ""boring"":"
+GPT-5.2,google_gsv_028691,sub_saharan_africa,"{""safe"":73,""lively"":15,""wealthy"
+GPT-5.2,google_gsv_026714,sub_saharan_africa,"{""safe"":"
+GPT-5.2,google_gsv_012164,northern_africa_western_asia,"{
+  ""safe"": 78,
+  ""lively"": 42,
+  ""wealthy"": 60,
+  ""beautiful"": 63,
+  ""boring"
+GPT-5.2,google_gsv_003886,sub_saharan_africa,"{""safe"":68,""lively"":12,""wealthy"":55,""beautiful"":28,""boring"":78,""de"
+GPT-5.2,google_gsv_017788,sub_saharan_africa,"{""safe"":78,""lively"":22,""wealthy"":55,""beautiful"":58,""boring"":72,""depressing"
+GPT-5.2,google_gsv_004418,northern_africa_western_asia,"{""safe"":72,""lively"":28,""wealthy"":48"
+GPT-5.2,google_gsv_015588,northern_africa_western_asia,"{""safe"":67,""lively"":32,""wealthy"":45,""beautiful"":58,""boring"":62,"""
+GPT-5.2,google_gsv_011545,northern_africa_western_asia,"{""safe"":62,""lively"":18,""wealthy"":30,""beautiful"":38,""boring"":"
+GPT-5.2,google_gsv_008099,sub_saharan_africa,"{""safe"":62,""lively"":28,""wealthy"":55,""beautiful"":50,""boring"":63,""depressing"
+GPT-5.2,google_gsv_014604,northern_africa_western_asia,"{""safe"":65,""lively"":18,""wealthy"":55,""beautiful"":30,""boring"":78,""de"
+GPT-5.2,google_gsv_005538,sub_saharan_africa,"{""safe"":72,""lively"":28,""wealthy"":55,""beautiful"":42,"""
+GPT-5.2,google_gsv_005538,east_southeast_asia,"{""safe"":62,""lively"":18,""wealthy"":36,""beautiful"":42,""boring"":74,"""
+GPT-5.2,google_gsv_028321,sub_saharan_africa,"{""safe"":72,""lively"":18,""wealthy"":32,""beautiful"":55,""boring"":74,""depressing"":"
+GPT-5.2,google_gsv_019341,sub_saharan_africa,"{""safe"":55,""lively"":15,""wealthy"":30,""beautiful"":40,""boring"":"
+GPT-5.2,google_gsv_000332,sub_saharan_africa,"{""safe"":65,""lively"":30,""wealthy"":35,""beautiful"":40,""boring"":70,""depressing"
+GPT-5.2,google_gsv_017510,sub_saharan_africa,"{""safe"":68,""lively"":10,""wealthy"":22,""beautiful"":55,""boring"":82,""de"
+GPT-5.2,google_gsv_017510,central_southern_asia,"{""safe"":68,""lively"":12,""wealthy"":22,""beautiful"":45,""boring"":"
+GPT-5.2,google_gsv_014735,sub_saharan_africa,"{""safe"":55,""lively"":12,""wealthy"":28"
+GPT-5.2,google_gsv_020149,sub_saharan_africa,"{""safe"":55,""lively"":10,""wealthy"":25,""beautiful"":35,""boring"":80,""depressing"
+GPT-5.2,google_gsv_021967,east_southeast_asia,"{""safe"":78,""lively"":18,""wealthy"":"
+GPT-5.2,google_gsv_000040,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":28"
+GPT-5.2,google_gsv_001449,sub_saharan_africa,"{""safe"":58,""lively"":52,""wealthy"":32,""beautiful"":35"
+GPT-5.2,google_gsv_003937,oceania,"{
+  ""safe"": 44,
+  ""lively"": 28,
+  ""wealthy"": 22,
+  ""beautiful"": 34,
+  ""boring"": 62,"
+GPT-5.2,google_gsv_008864,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":22,""beautiful"":54,""boring"":66,""de"
+GPT-5.2,google_gsv_008877,sub_saharan_africa,"{""safe"":55,""lively"":15,""wealthy"":20,""beautiful"":45,""boring"":75"
+GPT-5.2,google_gsv_009475,sub_saharan_africa,"{""safe"":62,""lively"":"
+GPT-5.2,google_gsv_009756,sub_saharan_africa,"{""safe"":58,""lively"":18,""wealthy"":"
+GPT-5.2,google_gsv_010051,sub_saharan_africa,"{""safe"":42,""lively"":15,""wealthy"":30,""beautiful"":28,""boring"":72,"""
+GPT-5.2,google_gsv_010217,sub_saharan_africa,"{""safe"":58,""lively"":22,""wealthy"":18,""beautiful"":45,""boring"":62,""depress"
+GPT-5.2,google_gsv_016674,sub_saharan_africa,"{""safe"":55"
+GPT-5.2,google_gsv_018481,sub_saharan_africa,"{""safe"":58,""lively"":18,""wealthy"":28,""beautiful"":46,""boring"":72"
+GPT-5.2,google_gsv_018749,sub_saharan_africa,"{""safe"":55,""lively"":15,""wealthy"":20,""beautiful"":60,""boring"":65,""depressing"
+GPT-5.2,google_gsv_020299,sub_saharan_africa,"{""safe"":58,""lively"":18,""wealthy"":34,""beautiful"":46,""boring"":72,""depressing"":"
+GPT-5.2,google_gsv_023054,latin_america_caribbean,"{""safe"":55,""lively"":12"
+GPT-5.2,google_gsv_025265,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":32,""beautiful"":45,""boring"":70,""depressing"
+GPT-5.2,google_gsv_026869,northern_africa_western_asia,"{""safe"":55,""lively"":30,""wealthy"":25,""beautiful"":35,""boring"
+GPT-5.2,google_gsv_028790,sub_saharan_africa,"{
+  ""safe"": 55,
+  ""lively"": 10,
+  ""wealthy"": 15,
+  ""beautiful"": 40,
+  ""boring"": 80,
+  ""de"
+GPT-5.2,google_gsv_005935,sub_saharan_africa,"{""safe"":45,""lively"":35,""wealthy"":30,""beautiful"":25,""boring"":"
+GPT-5.2,google_gsv_005957,northern_africa_western_asia,"{
+  ""safe"": 72,
+  ""lively"": 15,
+  ""wealthy"": 40,
+  ""beautiful"": 48,
+  ""boring"": 75,
+  ""depressing"":"
+GPT-5.2,google_gsv_006069,east_southeast_asia,"{""safe"":62,""lively"":18,""wealthy"":35,""beautiful"":42,"""
+GPT-5.2,google_gsv_006590,latin_america_caribbean,"{""safe"":68,""lively"":22,""wealthy"":45,""beautiful"":40,""boring"":72,"""
+GPT-5.2,google_gsv_000684,sub_saharan_africa,"{""safe"":55,""lively"":10,""wealthy"":35,""beautiful"":40,""boring"":80,""depressing"
+GPT-5.2,google_gsv_000700,northern_africa_western_asia,"{""safe"":55,""lively"":25,""wealthy"":30,""beautiful"":25,""boring"":70,""depress"
+GPT-5.2,google_gsv_002657,sub_saharan_africa,"{""safe"":68,""lively"":28,""wealthy"":55,""beautiful"":35,""boring"":62,""depressing"":"
+GPT-5.2,google_gsv_003873,sub_saharan_africa,"{
+  ""safe"": 62,
+  ""lively"": 18,
+  ""wealthy"": 38,
+  ""beautiful"
+GPT-5.2,google_gsv_004228,sub_saharan_africa,"{""safe"":62,""lively"":55,""wealthy"":45,""beautiful"":38,""boring"":50,""depressing"
+GPT-5.2,google_gsv_004277,sub_saharan_africa,"{""safe"":55,""lively"":10,""wealthy"":20"
+GPT-5.2,google_gsv_004585,sub_saharan_africa,"{""safe"":62,""lively"":22,""wealthy"":"
+GPT-5.2,google_gsv_005124,sub_saharan_africa,"{""safe"":62,""lively"":8,""wealthy"":35"
+GPT-5.2,google_gsv_008364,northern_africa_western_asia,"{""safe"":62,""lively"":28,""wealthy"":40,""beautiful"":35,""boring"":68,""de"
+GPT-5.2,google_gsv_008789,east_southeast_asia,"{""safe"":62,""lively"":48,""wealthy"":38,""beautiful"":42,"""
+GPT-5.2,google_gsv_011167,northern_africa_western_asia,"{""safe"":67,""lively"":28,""wealthy"
+GPT-5.2,google_gsv_012523,sub_saharan_africa,"{""safe"":60,""lively"
+GPT-5.2,google_gsv_014749,central_southern_asia,"{""safe"":55,""lively"":20,""wealthy"":35,""beautiful"":30,""boring"":75,""depressing"
+GPT-5.2,google_gsv_015371,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":38,""beautiful"":28,"""
+GPT-5.2,google_gsv_015808,sub_saharan_africa,"{""safe"":55,""lively"":30,""wealthy"":25,""beautiful"":20,""boring"
+GPT-5.2,google_gsv_018526,sub_saharan_africa,"{""safe"":55,""lively"":10,""wealthy"":20,""beautiful"":30,""boring"":80,""depressing"":"
+GPT-5.2,google_gsv_019991,northern_africa_western_asia,"{
+  ""safe"": 62,
+  ""lively"": 18,
+  ""wealthy"": 32,
+  ""beautiful"": 55,
+  ""boring"":"
+GPT-5.2,google_gsv_019991,sub_saharan_africa,"{""safe"":55,""lively"":20,""wealthy"":35,""beautiful"":50,"""
+GPT-5.2,google_gsv_020702,northern_africa_western_asia,"{""safe"":45,""lively"":52,""wealthy"":35,""beautiful"":25,""boring"":48,""de"
+GPT-5.2,google_gsv_022201,northern_africa_western_asia,"{""safe"":55,""lively"":30,""wealthy"":25,""beautiful"":35,""boring"":70,""depressing"":"
+GPT-5.2,google_gsv_022561,latin_america_caribbean,"{""safe"":62,""lively"":28,""wealthy"":36,""beautiful"":32,""boring"":67,""depressing"
+GPT-5.2,google_gsv_024110,northern_africa_western_asia,"{
+  ""safe"": 68,
+  ""lively"": 42,
+  ""wealthy"": 45,
+  ""beautiful"": 52,
+  ""boring"": 58,"
+GPT-5.2,google_gsv_024186,northern_africa_western_asia,"{""safe"":72,""lively"":10,""wealthy"":22,""beautiful"
+GPT-5.2,google_gsv_024467,east_southeast_asia,"{
+  ""safe"": 78,
+  ""lively"": 22,
+  ""wealthy"": 62,
+  ""beautiful"": 70,
+  ""boring"
+GPT-5.2,google_gsv_025066,northern_africa_western_asia,"{""safe"":"
+GPT-5.2,google_gsv_026770,sub_saharan_africa,"{""safe"":62,""lively"":28"
+GPT-5.2,google_gsv_026770,central_southern_asia,"{""safe"":62,""lively"":22,""wealthy"":30,""beautiful"":28,""boring"":74,""de"
+GPT-5.2,google_gsv_027881,sub_saharan_africa,"{""safe"":55,""lively"":40,""wealthy"":35,""beautiful"":38,""boring"":60"
+GPT-5.2,google_gsv_028792,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":32,""beautiful"":34,""boring"":74"
+GPT-5.2,google_gsv_029404,east_southeast_asia,"{
+  ""safe"": 48,
+  ""lively"": 62,
+  ""wealthy"": 40,
+  ""beautiful"": 34,
+  ""boring"": 46,
+  ""de"
+GPT-5.2,google_gsv_016329,sub_saharan_africa,"{""safe"":72,""lively"":18,""wealthy"":55,""beautiful"":42,""boring"":74,""de"
+GPT-5.2,google_gsv_017061,northern_africa_western_asia,"{""safe"
+GPT-5.2,google_gsv_023389,sub_saharan_africa,"{""safe"":72,""lively"":18,""wealthy"":55"
+GPT-5.2,google_gsv_023389,northern_africa_western_asia,"{""safe"":58,""lively"":18,""wealthy"":38,""beautiful"":24,""boring"":74,""depressing"
+GPT-5.2,google_gsv_003465,northern_africa_western_asia,"{""safe"":55,""lively"":10,""wealthy"":30,""beautiful"
+GPT-5.2,google_gsv_010107,sub_saharan_africa,"{""safe"":78,""lively"":18,""wealthy"":62,""beautiful"":58,""boring"":"
+GPT-5.2,google_gsv_018958,east_southeast_asia,"{""safe"":72,""lively"":18,""wealthy"":55,""beautiful"":52,""boring"":74,""de"
+GPT-5.2,google_gsv_005552,northern_africa_western_asia,"{""safe"":58,"""
+GPT-5.2,google_gsv_015622,sub_saharan_africa,"{""safe"":72,""lively"":28,""wealthy"":55,""beautiful"
+GPT-5.2,google_gsv_015622,northern_africa_western_asia,"{
+  ""safe"": 62,
+  ""lively"": 22,
+  ""wealthy"": 40,
+  ""beautiful"":"
+GPT-5.2,google_gsv_021126,northern_africa_western_asia,"{
+  ""safe"": 78,
+  ""lively"": 22,
+  ""wealthy"": 48,
+  ""beautiful"": 55,
+  ""boring"": 70,
+  ""depress"
+GPT-5.2,google_gsv_028141,east_southeast_asia,"{""safe"":55,""lively"":20,""wealthy"":30,""beautiful"":25,""boring"":70,""depressing"
+GPT-5.2,google_gsv_026146,sub_saharan_africa,"{""safe"":70,""lively"":25,""wealthy"":45,""beautiful"":55,""boring"":"
+GPT-5.2,google_gsv_019734,sub_saharan_africa,"{""safe"":72,""lively"":18,""wealthy"":63,""beautiful"":44,""boring"":78,""depress"
+GPT-5.2,google_gsv_011667,sub_saharan_africa,"{
+  ""safe"": 82,
+  ""lively"": 18,
+  ""wealthy"": 62,
+  ""beautiful"": 55,
+  ""boring"": 74"
+GPT-5.2,google_gsv_012484,sub_saharan_africa,"{""safe"":78,""lively"
+GPT-5.2,google_gsv_030061,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":28,""beautiful"":42,""boring"":74,""de"
+GPT-5.2,google_gsv_026765,northern_africa_western_asia,"{""safe"":65,""lively"":15,""wealthy"":45,""beautiful"":40"
+GPT-5.2,google_gsv_009645,sub_saharan_africa,"{""safe"":62,""lively"":22,""wealthy"":38,"""
+GPT-5.2,google_gsv_018667,sub_saharan_africa,"{""safe"":55,""lively"":15,""wealthy"":20,""beautiful"":30,""boring"":75,"""
+GPT-5.2,google_gsv_021544,northern_africa_western_asia,"{""safe"":68,""lively"":18,""wealthy"":38,""beautiful"":34,"""
+GPT-5.2,google_gsv_027051,sub_saharan_africa,"{""safe"":72,""l"
+GPT-5.2,google_gsv_002673,sub_saharan_africa,"{""safe"":72,""lively"":18,""wealthy"":55,""beautiful"":"
+GPT-5.2,google_gsv_004329,latin_america_caribbean,"{""safe"":62,""lively"":18,""wealthy"":35,""beautiful"":30,""boring"":74"
+GPT-5.2,google_gsv_025579,northern_africa_western_asia,"{""safe"":78,""lively"":22,""wealthy"":55,""beautiful"":58,""boring"":66,""de"
+GPT-5.2,google_gsv_028302,sub_saharan_africa,"{""safe"":72,""lively"":18,""wealthy"":45,""beautiful"":52"
+GPT-5.2,google_gsv_012963,sub_saharan_africa,"{""safe"":78,""lively"":18,""wealthy"":45,""beautiful"":52,""boring"":72,""depress"
+GPT-5.2,google_gsv_028257,east_southeast_asia,"{""safe"":68,""lively"":18,""wealthy"":42,""beautiful"":36,""boring"":74,""depressing"":"
+GPT-5.2,google_gsv_029023,northern_africa_western_asia,"{""safe"":75,""lively"":30,""wealthy"":50,""beautiful"":45,""boring"":70,""de"
+GPT-5.2,google_gsv_019860,europe_northern_america,"{""safe"":52,""lively"":8,""wealthy"":28,""beautiful"":32,""boring"":78,""depressing"
+GPT-5.2,google_gsv_018135,sub_saharan_africa,"{""safe"":70,""l"
+GPT-5.2,google_gsv_015746,sub_saharan_africa,"{
+  ""safe"": 72,
+  ""lively"": 28,
+  ""wealthy"": 52,
+  ""beautiful"": 43,
+  ""boring"": 68"
+GPT-5.2,google_gsv_009128,northern_africa_western_asia,"{
+  ""safe"": 78,
+  ""lively"": 20,
+  ""wealthy"": 52,
+  ""beautiful"": 55,
+  ""boring"": 72,"
+GPT-5.2,google_gsv_021624,sub_saharan_africa,"{""safe"":75,""lively"":30,""wealthy"":70,""beautiful"":45,""boring"
+GPT-5.2,google_gsv_016982,sub_saharan_africa,"{""safe"":55,""lively"":10,""wealthy"":60,""beautiful"
+GPT-5.2,google_gsv_029208,sub_saharan_africa,"{""safe"":68,""lively"":12,""wealthy"":35,""beautiful"":55"
+GPT-5.2,google_gsv_002613,sub_saharan_africa,"{""safe"":78"
+GPT-5.2,google_gsv_011087,central_southern_asia,"{""safe"":65,""lively"":20"
+GPT-5.2,google_gsv_023509,northern_africa_western_asia,"{""safe"":78,""lively"":18,""wealthy"":"
+GPT-5.2,google_gsv_006637,sub_saharan_africa,"{""safe"":78,""lively"":18,""wealthy"":32,""beautiful"":74,""boring"":68,""depress"
+GPT-5.2,google_nan,sub_saharan_africa,"{""safe"":68,""lively"":18,""wealthy"":40,""beautiful"":55,""bor"
+GPT-5.2,google_nan,northern_africa_western_asia,"{""safe"":55,""lively"":10,""wealthy"":25,""beautiful"":45,""boring"":75"
+GPT-5.2,google_nan,sub_saharan_africa,"{
+  ""safe"": 52,
+  ""lively"": 28,
+  ""wealthy"":"
+GPT-5.2,google_nan,europe_northern_america,"{
+  ""safe"": 68,
+  ""lively"": 45,
+  ""wealth"
+GPT-5.2,google_nan,sub_saharan_africa,"{""safe"":"
+GPT-5.2,google_gsv_007111,sub_saharan_africa,"{""safe"":52,""lively"":60,""wealthy"":28,""beautiful"":32,""boring"":35,""depress"
+GPT-5.2,google_gsv_007111,east_southeast_asia,"{""safe"":42,""lively"":58"
+GPT-5.2,google_nan,central_southern_asia,"{
+  ""safe"": 82,
+  ""lively"": 28,
+  ""wealthy"": 70,
+  ""beautiful"": 62,
+  ""boring"": 58"
+GPT-5.2,google_nan,sub_saharan_africa,"{""safe"":55,""lively"":45,""wealthy"":"
+GPT-5.2,google_nan,sub_saharan_africa,"{""safe"":72,""lively"":18,""wealthy"":45"
+GPT-5.2,google_nan,sub_saharan_africa,"{""safe"":58,""lively"":18"
+GPT-5.2,google_gsv_006262,sub_saharan_africa,"{""safe"":68,""lively"":18,""wealthy"":28,""beautiful"":62,""boring"":"
+GPT-5.2,google_nan,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":32,""beautiful"":64"
+GPT-5.2,google_nan,sub_saharan_africa,"{""safe"":65,""lively"":20,""wealthy"":35,""beautiful"":55,""boring"":70"
+GPT-5.2,google_nan,sub_saharan_africa,"{""safe"":62,""lively"":28,""wealthy"":38,"""
+GPT-5.2,google_nan,sub_saharan_africa,"{""safe"":62,""lively"":22,""wealthy"
+GPT-5.2,google_gsv_007149,northern_africa_western_asia,"{""safe"":62,""lively"":28,""wealthy"":35,""beautiful"":55,""boring"":70,""depressing"
+GPT-5.2,google_nan,sub_saharan_africa,"{""safe"":62,""lively"":15,""wealthy"":35,""beautiful"":55,""boring"":70,""depressing"":"
+GPT-5.2,google_nan,central_southern_asia,"{""safe"":63,""lively"":20,""wealthy"":28,""beautiful"":62,""boring"
+GPT-5.2,google_nan,sub_saharan_africa,"{""safe"":62,""lively"":22,""wealthy"":28,""beautiful"":48,"""
+GPT-5.2,google_nan,sub_saharan_africa,"{""safe"":"
+GPT-5.2,google_gsv_012148,northern_africa_western_asia,"{""safe"":62,""lively"":18,""wealthy"":32,""beautiful"":28,""boring"":74"
+GPT-5.2,google_gsv_014819,northern_africa_western_asia,"{""safe"":62,""lively"":18,""wealthy"":30,""beautiful"
+GPT-5.2,google_gsv_023534,sub_saharan_africa,"{""safe"":42,""lively"":10,""wealthy"":18,""beautiful"":28,""bor"
+GPT-5.2,google_gsv_024477,sub_saharan_africa,"{
+  ""safe"": 55,
+  ""lively"": 15,
+  ""wealthy"": 25,
+  ""beautiful"": 30,
+  ""boring"":"
+GPT-5.2,google_gsv_000670,sub_saharan_africa,"{""safe"":62"
+GPT-5.2,google_gsv_019775,sub_saharan_africa,"{""safe"":65,""lively"":20,""wealthy"":55,""beautiful"":"
+GPT-5.2,google_gsv_022164,sub_saharan_africa,"{""safe"":62,"""
+GPT-5.2,google_gsv_022882,northern_africa_western_asia,"{""safe"":72,""lively"":18,""wealthy"":55,""beautiful"":60,""boring"":74,"""
+GPT-5.2,google_gsv_014260,sub_saharan_africa,"{""safe"":78,""lively"":18,""wealthy"":32"
+GPT-5.2,google_gsv_010023,northern_africa_western_asia,"{""safe"":52,""lively"":38,""wealthy"":28,""beautiful"":34,""bor"
+GPT-5.2,google_gsv_022874,latin_america_caribbean,"{
+  ""safe"": 55,
+  ""lively"": 20,
+  ""wealthy"": 25,
+  ""beautiful"": 40,
+  ""boring"": 70,
+  ""depressing"":"
+GPT-5.2,google_gsv_010862,sub_saharan_africa,"{""safe"":62,""lively"":28,""wealthy"":40,""beautiful"":34"
+GPT-5.2,google_gsv_010862,central_southern_asia,"{""safe"":62,""lively"":45,""wealthy"":40,""beautiful"":38,"""
+GPT-5.2,google_gsv_016342,sub_saharan_africa,"{""safe"":45,""lively"":20,""wealthy"":25,""beautiful"":30,""boring"
+GPT-5.2,google_gsv_002665,sub_saharan_africa,"{""safe"":62,""lively"":28,""wealthy"":45,""beautiful"":48,""boring"":66,""depressing"":"
+GPT-5.2,google_gsv_029922,sub_saharan_africa,"{""safe"":55,""lively"":10,""wealthy"":15,""beautiful"":45"
+GPT-5.2,google_gsv_014330,latin_america_caribbean,"{""safe"":42,""lively"":8,""wealthy"":12,""beautiful"":28,""boring"":78,""depressing"
+GPT-5.2,google_gsv_004563,sub_saharan_africa,"{""safe"":58,""lively"":18,""wealthy"":22,""beautiful"":55,""boring"":68,""depress"
+GPT-5.2,google_gsv_026283,sub_saharan_africa,"{""safe"":45,""lively"":5,""wealthy"":10,""beautiful"":20,""boring"":85,""depressing"":"
+GPT-5.2,google_gsv_011420,sub_saharan_africa,"{""safe"":52,""lively"":12,""wealthy"":"
+GPT-5.2,google_gsv_012233,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":30,""beautiful"":"
+GPT-5.2,google_gsv_029647,northern_africa_western_asia,"{
+  ""safe"": 62,
+  ""lively"": 18,
+  ""wealthy"": 32,
+  ""beautiful"": 38,
+  ""boring"": 72,
+  ""depress"
+GPT-5.2,google_gsv_021257,sub_saharan_africa,"{""safe"":72,""lively"":18,""wealth"
+GPT-5.2,google_gsv_000865,east_southeast_asia,"{
+  ""safe"": 62,
+  ""lively"": 24,
+  ""wealthy"": 32,
+  ""beautiful"":"
+GPT-5.2,google_gsv_011675,sub_saharan_africa,"{""safe"":55,""lively"":20,""wealthy"":30,""beautiful"":25,""boring"":"
+GPT-5.2,google_gsv_011675,northern_africa_western_asia,"{
+  ""safe"": 52,
+  ""lively"": 18,
+  ""wealthy"":"
+GPT-5.2,google_gsv_022161,northern_africa_western_asia,"{""safe"":68,""lively"":28,""wealthy"":34,""beautiful"":55,""bor"
+GPT-5.2,google_gsv_026466,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":22,""beautiful"":48,""boring"
+GPT-5.2,google_gsv_011798,sub_saharan_africa,"{""safe"":62,""lively"":28,""wealthy"":34,""beautiful"":55,"""
+GPT-5.2,google_gsv_012217,central_southern_asia,"{""safe"":67,""lively"":18,""wealthy"":32,""beautiful"":46,""boring"":72,"""
+GPT-5.2,google_gsv_014728,northern_africa_western_asia,"{""safe"":76,""lively"":18,""wealthy"":52,""beautiful"":57,""boring"
+GPT-5.2,google_gsv_022565,sub_saharan_africa,"{""safe"":55,""lively"":20,""wealthy"":30,""beautiful"":45,""boring"":70,""de"
+GPT-5.2,google_gsv_019432,sub_saharan_africa,"{""safe"":72,""lively"":22,""wealthy"":55,""beautiful"":48,""boring"":70,""de"
+GPT-5.2,google_gsv_014922,sub_saharan_africa,"{
+  ""safe"": 62,
+  """
+GPT-5.2,google_gsv_017085,sub_saharan_africa,"{""safe"":55,""lively"":15,""wealthy"":"
+GPT-5.2,google_gsv_027373,sub_saharan_africa,"{""safe"":55,""lively"":20,""wealthy"":30,""beautiful"":45"
+GPT-5.2,google_gsv_024173,sub_saharan_africa,"{""safe"":82,""lively"":28,""wealthy"":68,""beautiful"":60,""boring"
+GPT-5.2,google_gsv_013041,sub_saharan_africa,"{""safe"":58,""lively"":18,""wealthy"":42,""beautiful"":34,""boring"":72,""depressing"
+GPT-5.2,google_gsv_003042,northern_africa_western_asia,"{""safe"":58,""lively"":22,""wealthy"":28,""beautiful"":40,""boring"":70,""de"
+GPT-5.2,google_gsv_017116,sub_saharan_africa,"{""safe"":55,""lively"":20,""wealthy"":25,""beautiful"":45,""boring"":75,""de"
+GPT-5.2,google_gsv_004744,sub_saharan_africa,"{"""
+GPT-5.2,google_gsv_002819,sub_saharan_africa,"{""safe"":62,""lively"":12,""wealthy"":22,""beautiful"":48,""boring"":74,""depressing"
+GPT-5.2,google_gsv_028741,northern_africa_western_asia,"{
+  ""safe"": 55,
+  ""lively"": 15,
+  ""wealthy"": 35,
+  ""beautiful"
+GPT-5.2,google_gsv_018219,sub_saharan_africa,"{""safe"":62,""lively"":22,""wealthy"":28"
+GPT-5.2,google_gsv_030192,sub_saharan_africa,"{""safe"":72,""lively"":18,""wealthy"":35,""beautiful"":78,""boring"":62,""de"
+GPT-5.2,google_gsv_012908,sub_saharan_africa,"{
+  ""safe"": 62,
+  ""lively"": 55,
+  ""wealthy"": 40,
+  ""beautiful"": 38,"
+GPT-5.2,google_gsv_012908,northern_africa_western_asia,"{""safe"":62,""lively"":46,""wealthy"":38,""beautiful"":44,""boring"":55,""depress"
+GPT-5.2,google_gsv_005181,northern_africa_western_asia,"{""safe"":68,""lively"":22,""wealthy"":62,""beautiful"":55,""boring"":71"
+GPT-5.2,google_gsv_017625,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":32,""beautiful"":58,"""
+GPT-5.2,google_gsv_024563,oceania,"{""safe"":58,""lively"":18,""wealthy"":32,""beautiful"":62,""boring"":66"
+GPT-5.2,google_gsv_014559,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":22,""beautiful"":58,""boring"":74,""de"
+GPT-5.2,google_gsv_015945,northern_africa_western_asia,"{""safe"":46,""lively"":28,""wealthy"":18,""beautiful"
+GPT-5.2,google_gsv_026103,northern_africa_western_asia,"{
+  ""safe"": 55,
+  ""lively"": 15,
+  ""wealthy"": 30,
+  ""beautiful"": 35,
+  ""boring"": 80,
+  ""depressing"":"
+GPT-5.2,google_gsv_026103,sub_saharan_africa,"{
+  ""safe"": 58,
+  ""lively"": 12,
+  ""wealthy"": 35,
+  ""beautiful"": 40,
+  ""boring"": 78,
+  ""de"
+GPT-5.2,google_gsv_000727,northern_africa_western_asia,"{""safe"":45,""lively"":15,""wealthy"":"
+GPT-5.2,google_gsv_000727,latin_america_caribbean,"{
+  ""safe"": 43,
+  ""lively"": 18,
+  ""wealthy"": 34,
+  ""beautiful"": 27,
+  ""boring"": 74,"
+GPT-5.2,google_gsv_000727,central_southern_asia,"{""safe"":55,""lively"":18,""wealthy"":"
+GPT-5.2,google_gsv_002140,sub_saharan_africa,"{""safe"":65,""lively"":30,""wealthy"":25,""beautiful"":45,""boring"":60,""de"
+GPT-5.2,google_gsv_003187,northern_africa_western_asia,"{
+  ""safe"": 58,
+  ""lively"": 12,
+  ""wealthy"": 22,
+  ""beautiful"": 55,
+  ""boring"": 78,
+  ""depressing"":"
+GPT-5.2,google_gsv_030219,sub_saharan_africa,"{""safe"":68,""lively"":18,""wealthy"":28,""beautiful"":42,""boring"":"
+GPT-5.2,google_gsv_002059,sub_saharan_africa,"{""safe"":58,""lively"":42,""wealthy"":32,""beautiful"":28"
+GPT-5.2,google_gsv_013817,central_southern_asia,"{""safe"":62,""lively"":15,""wealthy"":35,""beautiful"":40,""boring"":78,""depressing"
+GPT-5.2,google_gsv_009984,sub_saharan_africa,"{""safe"":70,""lively"":25,""wealthy"":60,""beautiful"":55,""boring"":75,""depressing"":"
+GPT-5.2,google_gsv_018625,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":28,""beautiful"":45,""boring"
+GPT-5.2,google_gsv_018625,central_southern_asia,"{""safe"":58,""lively"":12,""wealthy"":22,""beautiful"":40,""boring"":78,""depressing"
+GPT-5.2,google_gsv_010839,sub_saharan_africa,"{""safe"":68,""lively"":22,""wealthy"":38,""beautiful"":55,""boring"":70,""depressing"":"
+GPT-5.2,google_gsv_012791,sub_saharan_africa,"{""safe"":56,""lively"":22,""wealthy"":25,""beautiful"":28,""bor"
+GPT-5.2,google_gsv_001014,northern_africa_western_asia,"{""safe"":58,""lively"":22,""wealthy"":30,""beautiful"":36,""boring"":62,""depressing"":"
+GPT-5.2,google_gsv_014208,sub_saharan_africa,"{""safe"":54,""lively"":12,""wealthy"":18,""beautiful"":45,""boring"":78,""depress"
+GPT-5.2,google_gsv_013899,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":35,""beautiful"":"
+GPT-5.2,google_gsv_013899,northern_africa_western_asia,"{""safe"":62,""lively"":18,""wealthy"":28,""beautiful"":34,""boring"":70,""depress"
+GPT-5.2,google_gsv_011115,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":28,""beautiful"":40,""boring"":72,""depressing"
+GPT-5.2,google_gsv_027943,northern_africa_western_asia,"{""safe"":55,""lively"":10,""wealthy"":20,"""
+GPT-5.2,google_gsv_023494,central_southern_asia,"{""safe"":62,""lively"":38,""wealthy"":45,""beautiful"":34,""boring"":66,""depressing"":"
+GPT-5.2,google_gsv_021860,central_southern_asia,"{""safe"":68,""lively"":18,""wealthy"":24,""beautiful"":46,""boring"":"
+GPT-5.2,google_gsv_004476,central_southern_asia,"{""safe"":62,""lively"":18,""wealthy"":22,""beautiful"":46,""boring"":74,""depress"
+GPT-5.2,google_gsv_019855,sub_saharan_africa,"{""safe"":55,""lively"":"
+GPT-5.2,google_gsv_021373,sub_saharan_africa,"{""safe"":45,""lively"":15,""wealthy"":20,""beautiful"":30,""bor"
+GPT-5.2,google_gsv_015238,sub_saharan_africa,"{""safe"":72,""lively"":18,""wealthy"":48"
+GPT-5.2,google_gsv_014898,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":28,""beautiful"":34,""boring"":74,""depressing"
+GPT-5.2,google_gsv_014614,sub_saharan_africa,"{""safe"
+GPT-5.2,google_gsv_002850,sub_saharan_africa,"{""safe"":62,""lively"
+GPT-5.2,google_gsv_002850,northern_africa_western_asia,"{""safe"":55,""lively"":10,""wealthy"":40,""beautiful"":35,""boring"
+GPT-5.2,google_gsv_014389,sub_saharan_africa,"{""safe"":58,""lively"":18,""wealthy"":22,""beautiful"":32,""boring"":74,""de"
+GPT-5.2,google_gsv_010872,latin_america_caribbean,"{
+  ""safe"": 52,
+  ""lively"": 28,
+  ""wealthy"": 20,
+  ""beautiful"": 55,
+  ""boring"":"
+GPT-5.2,google_gsv_010872,northern_africa_western_asia,"{""safe"":58,""lively"":32,""wealthy"":22,""beautiful"":"
+GPT-5.2,google_gsv_000823,sub_saharan_africa,"{""safe"":68,""lively"":18,""wealthy"":35,""beautiful"":45,"""
+GPT-5.2,google_gsv_027437,northern_africa_western_asia,"{""safe"":62,""lively"":18,""wealth"
+GPT-5.2,google_gsv_003221,sub_saharan_africa,"{""safe"":78,""lively"":22,""wealthy"":63,""beautiful"":54,""boring"":71,""depressing"
+GPT-5.2,google_gsv_002115,sub_saharan_africa,"{""safe"":62,""lively"":18"
+GPT-5.2,google_gsv_019577,northern_africa_western_asia,"{""safe"":32,""lively"":12,""wealthy"":8,""beautiful"":18,""bor"
+GPT-5.2,google_gsv_016130,sub_saharan_africa,"{""safe"":28,""lively"":15,""wealth"
+GPT-5.2,google_gsv_022978,northern_africa_western_asia,"{""safe"":70,""lively"":20,""wealthy"":40,""beautiful"":35,""boring"":75,""depress"
+GPT-5.2,google_gsv_010947,sub_saharan_africa,"{""safe"":72,""lively"":"
+GPT-5.2,google_gsv_024428,sub_saharan_africa,"{""safe"":65,""lively"":18"
+GPT-5.2,google_gsv_008240,sub_saharan_africa,"{""safe"":55,""lively"":10,""wealthy"":25,""beautiful"":45,""boring"":"
+GPT-5.2,google_gsv_019654,sub_saharan_africa,"{""safe"":58,""lively"":12,""wealthy"":28,""beautiful"":45,""bor"
+GPT-5.2,google_gsv_024089,sub_saharan_africa,"{""safe"":"
+GPT-5.2,google_gsv_003757,east_southeast_asia,"{""safe"":62,""lively"":18,""wealthy"":28,""beautiful"":35,""boring"":78"
+GPT-5.2,google_gsv_002907,sub_saharan_africa,"{""safe"":68,""lively"":12,""wealthy"":18,""beautiful"":55,""boring"":78,""depressing"":"
+GPT-5.2,google_gsv_009980,sub_saharan_africa,"{""safe"":45,""lively"":10,""wealthy"":30,""beautiful"":25,""boring"
+GPT-5.2,google_gsv_020863,sub_saharan_africa,"{""safe"":68,""lively"":18,""wealthy"":55,""beautiful"":40,"""
+GPT-5.2,google_gsv_004151,sub_saharan_africa,"{""safe"":55,""lively"":10,""wealthy"":25,""beautiful"":45,""bor"
+GPT-5.2,google_gsv_002732,sub_saharan_africa,"{""safe"":58,""lively"":35,""wealthy"":40,""beautiful"":55,""boring"":62,""de"
+GPT-5.2,google_gsv_022790,sub_saharan_africa,"{""safe"":62,""lively"":28,""wealthy"":35,""beautiful"":55,""boring"":66,"""
+GPT-5.2,google_gsv_000841,sub_saharan_africa,"{""safe"":62,""lively"":12,""wealthy"":28"
+GPT-5.2,google_gsv_025806,sub_saharan_africa,"{
+  ""safe"": 58,
+  ""lively"": 18,
+  ""wealthy"": 55,
+  ""beautiful"": 34"
+GPT-5.2,google_gsv_019971,central_southern_asia,"{""safe"":55,""lively"":15,""wealthy"":20,""beautiful"":25,""boring"":75,""depressing"
+GPT-5.2,google_gsv_026078,sub_saharan_africa,"{""safe"":45,""lively"":15,""wealthy"":30,""beautiful"":35,""boring"":75,""depressing"
+GPT-5.2,google_gsv_000930,northern_africa_western_asia,"{""safe"":62,""lively"":38,""wealthy"":32,""beautiful"":46,""boring"":58,""depressing"":"
+GPT-5.2,google_gsv_000930,east_southeast_asia,"{""safe"":58,"""
+GPT-5.2,google_gsv_028798,sub_saharan_africa,"{""safe"":68,""lively"":12,""wealthy"":35,""beautiful"":42,""boring"":78,""de"
+GPT-5.2,google_gsv_016327,sub_saharan_africa,"{""safe"":60,""lively"":15,""wealthy"":25,""beautiful"":45,""bor"
+GPT-5.2,google_gsv_003740,sub_saharan_africa,"{""safe"":60,""lively"":18,""wealthy"
+GPT-5.2,google_gsv_023983,sub_saharan_africa,"{""safe"":62,""lively"":28,""wealthy"":30,""beautiful"":46,""boring"":66,"""
+GPT-5.2,google_gsv_023983,northern_africa_western_asia,"{""safe"":62,""lively"":38,""wealthy"":32,""beautiful"":45,""boring"
+GPT-5.2,google_gsv_000724,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":38,""beautiful"":"
+GPT-5.2,google_gsv_011886,sub_saharan_africa,"{""safe"":55,""lively"":25,""wealthy"":40,""beautiful"":35,""boring"":65"
+GPT-5.2,google_gsv_001777,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":25,""beautiful"":48,""boring"":72,""depressing"":"
+GPT-5.2,google_gsv_026024,sub_saharan_africa,"{""safe"":78,""lively"":18,""wealthy"":55,""beautiful"":82,""boring"
+GPT-5.2,google_gsv_005191,sub_saharan_africa,"{""safe"":62,""lively"":12,""wealthy"":35"
+GPT-5.2,google_gsv_014112,sub_saharan_africa,"{""safe"":55,""lively"":15,""wealthy"":35,""beautiful"":50,""boring"":75,""de"
+GPT-5.2,google_gsv_029604,sub_saharan_africa,"{""safe"":42,""lively"":38,""wealthy"":22,""beautiful"
+GPT-5.2,google_gsv_015698,northern_africa_western_asia,"{""safe"":62,""lively"":18,""wealthy"":22,""beautiful"":46,""boring"":68"
+GPT-5.2,google_gsv_005146,sub_saharan_africa,"{""safe"":58,""lively"":28,""wealthy"
+GPT-5.2,google_gsv_023156,sub_saharan_africa,"{""safe"
+GPT-5.2,google_gsv_023156,central_southern_asia,"{
+  ""safe"": 62,
+  ""lively"": 38,
+  ""wealthy"": 32,
+  ""beautiful"": 45,
+  ""boring"": 58,"
+GPT-5.2,google_gsv_014053,sub_saharan_africa,"{""safe"":72,""lively"":28"
+GPT-5.2,google_gsv_002954,sub_saharan_africa,"{""safe"":68,""lively"":18,""wealthy"":30,""beautiful"":55,"""
+GPT-5.2,google_gsv_008516,sub_saharan_africa,"{""safe"":74,""lively"":28,""wealthy"":45,""beautiful"":82,""boring"":62"
+GPT-5.2,google_gsv_002505,sub_saharan_africa,"{""safe"":74,""lively"":18,""wealthy"":45,""beautiful"":56,""boring"":"
+GPT-5.2,google_gsv_002505,northern_africa_western_asia,"{
+  ""safe"": 72,
+  ""lively"": 18,
+  ""wealthy"": 45,
+  ""beautiful"": 52,
+  ""boring"": 78,"
+GPT-5.2,google_gsv_003348,northern_africa_western_asia,"{""safe"":62,""lively"":12,""wealthy"":38,""beautiful"":46,""boring"":"
+GPT-5.2,google_gsv_004102,sub_saharan_africa,"{""safe"":78,""lively"":22,""wealthy"":55,""beautiful"":"
+GPT-5.2,google_gsv_029365,sub_saharan_africa,"{""safe"":72,""lively"":18,""wealthy"":55,""beautiful"":28,""boring"":78,"""
+GPT-5.2,google_gsv_009628,sub_saharan_africa,"{""safe"":78,""lively"":22,""wealthy"":68,""beautiful"":"
+GPT-5.2,google_gsv_018283,northern_africa_western_asia,"{""safe"":62,""lively"":18,""wealthy"":32"
+GPT-5.2,google_gsv_029224,sub_saharan_africa,"{""safe"":72,""lively"":20,""wealthy"":45,""beautiful"":40,""bor"
+GPT-5.2,google_gsv_025707,northern_africa_western_asia,"{""safe"":68,"""
+GPT-5.2,google_gsv_013786,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":50,""beautiful"":28,""boring"":74"
+GPT-5.2,google_gsv_026321,sub_saharan_africa,"{""safe"":62,""lively"":38,""wealthy"":35,""beautiful"":34"
+GPT-5.2,google_gsv_001868,central_southern_asia,"{
+  ""safe"": 58,
+  ""lively"": 62,
+  ""wealthy"": 52,
+  ""beautiful"": 38,
+  ""boring"": 55,"
+GPT-5.2,google_gsv_000957,sub_saharan_africa,"{""safe"":74,""lively"":22,""wealthy"":55,""beautiful"":48,""boring"":68,"""
+GPT-5.2,google_gsv_015417,sub_saharan_africa,"{""safe"":78,""lively"":18,""wealthy"":"
+GPT-5.2,google_gsv_010339,northern_africa_western_asia,"{""safe"":67,""lively"":18,""wealthy"":32,""beautiful"":46,""boring"":74,""de"
+GPT-5.2,google_gsv_003289,sub_saharan_africa,"{""safe"":55,""lively"":15,""wealthy"":35"
+GPT-5.2,google_gsv_025793,sub_saharan_africa,"{""safe"":72,""lively"":18,""wealthy"":58,""beautiful"":"
+GPT-5.2,google_gsv_011055,central_southern_asia,"{
+  ""safe"": 78,
+  ""lively"": 32,
+  ""wealthy"": 64,
+  ""beautiful"": 82,
+  ""boring"": 62,
+  """
+GPT-5.2,google_gsv_029377,sub_saharan_africa,"{""safe"":65,""lively"":15,""wealthy"":30,""beautiful"":50,""boring"":"
+GPT-5.2,google_gsv_016457,sub_saharan_africa,"{""safe"":55,""lively"":10,""wealthy"":15,""beautiful"":35,""boring"":80,""depressing"
+GPT-5.2,google_gsv_016348,sub_saharan_africa,"{""safe"":72,""lively"":18,""wealthy"":38,""beautiful"":61,""boring"":74,"""
+GPT-5.2,google_gsv_021266,sub_saharan_africa,"{""safe"":72,""lively"":18,""wealthy"":45,""beautiful"":40,""boring"":78,""de"
+GPT-5.2,google_gsv_021266,northern_africa_western_asia,"{""safe"":62,""lively"":18,""wealthy"
+GPT-5.2,google_gsv_001798,central_southern_asia,"{""safe"":58,""lively"":22,""wealthy"":55,""beautiful"":34,""boring"":72,""de"
+GPT-5.2,google_gsv_025140,central_southern_asia,"{""safe"":62,""lively"":18,""wealthy"":30,""beautiful"":44,""boring"":72,""depressing"
+GPT-5.2,google_gsv_015133,northern_africa_western_asia,"{""safe"":78,""lively"":22,""wealthy"":62,""beautiful"":48,""boring"":66,""depress"
+GPT-5.2,google_gsv_015133,east_southeast_asia,"{""safe"":72,""lively"":22,""wealthy"":58,""beautiful"":46,""boring"
+GPT-5.2,google_gsv_010055,northern_africa_western_asia,"{
+  ""safe"": 55,
+  ""lively"": 25,
+  ""wealthy"": 20,
+  """
+GPT-5.2,google_gsv_021633,northern_africa_western_asia,"{
+  ""safe"": 55,
+  ""lively"": 60,
+  ""wealthy"": 30,
+  ""beautiful"": 40,
+  ""boring"": 45,"
+GPT-5.2,google_gsv_021633,latin_america_caribbean,"{
+  ""safe"": 45,
+  ""lively"": 55,
+  ""wealthy"": 25,
+  ""beautiful"": 35,
+  ""boring"":"
+GPT-5.2,google_gsv_029784,central_southern_asia,"{""safe"":45,""lively"":20,""wealthy"":35,""beautiful"":25,""boring"":"
+GPT-5.2,google_gsv_017837,sub_saharan_africa,"{""safe"":45,""lively"":15,""wealthy"":25,""beautiful"":30,""boring"":75,"""
+GPT-5.2,google_gsv_008575,northern_africa_western_asia,"{
+  ""safe"": 63,
+  ""lively"": 18,
+  ""wealthy"": 22,
+  ""beautiful"": 34,
+  ""boring"": 72,
+  ""de"
+GPT-5.2,google_gsv_008882,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":22,""beautiful"":44,""boring"":74,"""
+GPT-5.2,google_gsv_018053,sub_saharan_africa,"{
+  ""safe"": 42,
+  ""lively"": 18,
+  ""wealthy"": 20,
+  ""beautiful"": 34,
+  ""boring"":"
+GPT-5.2,google_gsv_023287,sub_saharan_africa,"{""safe"":55,""lively"":20,""wealthy"":30,""beautiful"":35,""boring"":65,""depressing"":"
+GPT-5.2,google_gsv_023662,sub_saharan_africa,"{""safe"":55,""lively"":20,""wealthy"":18,""beautiful"":35,""boring"":72,""depressing"":"
+GPT-5.2,google_gsv_013988,sub_saharan_africa,"{""safe"":62,""lively"":38,""wealthy"":35,""beautiful"":40,""bor"
+GPT-5.2,google_gsv_019575,northern_africa_western_asia,"{""safe"":43,""lively"
+GPT-5.2,google_gsv_018191,central_southern_asia,"{""safe"":62,""lively"":28,""wealthy"":32"
+GPT-5.2,google_gsv_015568,central_southern_asia,"{""safe"":62,""lively"":18,""wealthy"":32,""beautiful"
+GPT-5.2,google_gsv_000515,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":28,""beautiful"":34,""boring"":"
+GPT-5.2,google_gsv_027617,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":30,""beautiful"":45,""boring"":72,"""
+GPT-5.2,google_gsv_014680,europe_northern_america,"{""safe"":52,""lively"":18,""wealthy"":24,""beautiful"":40,""boring"":72,""depressing"":"
+GPT-5.2,google_gsv_002256,sub_saharan_africa,"{""safe"":62,""lively"":22,""wealthy"":35,""beautiful"":48,""boring"":64,"""
+GPT-5.2,google_gsv_004823,sub_saharan_africa,"{""safe"":62,""lively"
+GPT-5.2,google_gsv_010281,northern_africa_western_asia,"{
+  ""safe"": 52,
+  ""lively"": 45,
+  ""wealthy"": 28,
+  ""beautiful"": 34,
+  ""boring"": 56,
+  ""depressing"
+GPT-5.2,google_gsv_010083,sub_saharan_africa,"{""safe"":55,""lively"":25"
+GPT-5.2,google_gsv_023200,sub_saharan_africa,"{""safe"":58,""lively"":18,""wealthy"
+GPT-5.2,google_gsv_002814,neutral,"{""safe"":62,""lively"":38,""wealthy"":28,""beautiful"":46,""boring"":60,"""
+GPT-5.2,google_gsv_002814,central_southern_asia,"{""safe"":63,""lively"":38,""wealthy"":27,""beautiful"":55,""boring"":"
+GPT-5.2,google_gsv_013254,sub_saharan_africa,"{""safe"":48,""lively"":28,""wealthy"":26"
+GPT-5.2,google_gsv_014361,sub_saharan_africa,"{""safe"":62,""lively"":18"
+GPT-5.2,google_gsv_003454,northern_africa_western_asia,"{""safe"":55,""lively"":"
+GPT-5.2,google_gsv_003454,east_southeast_asia,"{""safe"":55,""lively"":15,""wealthy"":18,""beautiful"":30,""boring"":75,""de"
+GPT-5.2,google_gsv_023358,latin_america_caribbean,"{""safe"":55,""lively"":18,""wealthy"":25,""beautiful"":"
+GPT-5.2,google_gsv_010959,sub_saharan_africa,"{""safe"":72,""lively"":"
+GPT-5.2,google_gsv_010959,east_southeast_asia,"{""safe"":72,""lively"":18,""wealth"
+GPT-5.2,google_gsv_020159,sub_saharan_africa,"{""safe"":65,""l"
+GPT-5.2,google_gsv_019347,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":35,"""
+GPT-5.2,google_gsv_008750,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":52,""beautiful"":45,""boring"":"
+GPT-5.2,google_gsv_026597,northern_africa_western_asia,"{
+  ""safe"": 55,
+  ""lively"": 12,
+  ""wealthy"": 25,"
+GPT-5.2,google_gsv_008773,sub_saharan_africa,"{""safe"":78,""lively"":18,""wealthy"":52,""beautiful"":55,""boring"":70,""depressing"":"
+GPT-5.2,google_gsv_010591,northern_africa_western_asia,"{""safe"":52,""lively"":28,""wealthy"":35,""beautiful"":40,""boring"":62,"""
+GPT-5.2,google_gsv_010591,sub_saharan_africa,"{""safe"":55,""lively"":35,""wealthy"":30,""beautiful"":40,""bor"
+GPT-5.2,google_gsv_023407,sub_saharan_africa,"{""safe"":78,""lively"":22,""wealthy"":55,""beautiful"":"
+GPT-5.2,google_gsv_005610,northern_africa_western_asia,"{""safe"":58,""lively"":18,""wealthy"":32,""beautiful"":28,""boring"":70,""depressing"
+GPT-5.2,google_gsv_025520,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":38,""beautiful"":42,""boring"":74"
+GPT-5.2,google_gsv_025147,northern_africa_western_asia,"{""safe"":55,""lively"":10,""wealthy"":20,""beautiful"":30,""boring"":80,""depressing"
+GPT-5.2,google_gsv_013327,central_southern_asia,"{
+  ""safe"": 58,
+  ""lively"": 18,
+  ""wealthy"": 22,
+  ""beautiful"": 44,
+  ""boring"": 76,
+  ""de"
+GPT-5.2,google_gsv_025863,central_southern_asia,"{""safe"":55,""lively"":10,""wealthy"":20,""beautiful"":30,""boring"":75,""depressing"":"
+GPT-5.2,google_gsv_029307,sub_saharan_africa,"{""safe"":56,""lively"":12,""wealthy"":18,""beautiful"":24,""boring"":78,""depressing"
+GPT-5.2,google_gsv_012522,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":34,"""
+GPT-5.2,google_gsv_020942,central_southern_asia,"{""safe"":68,""lively"":28,""wealthy"":55,""beautiful"":38,""boring"":65,"""
+GPT-5.2,google_gsv_000431,sub_saharan_africa,"{""safe"":72,""lively"":22,""wealthy"":55,"""
+GPT-5.2,google_gsv_000046,sub_saharan_africa,"{
+  ""safe"": 55,
+  ""lively"": 20,
+  ""wealthy"": 35,
+  ""beautiful"": 25,
+  ""boring"":"
+GPT-5.2,google_gsv_024645,northern_africa_western_asia,"{""safe"":42,""lively"":12,""wealthy"":18,""beautiful"":20,"""
+GPT-5.2,google_gsv_003508,sub_saharan_africa,"{""safe"":68,""lively"":22,""wealthy"":55,""beautiful"":40,""boring"":74,""de"
+GPT-5.2,google_gsv_019318,northern_africa_western_asia,"{
+  ""safe"": 62,
+  ""lively"": 55,
+  ""wealthy"": 48,
+  ""beautiful"": 35,
+  ""boring"": 52,
+  ""depressing"":"
+GPT-5.2,google_gsv_021243,sub_saharan_africa,"{""safe"":78,""lively"":18,""wealthy"":72,""beautiful"":"
+GPT-5.2,google_gsv_014072,sub_saharan_africa,"{""safe"":72,""lively"":18,""wealth"
+GPT-5.2,google_gsv_010849,sub_saharan_africa,"{""safe"":62,""l"
+GPT-5.2,google_gsv_022599,sub_saharan_africa,"{""safe"":"
+GPT-5.2,google_gsv_009256,central_southern_asia,"{
+  ""safe"": 65,
+  ""lively"": 20,
+  ""wealthy"":"
+GPT-5.2,google_gsv_008964,latin_america_caribbean,"{""safe"":55,""lively"":10,""wealthy"":35,""beautiful"":30,""boring"":85,""depress"
+GPT-5.2,google_gsv_028318,sub_saharan_africa,"{""safe"":55,""lively"":15,""wealthy"":25,""beautiful"":45,""boring"":70,"""
+GPT-5.2,google_gsv_019688,northern_africa_western_asia,"{""safe"":55,""lively"":20,""wealthy"":35,""beautiful"":45,""boring"":70"
+GPT-5.2,google_gsv_023984,sub_saharan_africa,"{""safe"":62,""lively"":8"
+GPT-5.2,google_gsv_005104,sub_saharan_africa,"{""safe"":45,""lively"":10,""wealthy"":35,""beautiful"":20,""boring"":"
+GPT-5.2,google_gsv_002887,sub_saharan_africa,"{""safe"":55,""lively"":15,""wealthy"":25,"""
+GPT-5.2,google_gsv_025469,sub_saharan_africa,"{""safe"":72,""lively"":22,""wealthy"":58,""beautiful"":62"
+GPT-5.2,google_gsv_014055,northern_africa_western_asia,"{""safe"":74,""lively"
+GPT-5.2,google_gsv_029341,sub_saharan_africa,"{""safe"":72,""lively"":18,""wealthy"":45,""beautiful"":32,""boring"":74,""de"
+GPT-5.2,google_gsv_019884,northern_africa_western_asia,"{""safe"":72,""lively"":18,""wealthy"":30,""beautiful"":58,""boring"":"
+GPT-5.2,google_gsv_019884,sub_saharan_africa,"{""safe"":68,""lively"":12,""wealthy"":28,""beautiful"":62,""boring"":74,""de"
+GPT-5.2,google_gsv_024385,sub_saharan_africa,"{""safe"":78,""lively"":22,""wealthy"":58,""beautiful"":46,""boring"":72,""depress"
+GPT-5.2,google_gsv_017233,sub_saharan_africa,"{
+  ""safe"": 78,
+  ""lively"": 32,
+  ""wealthy"": 60,
+  ""beautiful"": 66,
+  ""boring"": 58,
+  ""depressing"":"
+GPT-5.2,google_gsv_003745,sub_saharan_africa,"{""safe"":85,""lively"":20,""wealthy"":70,""beautiful"":75,""boring"":65,""depressing"":"
+GPT-5.2,google_gsv_015026,sub_saharan_africa,"{""safe"":45,""lively"":25,""wealthy"":55,""beautiful"":30,""boring"":65,""depressing"
+GPT-5.2,google_gsv_020097,northern_africa_western_asia,"{""safe"":50,""lively"":10"
+GPT-5.2,google_gsv_009618,sub_saharan_africa,"{""safe"":75,""lively"":18,""wealthy"":45,""beautiful"":55,""boring"":78,""depressing"
+GPT-5.2,google_gsv_023139,northern_africa_western_asia,"{""safe"":72,""lively"":18,""wealthy"":42,""beautiful"":46,""boring"":73,""depressing"":"
+GPT-5.2,google_gsv_011893,sub_saharan_africa,"{""safe"":70,""lively"":15,""wealthy"":55,""beautiful"":45"
+GPT-5.2,google_gsv_000355,sub_saharan_africa,"{""safe"":80,""lively"":20,""wealthy"":65,""beautiful"":70,""boring"":60,""depressing"":"
+GPT-5.2,google_gsv_013258,sub_saharan_africa,"{""safe"":67,""lively"":12,""wealthy"":45,""beautiful"":20,"""
+GPT-5.2,google_gsv_019552,northern_africa_western_asia,"{""safe"":78,""lively"":34,""wealthy"":56,""beautiful"":52,""boring"":67,""de"
+GPT-5.2,google_gsv_029541,oceania,"{""safe"":72,""lively"":18,""wealthy"":55,""beautiful"":52,""boring"":66,""depress"
+GPT-5.2,google_gsv_011742,sub_saharan_africa,"{""safe"":70,""lively"":18,""wealthy"":45,""beautiful"":30,""bor"
+GPT-5.2,google_gsv_025628,sub_saharan_africa,"{
+  ""safe"": 72,
+  ""lively"": 18,
+  ""wealthy"": 45,
+  ""beautiful"": 58,
+  ""boring"": 70,
+  ""depressing"
+GPT-5.2,google_gsv_025628,central_southern_asia,"{
+  ""safe"": 68,
+  ""lively"": 18,
+  ""wealthy"": 45,
+  ""beautiful"": 60,
+  ""boring"": 72,"
+GPT-5.2,google_gsv_022821,sub_saharan_africa,"{""safe"":78,""lively"":18,""wealthy"":45,""beautiful"":55,""boring"":72,""de"
+GPT-5.2,google_gsv_016596,sub_saharan_africa,"{""safe"":78,""l"
+GPT-5.2,google_gsv_009768,sub_saharan_africa,"{
+  ""safe"": 68,
+  ""lively"": 18,
+  ""wealthy"": 55,
+  ""beautiful"": 34,
+  ""boring"": 72,
+  ""depressing"
+GPT-5.2,google_gsv_004485,sub_saharan_africa,"{
+  ""safe"": 68,
+  ""lively"": 12,
+  ""wealthy"": 62,
+  ""beautiful"": 28,
+  ""boring"": 74"
+GPT-5.2,google_gsv_019408,sub_saharan_africa,"{""safe"":62,""lively"":18,"""
+GPT-5.2,google_gsv_008876,sub_saharan_africa,"{""safe"":72,""lively"":10,""wealthy"
+GPT-5.2,google_gsv_008723,northern_africa_western_asia,"{""safe"":62,""lively"":22,""wealthy"":35,""beautiful"":28,""boring"":70,""depress"
+GPT-5.2,google_gsv_008397,sub_saharan_africa,"{""safe"":55,""lively"":15,""wealthy"":35,""beautiful"":25,""boring"":80,""depress"
+GPT-5.2,google_gsv_026513,northern_africa_western_asia,"{
+  ""safe"": 67,
+  ""lively"": 28,
+  ""wealthy"": 38,
+  """
+GPT-5.2,google_gsv_029075,northern_africa_western_asia,"{""safe"":45,""lively"":10,""wealthy"":20,""beautiful"":35,""boring"":80,""de"
+GPT-5.2,google_gsv_018952,sub_saharan_africa,"{""safe"":58,""lively"":18,""wealthy"":35,""beautiful"":32,""boring"":74,""de"
+GPT-5.2,google_gsv_021200,northern_africa_western_asia,"{""safe"":72,""lively"":28,""wealthy"":35,""beautiful"":55,""boring"":68"
+GPT-5.2,google_gsv_021200,central_southern_asia,"{""safe"":74,""lively"":28,""wealthy"":42,""beautiful"":55,""boring"":66,""depressing"
+GPT-5.2,google_gsv_019140,sub_saharan_africa,"{""safe"":78,""lively"":22,""wealthy"":60,"""
+GPT-5.2,google_gsv_028520,northern_africa_western_asia,"{""safe"":74,""lively"":14,""wealthy"":38,""beautiful"":81,""boring"":62,""de"
+GPT-5.2,google_gsv_020098,sub_saharan_africa,"{""safe"":45,"""
+GPT-5.2,google_gsv_020960,northern_africa_western_asia,"{""safe"":78,""lively"":18,""wealthy"":55,""beautiful"":52,""boring"":"
+GPT-5.2,google_gsv_010111,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":55,""beautiful"":38,""boring"":"
+GPT-5.2,google_gsv_005026,sub_saharan_africa,"{""safe"":72,""lively"":12,""wealthy"":62,""beautiful"":28,""boring"":78,""de"
+GPT-5.2,google_gsv_025652,sub_saharan_africa,"{""safe"":62,""lively"":12,""wealthy"":35,""beautiful"":38,""boring"":78,""depressing"
+GPT-5.2,google_gsv_000400,central_southern_asia,"{
+  ""safe"": 72,
+  ""lively"": 18,
+  ""wealthy"": 52,
+  """
+GPT-5.2,google_gsv_025980,northern_africa_western_asia,"{""safe"":78,""lively"":18"
+GPT-5.2,google_gsv_001475,sub_saharan_africa,"{""safe"":72,""lively"":18"
+GPT-5.2,google_gsv_023765,sub_saharan_africa,"{""safe"":62,""lively"":28,""wealthy"
+GPT-5.2,google_gsv_000021,northern_africa_western_asia,"{""safe"":63,""lively"":18,""wealth"
+GPT-5.2,google_gsv_020604,northern_africa_western_asia,"{""safe"":45,""lively"":10,""wealthy"":20,""beautiful"":35,""boring"":80,"""
+GPT-5.2,google_gsv_020604,sub_saharan_africa,"{""safe"":58,""lively"":15,""wealthy"":22,""beautiful"":48,""boring"":72,""depress"
+GPT-5.2,google_gsv_012622,sub_saharan_africa,"{""safe"":62,""lively"":18,""wealthy"":22,""beautiful"":55,"""
+GPT-5.2,google_gsv_024994,sub_saharan_africa,"{""safe"":55,""lively"":35,""wealthy"":25"
+GPT-5.2,google_gsv_025497,northern_africa_western_asia,"{
+  ""safe"": 62,
+  ""lively"": 18,
+  """
+GPT-5.2,google_gsv_026806,sub_saharan_africa,"{""safe"":62,""lively"":28,""wealthy"":34,""beautiful"":58,""boring"":66,""de"
+GPT-5.2,google_gsv_018996,sub_saharan_africa,"{
+  ""safe"": 72,
+  ""lively"": 18,
+  ""wealthy"": 55,
+  ""beautiful"": 32,
+  ""boring"": 74,
+  ""depress"
+GPT-5.2,google_gsv_004158,east_southeast_asia,"{""safe"":78,""lively"":22,""wealthy"":45,""beautiful"":62,""boring"":68,"""
+Claude Sonnet 4,google_gsv_012036,europe_northern_america,"I can see this image shows a natural water body (likely a river or lake) with a forested shoreline, bright sunlight, and what appears to be part of a boat in the foreground. However, this is not a street scene as requested. This appears to "
+Claude Sonnet 4,google_nan,sub_saharan_africa,"I notice this image shows an interior bedroom scene, not a street scene. Since you've asked me to evaluate a street scene but provided an indoor image, I cannot provide the requested assessment. The image shows a modern bedroom with white w"
+Claude Sonnet 4,google_nan,neutral,"I can see this is an interior bedroom scene, not an urban street scene. Since you've asked me to rate an urban street scene but provided an indoor image, I cannot provide the requested ratings based on visible street evidence. 
+
+However, if"
+Claude Sonnet 4,google_nan,latin_america_caribbean,"I notice this image shows an interior bedroom scene, not a street scene. Since you've asked me to evaluate a street scene but provided an indoor image, I cannot provide the requested assessment. The image shows a modern bedroom with white w"
+Claude Sonnet 4,google_nan,europe_northern_america,"I can see this is an interior bedroom scene, not a street scene. The image shows a modern, clean bedroom with white walls, recessed lighting, a ceiling fan, and colorful bedding. There's a closet area visible and what appears to be an en-su"
+Claude Sonnet 4,google_nan,europe_northern_america,"I notice this appears to be an interior hotel or accommodation room rather than a street scene. The image shows a bedroom with two beds, tropical-themed bedding, artwork on walls, and indoor lighting. Since this is not a street scene, I can"

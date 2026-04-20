@@ -1,0 +1,478 @@
+series,name_en,geonunit,n_points,mean_gap,median_gap,eligible
+Claude Sonnet 4,Aberdeen,Scotland,4,0.0057556624999999615,0.00405320499999995,True
+Claude Sonnet 4,Aberdeenshire,Scotland,3,0.0038869966666666,0.0064900599999999,True
+Claude Sonnet 4,Anglesey,Wales,1,,,False
+Claude Sonnet 4,Angus,Scotland,2,,,False
+Claude Sonnet 4,Argyll and Bute,Scotland,1,,,False
+Claude Sonnet 4,Barking and Dagenham,England,1,,,False
+Claude Sonnet 4,Barnet,England,4,0.5011026175,0.0047168999999999996,True
+Claude Sonnet 4,Barnsley,England,3,0.66612974,0.0058578999999999,True
+Claude Sonnet 4,Bath and North East Somerset,England,3,0.0205994233333333,0.0033965699999999,True
+Claude Sonnet 4,Birmingham,England,14,0.4294397021428571,0.00317629999999995,True
+Claude Sonnet 4,Bolton,England,5,0.39989329199999996,0.0005983099999999,True
+Claude Sonnet 4,Bournemouth,England,1,,,False
+Claude Sonnet 4,Bradford,England,8,0.5557653725,0.074920025,True
+Claude Sonnet 4,Brent,England,1,,,False
+Claude Sonnet 4,Bridgend,Wales,2,,,False
+Claude Sonnet 4,Bristol,England,13,0.4616038923076923,0.0054658,True
+Claude Sonnet 4,Bromley,England,2,,,False
+Claude Sonnet 4,Bury,England,4,0.499415225,0.00116192999999995,True
+Claude Sonnet 4,Caerphilly,Wales,5,0.796891594,0.00549706,True
+Claude Sonnet 4,Calderdale,England,8,0.7419839675,0.03401720499999995,True
+Claude Sonnet 4,Cambridgeshire,England,19,0.8355994473684211,0.0141022199999999,True
+Claude Sonnet 4,Camden,England,4,0.49998067249999995,0.996263265,True
+Claude Sonnet 4,Cardiff,Wales,3,0.6652211733333333,0.0011667,True
+Claude Sonnet 4,Carmarthenshire,Wales,3,0.002439250000000033,0.0033142,True
+Claude Sonnet 4,Central Bedfordshire,England,1,,,False
+Claude Sonnet 4,Ceredigion,Wales,2,,,False
+Claude Sonnet 4,Cheshire East,England,4,0.00907346999999995,0.00259452,True
+Claude Sonnet 4,Cheshire West and Chester,England,2,,,False
+Claude Sonnet 4,Conwy,Wales,3,0.03233693999999997,0.0034425399999999,True
+Claude Sonnet 4,Cornwall,England,5,0.43187559000000003,0.0095205299999999,True
+Claude Sonnet 4,Coventry,England,12,0.4922685375,0.00824658,True
+Claude Sonnet 4,Croydon,England,12,0.4365089908333333,0.0072063499999999,True
+Claude Sonnet 4,Cumbria,England,6,0.0056987783333333,0.0044414649999999,True
+Claude Sonnet 4,Denbighshire,Wales,2,,,False
+Claude Sonnet 4,Derby,England,9,0.6694098744444444,0.01247383,True
+Claude Sonnet 4,Derbyshire,England,13,0.6137657423076923,0.0027601999999999,True
+Claude Sonnet 4,Devon,England,25,0.38541973999999996,0.0060429,True
+Claude Sonnet 4,Doncaster,England,1,,,False
+Claude Sonnet 4,Dorset,England,5,0.40025733599999996,0.0036066999999999,True
+Claude Sonnet 4,Dumfries and Galloway,Scotland,9,0.4397269466666667,0.0025878999999999,True
+Claude Sonnet 4,Dundee,Scotland,1,,,False
+Claude Sonnet 4,Durham,England,3,0.0009429699999999333,0.0008360099999999,True
+Claude Sonnet 4,Ealing,England,4,0.49569223249999994,0.00388414499999995,True
+Claude Sonnet 4,East Ayrshire,Scotland,1,,,False
+Claude Sonnet 4,East Lothian,Scotland,3,0.0002579933333333083,0.0001292,True
+Claude Sonnet 4,East Renfrewshire,Scotland,2,,,False
+Claude Sonnet 4,East Riding of Yorkshire,England,13,0.3064695284615384,0.00354909,True
+Claude Sonnet 4,East Sussex,England,2,,,False
+Claude Sonnet 4,Edinburgh,Scotland,23,0.6086675043478261,0.0084714399999999,True
+Claude Sonnet 4,Enfield,England,3,1.32992865,1.99510038,True
+Claude Sonnet 4,Essex,England,7,0.5844424514285713,0.0275980399999999,True
+Claude Sonnet 4,Fife,Scotland,7,0.57608825,0.1449458,True
+Claude Sonnet 4,Gateshead,England,2,,,False
+Claude Sonnet 4,Glasgow,Scotland,10,0.6016539169999999,0.00369618499999995,True
+Claude Sonnet 4,Gloucestershire,England,11,0.18571939181818176,0.0064841599999999,True
+Claude Sonnet 4,Gwynedd,Wales,3,0.6739733433333334,0.02145803,True
+Claude Sonnet 4,Halton,England,1,,,False
+Claude Sonnet 4,Hampshire,England,21,0.5829781761904762,0.0053847999999999,True
+Claude Sonnet 4,Haringey,England,2,,,False
+Claude Sonnet 4,Harrow,England,1,,,False
+Claude Sonnet 4,Herefordshire,England,9,0.22335069,0.002559,True
+Claude Sonnet 4,Hertfordshire,England,9,1.111630748888889,1.96151043,True
+Claude Sonnet 4,Highland,Scotland,5,0.00268038199999998,0.0007745,True
+Claude Sonnet 4,Hounslow,England,3,0.6695926566666666,0.0153579999999999,True
+Claude Sonnet 4,Inverclyde,Scotland,3,0.015950196666666566,0.0159940599999999,True
+Claude Sonnet 4,Isle of Wight,England,1,,,False
+Claude Sonnet 4,Islington,England,1,,,False
+Claude Sonnet 4,Kent,England,10,0.595987462,0.00039572499999995,True
+Claude Sonnet 4,Kingston upon Thames,England,1,,,False
+Claude Sonnet 4,Kirklees,England,5,0.46795597199999994,0.0661910999999999,True
+Claude Sonnet 4,Knowsley,England,3,0.010168763333333266,0.0137806499999999,True
+Claude Sonnet 4,Lambeth,England,2,,,False
+Claude Sonnet 4,Lancashire,England,6,0.9930157616666667,0.9912353349999999,True
+Claude Sonnet 4,Leeds,England,25,0.7167079224399999,0.00850666,True
+Claude Sonnet 4,Leicester,England,2,,,False
+Claude Sonnet 4,Leicestershire,England,2,,,False
+Claude Sonnet 4,Lincolnshire,England,13,1.3643502776923078,1.9767865,True
+Claude Sonnet 4,Liverpool,England,2,,,False
+Claude Sonnet 4,Luton,England,2,,,False
+Claude Sonnet 4,Manchester,England,5,0.00472734599999996,0.00313187,True
+Claude Sonnet 4,Medway,England,1,,,False
+Claude Sonnet 4,Merseyside,England,1,,,False
+Claude Sonnet 4,Midlothian,Scotland,1,,,False
+Claude Sonnet 4,Milton Keynes,England,4,0.9070059175,0.81762472,True
+Claude Sonnet 4,Monmouthshire,Wales,4,0.00103209749999994,0.00155144499999995,True
+Claude Sonnet 4,Moray,Scotland,1,,,False
+Claude Sonnet 4,Neath Port Talbot,Wales,1,,,False
+Claude Sonnet 4,Newcastle upon Tyne,England,3,1.9841995166666668,1.98608386,True
+Claude Sonnet 4,Newport,Wales,5,0.475396418,0.08629415,True
+Claude Sonnet 4,Norfolk,England,14,0.22815707642857141,0.01344732999999995,True
+Claude Sonnet 4,North Ayrshire,Scotland,1,,,False
+Claude Sonnet 4,North East Lincolnshire,England,2,,,False
+Claude Sonnet 4,North Lincolnshire,England,1,,,False
+Claude Sonnet 4,North Somerset,England,7,0.5479776399999999,0.0016495399999999,True
+Claude Sonnet 4,North Tyneside,England,2,,,False
+Claude Sonnet 4,North Yorkshire,England,10,1.374946257,1.9439760449999999,True
+Claude Sonnet 4,Northamptonshire,England,2,,,False
+Claude Sonnet 4,Northumberland,England,9,0.44524993999999996,0.0037561999999999,True
+Claude Sonnet 4,Nottingham,England,7,0.8597680428571428,0.05182,True
+Claude Sonnet 4,Nottinghamshire,England,9,0.4715880833333333,0.0004956099999999,True
+Claude Sonnet 4,Oldham,England,1,,,False
+Claude Sonnet 4,Orkney Islands,Scotland,4,0.49505668999999997,0.009326229999999951,True
+Claude Sonnet 4,Oxfordshire,England,8,0.26700773749999995,0.017621239999999948,True
+Claude Sonnet 4,Pembrokeshire,Wales,2,,,False
+Claude Sonnet 4,Perth and Kinross,Scotland,2,,,False
+Claude Sonnet 4,Peterborough,England,4,0.004844604999999975,0.00275683499999995,True
+Claude Sonnet 4,Powys,Wales,4,1.490427825,1.983402205,True
+Claude Sonnet 4,Redbridge,England,3,1.9539766166666668,1.9784402,True
+Claude Sonnet 4,Redcar and Cleveland,England,3,0.6646584299999999,0.00296236,True
+Claude Sonnet 4,Renfrewshire,Scotland,3,0.6618033266666666,0.0074536199999999,True
+Claude Sonnet 4,Rhondda Cynon Taf,Wales,1,,,False
+Claude Sonnet 4,Richmond upon Thames,England,5,0.40342283599999995,0.0103927,True
+Claude Sonnet 4,Rochdale,England,1,,,False
+Claude Sonnet 4,Sandwell,England,2,,,False
+Claude Sonnet 4,Scottish Borders,Scotland,10,0.589958199,0.007003304999999901,True
+Claude Sonnet 4,Sheffield,England,2,,,False
+Claude Sonnet 4,Shropshire,England,8,1.08396236875,1.3533828,True
+Claude Sonnet 4,Solihull,England,2,,,False
+Claude Sonnet 4,Somerset,England,7,0.28807088714285717,0.0012337999999999,True
+Claude Sonnet 4,South Ayrshire,Scotland,3,0.6580171633333333,0.0056288499999999,True
+Claude Sonnet 4,South Gloucestershire,England,2,,,False
+Claude Sonnet 4,South Lanarkshire,Scotland,1,,,False
+Claude Sonnet 4,South Tyneside,England,4,0.02915159499999995,0.01044211999999995,True
+Claude Sonnet 4,Southampton,England,2,,,False
+Claude Sonnet 4,Southend-on-Sea,England,1,,,False
+Claude Sonnet 4,Southwark,England,4,0.99816025,0.9982378,True
+Claude Sonnet 4,Staffordshire,England,5,0.8038124740000001,0.03298685,True
+Claude Sonnet 4,Stirling,Scotland,1,,,False
+Claude Sonnet 4,Stockport,England,1,,,False
+Claude Sonnet 4,Stockton-on-Tees,England,3,0.65880432,0.0024066,True
+Claude Sonnet 4,Stoke-on-Trent,England,1,,,False
+Claude Sonnet 4,Suffolk,England,6,0.6692689116666667,0.01103288999999995,True
+Claude Sonnet 4,Surrey,England,7,1.1385806585714284,1.97670866,True
+Claude Sonnet 4,Swansea,Wales,2,,,False
+Claude Sonnet 4,Swindon,England,4,1.0007275924999999,1.000176585,True
+Claude Sonnet 4,Tameside,England,8,1.49313641125,1.988884,True
+Claude Sonnet 4,Telford and Wrekin,England,3,0.6625041333333334,0.005093,True
+Claude Sonnet 4,Thurrock,England,1,,,False
+Claude Sonnet 4,Torbay,England,11,0.7403837763636364,0.0123151999999999,True
+Claude Sonnet 4,Torfaen,Wales,5,0.01270290999999996,0.0067216999999999,True
+Claude Sonnet 4,Tower Hamlets,England,1,,,False
+Claude Sonnet 4,Trafford,England,2,,,False
+Claude Sonnet 4,Vale of Glamorgan,Wales,1,,,False
+Claude Sonnet 4,Wakefield,England,2,,,False
+Claude Sonnet 4,Walsall,England,1,,,False
+Claude Sonnet 4,Wandsworth,England,3,0.005020943333333266,0.0010976999999999,True
+Claude Sonnet 4,Warrington,England,1,,,False
+Claude Sonnet 4,Warwickshire,England,14,0.8438156885714285,0.0037375999999999495,True
+Claude Sonnet 4,West Berkshire,England,3,0.6709967966666666,0.0139685499999999,True
+Claude Sonnet 4,West Dunbartonshire,Scotland,3,0.003108749999999967,0.0003225999999999,True
+Claude Sonnet 4,West Lothian,Scotland,2,,,False
+Claude Sonnet 4,West Sussex,England,10,0.41169442799999995,0.0057666449999999,True
+Claude Sonnet 4,Westminster,England,4,1.4881198825,1.9786677099999999,True
+Claude Sonnet 4,Wiltshire,England,8,0.878697716875,0.5419015575,True
+Claude Sonnet 4,Windsor and Maidenhead,England,2,,,False
+Claude Sonnet 4,Wokingham,England,2,,,False
+Claude Sonnet 4,Wolverhampton,England,1,,,False
+Claude Sonnet 4,Worcestershire,England,9,0.44228486333333333,0.0070932,True
+Claude Sonnet 4,York,England,10,0.611334245,0.00680021499999995,True
+GPT-5.2,Aberdeen,Scotland,4,0.005392314999999975,0.00382849999999995,True
+GPT-5.2,Aberdeenshire,Scotland,3,0.004037663333333325,0.0058842,True
+GPT-5.2,Anglesey,Wales,1,,,False
+GPT-5.2,Angus,Scotland,2,,,False
+GPT-5.2,Argyll and Bute,Scotland,1,,,False
+GPT-5.2,Barking and Dagenham,England,1,,,False
+GPT-5.2,Barnet,England,4,0.49921621749999995,0.00391064999999995,True
+GPT-5.2,Barnsley,England,3,0.6630285166666666,0.0020566999999999,True
+GPT-5.2,Bath and North East Somerset,England,3,0.012146433333333333,0.0032094699999999,True
+GPT-5.2,Birmingham,England,14,0.4288962121428571,0.00274561,True
+GPT-5.2,Bolton,England,5,0.397349028,0.00061822,True
+GPT-5.2,Bournemouth,England,1,,,False
+GPT-5.2,Bradford,England,8,0.30773951875,0.03265799999999995,True
+GPT-5.2,Brent,England,1,,,False
+GPT-5.2,Bridgend,Wales,2,,,False
+GPT-5.2,Bristol,England,13,0.3923179807692308,0.0030706399999999,True
+GPT-5.2,Bromley,England,2,,,False
+GPT-5.2,Bury,England,4,0.49917664,0.00049205999999995,True
+GPT-5.2,Caerphilly,Wales,5,0.39694217600000004,-0.0015646999999999,True
+GPT-5.2,Calderdale,England,8,0.73748976,0.03392002499999995,True
+GPT-5.2,Cambridgeshire,England,19,0.7304887336842105,0.0125375599999999,True
+GPT-5.2,Camden,England,4,0.9961969024999999,0.9952152799999999,True
+GPT-5.2,Cardiff,Wales,3,0.6624130033333334,-0.0006602499999999,True
+GPT-5.2,Carmarthenshire,Wales,3,0.00018810000000006672,-0.0006299499999999,True
+GPT-5.2,Central Bedfordshire,England,1,,,False
+GPT-5.2,Ceredigion,Wales,2,,,False
+GPT-5.2,Cheshire East,England,4,0.494422285,0.0008147699999999499,True
+GPT-5.2,Cheshire West and Chester,England,2,,,False
+GPT-5.2,Conwy,Wales,3,0.030848146666666697,0.0030911,True
+GPT-5.2,Cornwall,England,5,0.03366236399999998,0.00898904,True
+GPT-5.2,Coventry,England,12,0.48963385749999994,0.00481521,True
+GPT-5.2,Croydon,England,12,0.4344562191666667,0.0070934999999999505,True
+GPT-5.2,Cumbria,England,6,-0.32546901666666667,0.00142992,True
+GPT-5.2,Denbighshire,Wales,2,,,False
+GPT-5.2,Derby,England,9,0.22613241555555558,0.0120021299999999,True
+GPT-5.2,Derbyshire,England,13,0.46602773923076923,0.0017788999999999,True
+GPT-5.2,Devon,England,25,0.303972192,0.0027670599999999,True
+GPT-5.2,Doncaster,England,1,,,False
+GPT-5.2,Dorset,England,5,0.400469148,0.0027830699999999,True
+GPT-5.2,Dumfries and Galloway,Scotland,9,0.4387287811111111,0.00238336,True
+GPT-5.2,Dundee,Scotland,1,,,False
+GPT-5.2,Durham,England,3,0.0008381233333332666,0.00080913,True
+GPT-5.2,Ealing,England,4,0.49513391,0.0024209950000000226,True
+GPT-5.2,East Ayrshire,Scotland,1,,,False
+GPT-5.2,East Lothian,Scotland,3,-0.0007393999999999857,-0.000265,True
+GPT-5.2,East Renfrewshire,Scotland,2,,,False
+GPT-5.2,East Riding of Yorkshire,England,13,0.15246487538461537,0.0014563399999999,True
+GPT-5.2,East Sussex,England,2,,,False
+GPT-5.2,Edinburgh,Scotland,23,0.43469324,0.00387698,True
+GPT-5.2,Enfield,England,3,1.33283418,1.99409109,True
+GPT-5.2,Essex,England,7,0.5794878228571428,0.02683594,True
+GPT-5.2,Fife,Scotland,7,0.5594108214285715,0.0152866499999999,True
+GPT-5.2,Gateshead,England,2,,,False
+GPT-5.2,Glasgow,Scotland,10,0.41513589599999995,0.00258307499999995,True
+GPT-5.2,Gloucestershire,England,11,0.0006436954545454517,0.00151288,True
+GPT-5.2,Gwynedd,Wales,3,0.6729735033333334,0.02021496,True
+GPT-5.2,Halton,England,1,,,False
+GPT-5.2,Hampshire,England,21,0.5650594904761904,0.0035246999999999,True
+GPT-5.2,Haringey,England,2,,,False
+GPT-5.2,Harrow,England,1,,,False
+GPT-5.2,Herefordshire,England,9,-0.21803980333333337,-0.0003684999999999,True
+GPT-5.2,Hertfordshire,England,9,1.1095038433333333,1.95662293,True
+GPT-5.2,Highland,Scotland,5,0.0003651420000000398,-0.0001974999999999,True
+GPT-5.2,Hounslow,England,3,0.6676406233333334,0.01502596,True
+GPT-5.2,Inverclyde,Scotland,3,-1.30777855,-1.96551434,True
+GPT-5.2,Isle of Wight,England,1,,,False
+GPT-5.2,Islington,England,1,,,False
+GPT-5.2,Kent,England,10,0.39246685800000003,-0.0016134049999998999,True
+GPT-5.2,Kingston upon Thames,England,1,,,False
+GPT-5.2,Kirklees,England,5,0.06455277199999995,0.01123706,True
+GPT-5.2,Knowsley,England,3,0.0058098366666666,0.00230306,True
+GPT-5.2,Lambeth,England,2,,,False
+GPT-5.2,Lancashire,England,6,0.9903235833333333,0.9837416,True
+GPT-5.2,Leeds,England,25,0.39493478044,0.0072541999999999,True
+GPT-5.2,Leicester,England,2,,,False
+GPT-5.2,Leicestershire,England,2,,,False
+GPT-5.2,Lincolnshire,England,13,1.2109728553846155,1.97004216,True
+GPT-5.2,Liverpool,England,2,,,False
+GPT-5.2,Luton,England,2,,,False
+GPT-5.2,Manchester,England,5,-0.00043842600000002006,0.00278849,True
+GPT-5.2,Medway,England,1,,,False
+GPT-5.2,Merseyside,England,1,,,False
+GPT-5.2,Midlothian,Scotland,1,,,False
+GPT-5.2,Milton Keynes,England,4,0.9810964225,0.9725154949999999,True
+GPT-5.2,Monmouthshire,Wales,4,0.48991986000000004,-0.00473189999999995,True
+GPT-5.2,Moray,Scotland,1,,,False
+GPT-5.2,Neath Port Talbot,Wales,1,,,False
+GPT-5.2,Newcastle upon Tyne,England,3,1.9818472500000002,1.98216946,True
+GPT-5.2,Newport,Wales,5,0.8250941879999999,0.28926466,True
+GPT-5.2,Norfolk,England,14,-0.05618810357142861,0.00355685499999995,True
+GPT-5.2,North Ayrshire,Scotland,1,,,False
+GPT-5.2,North East Lincolnshire,England,2,,,False
+GPT-5.2,North Lincolnshire,England,1,,,False
+GPT-5.2,North Somerset,England,7,0.54331843,0.0012088999999999,True
+GPT-5.2,North Tyneside,England,2,,,False
+GPT-5.2,North Yorkshire,England,10,1.374505641,1.9384339750000001,True
+GPT-5.2,Northamptonshire,England,2,,,False
+GPT-5.2,Northumberland,England,9,0.44326886000000004,0.0032338,True
+GPT-5.2,Nottingham,England,7,0.5746698442857143,0.0530669,True
+GPT-5.2,Nottinghamshire,England,9,0.4684064733333334,0.0001966899999999,True
+GPT-5.2,Oldham,England,1,,,False
+GPT-5.2,Orkney Islands,Scotland,4,0.49057287499999996,0.00122041999999995,True
+GPT-5.2,Oxfordshire,England,8,0.26577337125,0.016633845,True
+GPT-5.2,Pembrokeshire,Wales,2,,,False
+GPT-5.2,Perth and Kinross,Scotland,2,,,False
+GPT-5.2,Peterborough,England,4,-0.8234231025000001,-0.665904865,True
+GPT-5.2,Powys,Wales,4,1.4899767000000002,1.983276755,True
+GPT-5.2,Redbridge,England,3,1.20357292,1.63346174,True
+GPT-5.2,Redcar and Cleveland,England,3,0.0018352299999999666,0.00250716,True
+GPT-5.2,Renfrewshire,Scotland,3,-0.0011573166666666984,-5.695999999999479e-05,True
+GPT-5.2,Rhondda Cynon Taf,Wales,1,,,False
+GPT-5.2,Richmond upon Thames,England,5,0.40255927399999997,0.01032305,True
+GPT-5.2,Rochdale,England,1,,,False
+GPT-5.2,Sandwell,England,2,,,False
+GPT-5.2,Scottish Borders,Scotland,10,-0.003132848000000027,0.0035727499999999,True
+GPT-5.2,Sheffield,England,2,,,False
+GPT-5.2,Shropshire,England,8,0.834824465,0.370000285,True
+GPT-5.2,Solihull,England,2,,,False
+GPT-5.2,Somerset,England,7,0.003515142857142884,-0.0013098999999999,True
+GPT-5.2,South Ayrshire,Scotland,3,-0.33739981666666674,0.0024198799999999,True
+GPT-5.2,South Gloucestershire,England,2,,,False
+GPT-5.2,South Lanarkshire,Scotland,1,,,False
+GPT-5.2,South Tyneside,England,4,0.026946312499999972,0.0086334,True
+GPT-5.2,Southampton,England,2,,,False
+GPT-5.2,Southend-on-Sea,England,1,,,False
+GPT-5.2,Southwark,England,4,0.4924311,0.007583165,True
+GPT-5.2,Staffordshire,England,5,0.685533988,0.03224289,True
+GPT-5.2,Stirling,Scotland,1,,,False
+GPT-5.2,Stockport,England,1,,,False
+GPT-5.2,Stockton-on-Tees,England,3,0.66256695,0.00187355,True
+GPT-5.2,Stoke-on-Trent,England,1,,,False
+GPT-5.2,Suffolk,England,6,0.3416835583333333,0.00977381,True
+GPT-5.2,Surrey,England,7,1.135953767142857,1.97504205,True
+GPT-5.2,Swansea,Wales,2,,,False
+GPT-5.2,Swindon,England,4,0.9996924574999999,0.9991721349999999,True
+GPT-5.2,Tameside,England,8,1.23637878,1.95349991,True
+GPT-5.2,Telford and Wrekin,England,3,0.6616022833333333,0.0041489,True
+GPT-5.2,Thurrock,England,1,,,False
+GPT-5.2,Torbay,England,11,0.5544936909090908,0.0088630299999999,True
+GPT-5.2,Torfaen,Wales,5,-0.38097938400000003,0.0063395,True
+GPT-5.2,Tower Hamlets,England,1,,,False
+GPT-5.2,Trafford,England,2,,,False
+GPT-5.2,Vale of Glamorgan,Wales,1,,,False
+GPT-5.2,Wakefield,England,2,,,False
+GPT-5.2,Walsall,England,1,,,False
+GPT-5.2,Wandsworth,England,3,0.0047825466666666,0.0012506999999999,True
+GPT-5.2,Warrington,England,1,,,False
+GPT-5.2,Warwickshire,England,14,0.5644380657142857,0.001401485,True
+GPT-5.2,West Berkshire,England,3,0.6676195133333334,0.0121904499999999,True
+GPT-5.2,West Dunbartonshire,Scotland,3,-0.0053511366666666,-0.0017171599999999,True
+GPT-5.2,West Lothian,Scotland,2,,,False
+GPT-5.2,West Sussex,England,10,0.21438759499999996,0.005576849999999901,True
+GPT-5.2,Westminster,England,4,1.483947875,1.971083065,True
+GPT-5.2,Wiltshire,England,8,0.874398051875,0.5416879824999999,True
+GPT-5.2,Windsor and Maidenhead,England,2,,,False
+GPT-5.2,Wokingham,England,2,,,False
+GPT-5.2,Wolverhampton,England,1,,,False
+GPT-5.2,Worcestershire,England,9,0.44142042,0.0052712999999999,True
+GPT-5.2,York,England,10,0.608017025,0.0034868249999999,True
+Gemini 2.5 Flash,Aberdeen,Scotland,4,0.003336739999999975,0.0007763999999999499,True
+Gemini 2.5 Flash,Aberdeenshire,Scotland,3,0.004150859999999933,0.0060495999999999,True
+Gemini 2.5 Flash,Anglesey,Wales,1,,,False
+Gemini 2.5 Flash,Angus,Scotland,2,,,False
+Gemini 2.5 Flash,Argyll and Bute,Scotland,1,,,False
+Gemini 2.5 Flash,Barking and Dagenham,England,1,,,False
+Gemini 2.5 Flash,Barnet,England,4,0.4986176599999999,0.00246242999999995,True
+Gemini 2.5 Flash,Barnsley,England,3,0.65921792,0.00030584,True
+Gemini 2.5 Flash,Bath and North East Somerset,England,3,-0.6336535566666667,0.0033792299999999,True
+Gemini 2.5 Flash,Birmingham,England,14,0.5698592671428572,0.00251321,True
+Gemini 2.5 Flash,Bolton,England,5,0.399917306,0.0009774,True
+Gemini 2.5 Flash,Bournemouth,England,1,,,False
+Gemini 2.5 Flash,Bradford,England,8,0.33643743875,0.07274562999999995,True
+Gemini 2.5 Flash,Brent,England,1,,,False
+Gemini 2.5 Flash,Bridgend,Wales,2,,,False
+Gemini 2.5 Flash,Bristol,England,13,0.34914487538461536,0.0052354,True
+Gemini 2.5 Flash,Bromley,England,2,,,False
+Gemini 2.5 Flash,Bury,England,4,0.49920014749999997,0.0007577749999999,True
+Gemini 2.5 Flash,Caerphilly,Wales,5,0.400162522,0.0055702499999999,True
+Gemini 2.5 Flash,Calderdale,England,8,0.74076837,0.0306410249999999,True
+Gemini 2.5 Flash,Cambridgeshire,England,19,0.8025783378947369,0.0130670999999999,True
+Gemini 2.5 Flash,Camden,England,4,0.9938505975,0.99263809,True
+Gemini 2.5 Flash,Cardiff,Wales,3,0.6647618266666667,6.374000000008984e-05,True
+Gemini 2.5 Flash,Carmarthenshire,Wales,3,-0.6653223033333334,-0.0139044999999999,True
+Gemini 2.5 Flash,Central Bedfordshire,England,1,,,False
+Gemini 2.5 Flash,Ceredigion,Wales,2,,,False
+Gemini 2.5 Flash,Cheshire East,England,4,0.49942979000000004,0.002473125,True
+Gemini 2.5 Flash,Cheshire West and Chester,England,2,,,False
+Gemini 2.5 Flash,Conwy,Wales,3,0.030779293333333332,0.00119614,True
+Gemini 2.5 Flash,Cornwall,England,5,0.43177563999999996,0.0090816999999999,True
+Gemini 2.5 Flash,Coventry,England,12,0.49090699833333334,0.007726884999999951,True
+Gemini 2.5 Flash,Croydon,England,12,0.4350634208333333,0.00646531999999995,True
+Gemini 2.5 Flash,Cumbria,England,6,-0.027349133333333348,0.0020732650000000004,True
+Gemini 2.5 Flash,Denbighshire,Wales,2,,,False
+Gemini 2.5 Flash,Derby,England,9,0.4719893244444444,0.01218158,True
+Gemini 2.5 Flash,Derbyshire,England,13,0.4604691407692308,0.0014361,True
+Gemini 2.5 Flash,Devon,England,25,0.3831594852,0.0045931,True
+Gemini 2.5 Flash,Doncaster,England,1,,,False
+Gemini 2.5 Flash,Dorset,England,5,0.795840274,-0.00019716,True
+Gemini 2.5 Flash,Dumfries and Galloway,Scotland,9,0.4392245188888889,0.00242806,True
+Gemini 2.5 Flash,Dundee,Scotland,1,,,False
+Gemini 2.5 Flash,Durham,England,3,-0.0008009133333333288,2.1700000000013372e-05,True
+Gemini 2.5 Flash,Ealing,England,4,0.4949561025,0.0034671299999999503,True
+Gemini 2.5 Flash,East Ayrshire,Scotland,1,,,False
+Gemini 2.5 Flash,East Lothian,Scotland,3,-0.0003133133333333667,-0.00015741,True
+Gemini 2.5 Flash,East Renfrewshire,Scotland,2,,,False
+Gemini 2.5 Flash,East Riding of Yorkshire,England,13,0.30459563307692306,0.00048607,True
+Gemini 2.5 Flash,East Sussex,England,2,,,False
+Gemini 2.5 Flash,Edinburgh,Scotland,23,0.5242452526086956,0.0038814999999999,True
+Gemini 2.5 Flash,Enfield,England,3,1.2998513466666666,1.98714707,True
+Gemini 2.5 Flash,Essex,England,7,0.5592034328571428,0.0271580799999999,True
+Gemini 2.5 Flash,Fife,Scotland,7,0.5730851557142856,0.02521105,True
+Gemini 2.5 Flash,Gateshead,England,2,,,False
+Gemini 2.5 Flash,Glasgow,Scotland,10,0.600173704,0.00312469999999995,True
+Gemini 2.5 Flash,Gloucestershire,England,11,0.18438686909090904,0.0047318599999999,True
+Gemini 2.5 Flash,Gwynedd,Wales,3,0.6726533633333333,0.0181422199999999,True
+Gemini 2.5 Flash,Halton,England,1,,,False
+Gemini 2.5 Flash,Hampshire,England,21,0.6610175238095238,0.0032598499999999,True
+Gemini 2.5 Flash,Haringey,England,2,,,False
+Gemini 2.5 Flash,Harrow,England,1,,,False
+Gemini 2.5 Flash,Herefordshire,England,9,0.0027528066666667075,-0.00074094,True
+Gemini 2.5 Flash,Hertfordshire,England,9,1.1100247277777777,1.96416463,True
+Gemini 2.5 Flash,Highland,Scotland,5,-0.002257168000000006,-5.900000000003125e-05,True
+Gemini 2.5 Flash,Hounslow,England,3,0.6693051899999999,0.0151502999999999,True
+Gemini 2.5 Flash,Inverclyde,Scotland,3,0.015062939999999933,0.0150327,True
+Gemini 2.5 Flash,Isle of Wight,England,1,,,False
+Gemini 2.5 Flash,Islington,England,1,,,False
+Gemini 2.5 Flash,Kent,England,10,0.595684765,0.00014199000000001557,True
+Gemini 2.5 Flash,Kingston upon Thames,England,1,,,False
+Gemini 2.5 Flash,Kirklees,England,5,0.06510710799999996,0.0041552599999999,True
+Gemini 2.5 Flash,Knowsley,England,3,0.009451573333333267,0.0122754499999999,True
+Gemini 2.5 Flash,Lambeth,England,2,,,False
+Gemini 2.5 Flash,Lancashire,England,6,0.994854375,0.9903059599999999,True
+Gemini 2.5 Flash,Leeds,England,25,0.63448337124,0.0090282999999999,True
+Gemini 2.5 Flash,Leicester,England,2,,,False
+Gemini 2.5 Flash,Leicestershire,England,2,,,False
+Gemini 2.5 Flash,Lincolnshire,England,13,1.2106985953846154,1.97545706,True
+Gemini 2.5 Flash,Liverpool,England,2,,,False
+Gemini 2.5 Flash,Luton,England,2,,,False
+Gemini 2.5 Flash,Manchester,England,5,0.004006146,0.00328267,True
+Gemini 2.5 Flash,Medway,England,1,,,False
+Gemini 2.5 Flash,Merseyside,England,1,,,False
+Gemini 2.5 Flash,Midlothian,Scotland,1,,,False
+Gemini 2.5 Flash,Milton Keynes,England,4,0.99566596,0.994787955,True
+Gemini 2.5 Flash,Monmouthshire,Wales,4,0.4973740925,0.00103526999999995,True
+Gemini 2.5 Flash,Moray,Scotland,1,,,False
+Gemini 2.5 Flash,Neath Port Talbot,Wales,1,,,False
+Gemini 2.5 Flash,Newcastle upon Tyne,England,3,1.9817871066666666,1.98032106,True
+Gemini 2.5 Flash,Newport,Wales,5,0.836058214,0.28876221,True
+Gemini 2.5 Flash,Norfolk,England,14,0.22444643357142854,0.013002029999999951,True
+Gemini 2.5 Flash,North Ayrshire,Scotland,1,,,False
+Gemini 2.5 Flash,North East Lincolnshire,England,2,,,False
+Gemini 2.5 Flash,North Lincolnshire,England,1,,,False
+Gemini 2.5 Flash,North Somerset,England,7,0.5481912414285713,0.00164335,True
+Gemini 2.5 Flash,North Tyneside,England,2,,,False
+Gemini 2.5 Flash,North Yorkshire,England,10,1.373682057,1.94219353,True
+Gemini 2.5 Flash,Northamptonshire,England,2,,,False
+Gemini 2.5 Flash,Northumberland,England,9,0.4447893711111111,0.0027066,True
+Gemini 2.5 Flash,Nottingham,England,7,0.8515187985714286,0.052798,True
+Gemini 2.5 Flash,Nottinghamshire,England,9,0.46886546000000007,-0.0001646899999999,True
+Gemini 2.5 Flash,Oldham,England,1,,,False
+Gemini 2.5 Flash,Orkney Islands,Scotland,4,0.4830623125,-0.003265865,True
+Gemini 2.5 Flash,Oxfordshire,England,8,0.26412023874999996,0.01188141,True
+Gemini 2.5 Flash,Pembrokeshire,Wales,2,,,False
+Gemini 2.5 Flash,Perth and Kinross,Scotland,2,,,False
+Gemini 2.5 Flash,Peterborough,England,4,0.00409094999999995,0.00281534999999995,True
+Gemini 2.5 Flash,Powys,Wales,4,1.4897622400000001,1.983518855,True
+Gemini 2.5 Flash,Redbridge,England,3,1.95066874,1.9709733,True
+Gemini 2.5 Flash,Redcar and Cleveland,England,3,0.6630931533333333,0.0028437,True
+Gemini 2.5 Flash,Renfrewshire,Scotland,3,0.6595701433333333,0.0051581299999999,True
+Gemini 2.5 Flash,Rhondda Cynon Taf,Wales,1,,,False
+Gemini 2.5 Flash,Richmond upon Thames,England,5,0.402615246,0.0097557999999999,True
+Gemini 2.5 Flash,Rochdale,England,1,,,False
+Gemini 2.5 Flash,Sandwell,England,2,,,False
+Gemini 2.5 Flash,Scottish Borders,Scotland,10,0.392148771,0.0060547149999999,True
+Gemini 2.5 Flash,Sheffield,England,2,,,False
+Gemini 2.5 Flash,Shropshire,England,8,0.83194546125,0.36903966,True
+Gemini 2.5 Flash,Solihull,England,2,,,False
+Gemini 2.5 Flash,Somerset,England,7,0.010871569999999995,0.0009909999999999,True
+Gemini 2.5 Flash,South Ayrshire,Scotland,3,0.6591246633333333,0.0012839399999999,True
+Gemini 2.5 Flash,South Gloucestershire,England,2,,,False
+Gemini 2.5 Flash,South Lanarkshire,Scotland,1,,,False
+Gemini 2.5 Flash,South Tyneside,England,4,0.018260027499999998,0.00909747,True
+Gemini 2.5 Flash,Southampton,England,2,,,False
+Gemini 2.5 Flash,Southend-on-Sea,England,1,,,False
+Gemini 2.5 Flash,Southwark,England,4,0.997456885,0.99719455,True
+Gemini 2.5 Flash,Staffordshire,England,5,0.8036437079999998,0.0320614,True
+Gemini 2.5 Flash,Stirling,Scotland,1,,,False
+Gemini 2.5 Flash,Stockport,England,1,,,False
+Gemini 2.5 Flash,Stockton-on-Tees,England,3,0.66048755,-0.0002731,True
+Gemini 2.5 Flash,Stoke-on-Trent,England,1,,,False
+Gemini 2.5 Flash,Suffolk,England,6,0.338821165,0.010165185,True
+Gemini 2.5 Flash,Surrey,England,7,1.1377485457142857,1.9735217,True
+Gemini 2.5 Flash,Swansea,Wales,2,,,False
+Gemini 2.5 Flash,Swindon,England,4,0.9989297425,0.998077535,True
+Gemini 2.5 Flash,Tameside,England,8,1.24294498625,1.972898375,True
+Gemini 2.5 Flash,Telford and Wrekin,England,3,0.6569673666666666,0.0045771,True
+Gemini 2.5 Flash,Thurrock,England,1,,,False
+Gemini 2.5 Flash,Torbay,England,11,0.5559471118181818,0.0150898499999999,True
+Gemini 2.5 Flash,Torfaen,Wales,5,0.01321737999999996,0.0065104,True
+Gemini 2.5 Flash,Tower Hamlets,England,1,,,False
+Gemini 2.5 Flash,Trafford,England,2,,,False
+Gemini 2.5 Flash,Vale of Glamorgan,Wales,1,,,False
+Gemini 2.5 Flash,Wakefield,England,2,,,False
+Gemini 2.5 Flash,Walsall,England,1,,,False
+Gemini 2.5 Flash,Wandsworth,England,3,0.004205036666666634,0.00072985,True
+Gemini 2.5 Flash,Warrington,England,1,,,False
+Gemini 2.5 Flash,Warwickshire,England,14,0.8352704264285714,0.00148772499999995,True
+Gemini 2.5 Flash,West Berkshire,England,3,0.6665830766666666,0.0132902899999999,True
+Gemini 2.5 Flash,West Dunbartonshire,Scotland,3,-0.00029596666666663335,-0.0001772999999999,True
+Gemini 2.5 Flash,West Lothian,Scotland,2,,,False
+Gemini 2.5 Flash,West Sussex,England,10,0.41097501599999997,0.005412145,True
+Gemini 2.5 Flash,Westminster,England,4,1.48799261,1.9785061800000001,True
+Gemini 2.5 Flash,Wiltshire,England,8,0.386300051875,0.010615,True
+Gemini 2.5 Flash,Windsor and Maidenhead,England,2,,,False
+Gemini 2.5 Flash,Wokingham,England,2,,,False
+Gemini 2.5 Flash,Wolverhampton,England,1,,,False
+Gemini 2.5 Flash,Worcestershire,England,9,0.6619046366666667,0.0079158599999999,True
+Gemini 2.5 Flash,York,England,10,0.6086395259999999,0.0066428699999999995,True

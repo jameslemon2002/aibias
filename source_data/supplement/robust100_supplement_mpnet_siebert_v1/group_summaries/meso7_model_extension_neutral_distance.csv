@@ -1,0 +1,29 @@
+﻿condition_key,condition_label,condition_background,mean_pair_distance,sd_pair_distance,se_pair_distance,rank_closest_to_neutral,run_key,model_label
+central_southern_asia,Central and Southern Asia,Central and Southern Asia,0.1803697198629379,0.0660234615206718,0.0066023461520671,1,meso7_gpt52_original,GPT-5.2 original prompt
+europe_northern_america,Europe and Northern America,Europe and Northern America,0.1832574605941772,0.0602326393127441,0.0060232639312744,2,meso7_gpt52_original,GPT-5.2 original prompt
+oceania,Oceania,Oceania,0.1859851032495498,0.0599509067833423,0.0059950906783342,3,meso7_gpt52_original,GPT-5.2 original prompt
+east_southeast_asia,Eastern and South-eastern Asia,Eastern and South-eastern Asia,0.1963830143213272,0.0784253552556037,0.0078425355255603,4,meso7_gpt52_original,GPT-5.2 original prompt
+northern_africa_western_asia,Northern Africa and Western Asia,Northern Africa and Western Asia,0.2006171941757202,0.0933628752827644,0.0093362875282764,5,meso7_gpt52_original,GPT-5.2 original prompt
+latin_america_caribbean,Latin America and the Caribbean,Latin America and the Caribbean,0.2006728798151016,0.0732563436031341,0.0073256343603134,6,meso7_gpt52_original,GPT-5.2 original prompt
+sub_saharan_africa,Sub-Saharan Africa,Sub-Saharan Africa,0.2175921499729156,0.0765924155712127,0.0076592415571212,7,meso7_gpt52_original,GPT-5.2 original prompt
+europe_northern_america,Europe and Northern America,Europe and Northern America,0.130607858300209,0.0525124333798885,0.0052512433379888,1,meso7_qwen,meso7_qwen
+sub_saharan_africa,Sub-Saharan Africa,Sub-Saharan Africa,0.1592966616153717,0.0517849177122116,0.0051784917712211,2,meso7_qwen,meso7_qwen
+east_southeast_asia,Eastern and South-eastern Asia,Eastern and South-eastern Asia,0.1621042490005493,0.0597185418009758,0.0059718541800975,3,meso7_qwen,meso7_qwen
+central_southern_asia,Central and Southern Asia,Central and Southern Asia,0.1697454005479812,0.0576204881072044,0.0057620488107204,4,meso7_qwen,meso7_qwen
+northern_africa_western_asia,Northern Africa and Western Asia,Northern Africa and Western Asia,0.1886329799890518,0.0618152506649494,0.0061815250664949,5,meso7_qwen,meso7_qwen
+oceania,Oceania,Oceania,0.206903725862503,0.0683395266532898,0.0068339526653289,6,meso7_qwen,meso7_qwen
+latin_america_caribbean,Latin America and the Caribbean,Latin America and the Caribbean,0.2105958610773086,0.0624521113932132,0.0062452111393213,7,meso7_qwen,meso7_qwen
+east_southeast_asia,Eastern and South-eastern Asia,Eastern and South-eastern Asia,0.1510382145643234,0.0754711404442787,0.0075471140444278,1,meso7_llama,meso7_llama
+latin_america_caribbean,Latin America and the Caribbean,Latin America and the Caribbean,0.1532770693302154,0.0752680823206901,0.007526808232069,2,meso7_llama,meso7_llama
+central_southern_asia,Central and Southern Asia,Central and Southern Asia,0.1568493247032165,0.0734477937221527,0.0073447793722152,3,meso7_llama,meso7_llama
+oceania,Oceania,Oceania,0.1586869060993194,0.0805769637227058,0.0080576963722705,4,meso7_llama,meso7_llama
+sub_saharan_africa,Sub-Saharan Africa,Sub-Saharan Africa,0.1589524745941162,0.0850761383771896,0.0085076138377189,5,meso7_llama,meso7_llama
+europe_northern_america,Europe and Northern America,Europe and Northern America,0.1617303639650344,0.0810789838433265,0.0081078983843326,6,meso7_llama,meso7_llama
+northern_africa_western_asia,Northern Africa and Western Asia,Northern Africa and Western Asia,0.1659430563449859,0.0725011974573135,0.0072501197457313,7,meso7_llama,meso7_llama
+europe_northern_america,Europe and Northern America,Europe and Northern America,0.2213523089885711,0.0645027980208396,0.0064502798020839,1,meso7_gemma,meso7_gemma
+east_southeast_asia,Eastern and South-eastern Asia,Eastern and South-eastern Asia,0.299300342798233,0.0767101421952247,0.0076710142195224,2,meso7_gemma,meso7_gemma
+central_southern_asia,Central and Southern Asia,Central and Southern Asia,0.311805784702301,0.0781008154153823,0.0078100815415382,3,meso7_gemma,meso7_gemma
+northern_africa_western_asia,Northern Africa and Western Asia,Northern Africa and Western Asia,0.3166607916355133,0.0846114754676818,0.0084611475467681,4,meso7_gemma,meso7_gemma
+sub_saharan_africa,Sub-Saharan Africa,Sub-Saharan Africa,0.3281123042106628,0.0740339234471321,0.0074033923447132,5,meso7_gemma,meso7_gemma
+latin_america_caribbean,Latin America and the Caribbean,Latin America and the Caribbean,0.3483656942844391,0.0755639821290969,0.0075563982129096,6,meso7_gemma,meso7_gemma
+oceania,Oceania,Oceania,0.3686972558498382,0.085020400583744,0.0085020400583744,7,meso7_gemma,meso7_gemma

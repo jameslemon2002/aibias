@@ -1,0 +1,22 @@
+﻿condition_key,condition_label,condition_abbr,mean_pair_distance,sd_pair_distance,se_pair_distance,rank_closest_to_neutral,model_key
+europe_northern_america,Europe and Northern America,ENA,0.18444640934467316,0.06485908478498459,0.0011841594598625388,1,gpt52
+northern_africa_western_asia,Northern Africa and Western Asia,NAWA,0.18743155896663666,0.08099699020385742,0.0014787959541559224,2,gpt52
+central_southern_asia,Central and Southern Asia,CSA,0.18950964510440826,0.07298213243484497,0.0013324653409798007,3,gpt52
+east_southeast_asia,Eastern and South-eastern Asia,ESEA,0.20209012925624847,0.07980174571275711,0.001456973875172275,4,gpt52
+latin_america_caribbean,Latin America and the Caribbean,LAC,0.20335879921913147,0.07242782413959503,0.0013223451024091133,5,gpt52
+sub_saharan_africa,Sub-Saharan Africa,SSA,0.21503755450248718,0.09448730945587158,0.0017250943595650682,6,gpt52
+oceania,Oceania,OCE,0.21859024465084076,0.06744539737701416,0.001231378851443014,7,gpt52
+europe_northern_america,Europe and Northern America,ENA,0.12360458076000214,0.052157625555992126,0.0009522636020974939,1,claude_sonnet4
+sub_saharan_africa,Sub-Saharan Africa,SSA,0.1858413964509964,0.07390037924051285,0.001349230157273846,2,claude_sonnet4
+central_southern_asia,Central and Southern Asia,CSA,0.19011516869068146,0.06909019500017166,0.0012614086101341553,3,claude_sonnet4
+northern_africa_western_asia,Northern Africa and Western Asia,NAWA,0.19035755097866058,0.06934811919927597,0.0012661176402000182,4,claude_sonnet4
+east_southeast_asia,Eastern and South-eastern Asia,ESEA,0.20101526379585266,0.0721624419093132,0.0013174999079462336,5,claude_sonnet4
+oceania,Oceania,OCE,0.2287948876619339,0.09114338457584381,0.0016640429233186027,6,claude_sonnet4
+latin_america_caribbean,Latin America and the Caribbean,LAC,0.23138867318630219,0.07577523589134216,0.001383460199932106,7,claude_sonnet4
+europe_northern_america,Europe and Northern America,ENA,0.10334134846925735,0.049140866845846176,0.0008971853755609231,1,gemini25flash
+oceania,Oceania,OCE,0.13008005917072296,0.06900985538959503,0.001259941816235022,2,gemini25flash
+northern_africa_western_asia,Northern Africa and Western Asia,NAWA,0.13047824800014496,0.05696083977818489,0.0010399578946983141,3,gemini25flash
+latin_america_caribbean,Latin America and the Caribbean,LAC,0.13084734976291656,0.059745851904153824,0.0010908050268422676,4,gemini25flash
+central_southern_asia,Central and Southern Asia,CSA,0.1325610876083374,0.05778026580810547,0.0010549184987247943,5,gemini25flash
+east_southeast_asia,Eastern and South-eastern Asia,ESEA,0.1355356127023697,0.06102683022618294,0.0011141923842639498,6,gemini25flash
+sub_saharan_africa,Sub-Saharan Africa,SSA,0.13765224814414978,0.05849546194076538,0.0010679761338880708,7,gemini25flash

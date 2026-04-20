@@ -1,0 +1,13 @@
+{
+  "models": [
+    "Claude Sonnet 4",
+    "GPT-5.2",
+    "Gemini 2.5 Flash"
+  ],
+  "axes": [
+    "age",
+    "country",
+    "gender"
+  ],
+  "n_rows": 9
+}

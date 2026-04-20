@@ -1,0 +1,49 @@
+﻿condition_key,condition_label,condition_abbr,n,mean_score,sd_score,mean_p_positive,mean_p_negative,se_score,model_key,model_label,text_variant
+neutral,Neutral,NEU,3000,0.76889396,0.61481225,0.8844469,0.11555304,0.011224884688082283,gpt52,GPT-5.2,raw
+sub_saharan_africa,Sub-Saharan Africa,SSA,3000,0.7765992,0.6111794,0.88829964,0.111700386,0.011158558343756378,gpt52,GPT-5.2,raw
+northern_africa_western_asia,Northern Africa and Western Asia,NAWA,3000,0.78283,0.60468924,0.89141506,0.10858498,0.01104006457594042,gpt52,GPT-5.2,raw
+central_southern_asia,Central and Southern Asia,CSA,3000,0.7626777,0.6270646,0.8813389,0.11866115,0.011448580619756846,gpt52,GPT-5.2,raw
+east_southeast_asia,Eastern and South-eastern Asia,ESEA,3000,0.77207756,0.6188645,0.8860387,0.113961235,0.011298867797222657,gpt52,GPT-5.2,raw
+oceania,Oceania,OCE,3000,0.79131985,0.5951554,0.8956599,0.10434009,0.010866001587191256,gpt52,GPT-5.2,raw
+latin_america_caribbean,Latin America and the Caribbean,LAC,3000,0.7998612,0.5847447,0.8999306,0.1000694,0.010675928603565676,gpt52,GPT-5.2,raw
+europe_northern_america,Europe and Northern America,ENA,3000,0.62337106,0.7628506,0.81168556,0.18831447,0.013927682403192691,gpt52,GPT-5.2,raw
+neutral,Neutral,NEU,3000,0.77168125,0.61175704,0.88584065,0.11415938,0.011169104351120934,gpt52,GPT-5.2,stripped
+sub_saharan_africa,Sub-Saharan Africa,SSA,3000,0.7727434,0.61643976,0.8863717,0.113628305,0.011254598724929791,gpt52,GPT-5.2,stripped
+northern_africa_western_asia,Northern Africa and Western Asia,NAWA,3000,0.782466,0.6053071,0.89123297,0.108766995,0.011051345136495676,gpt52,GPT-5.2,stripped
+central_southern_asia,Central and Southern Asia,CSA,3000,0.76114845,0.62932855,0.8805742,0.11942577,0.011489914743967758,gpt52,GPT-5.2,stripped
+east_southeast_asia,Eastern and South-eastern Asia,ESEA,3000,0.76884735,0.62133914,0.8844237,0.11557631,0.011344048803698938,gpt52,GPT-5.2,stripped
+oceania,Oceania,OCE,3000,0.765712,0.62528443,0.88285595,0.11714401,0.011416079633692473,gpt52,GPT-5.2,stripped
+latin_america_caribbean,Latin America and the Caribbean,LAC,3000,0.78084147,0.60798895,0.89042073,0.10957927,0.011100308819847327,gpt52,GPT-5.2,stripped
+europe_northern_america,Europe and Northern America,ENA,3000,0.6246609,0.7612299,0.8123305,0.18766956,0.01389809242421739,gpt52,GPT-5.2,stripped
+neutral,Neutral,NEU,3000,0.91909546,0.3706752,0.95954776,0.040452264,0.006767572397835577,gemini25flash,Gemini 2.5 Flash,raw
+sub_saharan_africa,Sub-Saharan Africa,SSA,3000,0.9404477,0.320784,0.9702238,0.029776175,0.005856687809310649,gemini25flash,Gemini 2.5 Flash,raw
+northern_africa_western_asia,Northern Africa and Western Asia,NAWA,3000,0.9021061,0.41333717,0.9510531,0.048946936,0.007546469748488123,gemini25flash,Gemini 2.5 Flash,raw
+central_southern_asia,Central and Southern Asia,CSA,3000,0.91726375,0.37893692,0.95863193,0.041368105,0.006918409902921751,gemini25flash,Gemini 2.5 Flash,raw
+east_southeast_asia,Eastern and South-eastern Asia,ESEA,3000,0.891898,0.43878627,0.94594896,0.05405102,0.008011104567847094,gemini25flash,Gemini 2.5 Flash,raw
+oceania,Oceania,OCE,3000,0.894298,0.431929,0.947149,0.052851006,0.007885908410251104,gemini25flash,Gemini 2.5 Flash,raw
+latin_america_caribbean,Latin America and the Caribbean,LAC,3000,0.91521823,0.3883984,0.9576091,0.042390853,0.007091152328268078,gemini25flash,Gemini 2.5 Flash,raw
+europe_northern_america,Europe and Northern America,ENA,3000,0.9042898,0.40731245,0.95214486,0.047855113,0.007436473944918355,gemini25flash,Gemini 2.5 Flash,raw
+neutral,Neutral,NEU,3000,0.92121655,0.3667162,0.9606083,0.039391715,0.00669529127564373,gemini25flash,Gemini 2.5 Flash,stripped
+sub_saharan_africa,Sub-Saharan Africa,SSA,3000,0.9394927,0.32488143,0.96974635,0.030253662,0.00593149633859198,gemini25flash,Gemini 2.5 Flash,stripped
+northern_africa_western_asia,Northern Africa and Western Asia,NAWA,3000,0.90219134,0.41607103,0.95109564,0.048904352,0.007596382909852938,gemini25flash,Gemini 2.5 Flash,stripped
+central_southern_asia,Central and Southern Asia,CSA,3000,0.9169279,0.3825456,0.95846397,0.041536056,0.00698429497121976,gemini25flash,Gemini 2.5 Flash,stripped
+east_southeast_asia,Eastern and South-eastern Asia,ESEA,3000,0.89079607,0.4396071,0.94539803,0.05460196,0.008026091085277801,gemini25flash,Gemini 2.5 Flash,stripped
+oceania,Oceania,OCE,3000,0.89211726,0.43666795,0.9460587,0.053941365,0.007972429526186518,gemini25flash,Gemini 2.5 Flash,stripped
+latin_america_caribbean,Latin America and the Caribbean,LAC,3000,0.9149016,0.38851333,0.95745087,0.04254919,0.007093250429826108,gemini25flash,Gemini 2.5 Flash,stripped
+europe_northern_america,Europe and Northern America,ENA,3000,0.90498066,0.40691814,0.9524903,0.047509674,0.007429274779536019,gemini25flash,Gemini 2.5 Flash,stripped
+neutral,Neutral,NEU,3000,0.9579753,0.2681993,0.9789877,0.021012321,0.004896626789065503,claude_sonnet4,Claude Sonnet 4,raw
+sub_saharan_africa,Sub-Saharan Africa,SSA,3000,0.94584644,0.31353047,0.97292316,0.027076792,0.005724257118956473,claude_sonnet4,Claude Sonnet 4,raw
+northern_africa_western_asia,Northern Africa and Western Asia,NAWA,3000,0.9820333,0.17138721,0.9910167,0.008983341,0.0031290880417446177,claude_sonnet4,Claude Sonnet 4,raw
+central_southern_asia,Central and Southern Asia,CSA,3000,0.9846987,0.15713315,0.9923494,0.007650616,0.0028688456403220836,claude_sonnet4,Claude Sonnet 4,raw
+east_southeast_asia,Eastern and South-eastern Asia,ESEA,3000,0.94296414,0.32146975,0.9714821,0.028517932,0.005869207860361028,claude_sonnet4,Claude Sonnet 4,raw
+oceania,Oceania,OCE,3000,0.7463308,0.6553558,0.8731654,0.1268346,0.011965105364733828,claude_sonnet4,Claude Sonnet 4,raw
+latin_america_caribbean,Latin America and the Caribbean,LAC,3000,0.86431485,0.4935723,0.93215746,0.06784256,0.009011355985779557,claude_sonnet4,Claude Sonnet 4,raw
+europe_northern_america,Europe and Northern America,ENA,3000,0.94628245,0.3049987,0.97314125,0.026858749,0.00556848885756354,claude_sonnet4,Claude Sonnet 4,raw
+neutral,Neutral,NEU,3000,0.95686656,0.27195457,0.97843325,0.021566719,0.004965188351545035,claude_sonnet4,Claude Sonnet 4,stripped
+sub_saharan_africa,Sub-Saharan Africa,SSA,3000,0.9445368,0.31757155,0.9722684,0.027731588,0.005798036729657349,claude_sonnet4,Claude Sonnet 4,stripped
+northern_africa_western_asia,Northern Africa and Western Asia,NAWA,3000,0.9813056,0.17553496,0.99065286,0.0093472,0.0032048153066277984,claude_sonnet4,Claude Sonnet 4,stripped
+central_southern_asia,Central and Southern Asia,CSA,3000,0.98668057,0.14305426,0.99334025,0.0066597234,0.002611801537903206,claude_sonnet4,Claude Sonnet 4,stripped
+east_southeast_asia,Eastern and South-eastern Asia,ESEA,3000,0.94329685,0.32104152,0.97164845,0.02835157,0.005861389493844605,claude_sonnet4,Claude Sonnet 4,stripped
+oceania,Oceania,OCE,3000,0.744773,0.6576429,0.87238646,0.12761354,0.012006861721001023,claude_sonnet4,Claude Sonnet 4,stripped
+latin_america_caribbean,Latin America and the Caribbean,LAC,3000,0.8671617,0.48830652,0.9335808,0.06641916,0.008915216575953767,claude_sonnet4,Claude Sonnet 4,stripped
+europe_northern_america,Europe and Northern America,ENA,3000,0.94578946,0.30684057,0.9728948,0.02710525,0.005602116702633795,claude_sonnet4,Claude Sonnet 4,stripped
